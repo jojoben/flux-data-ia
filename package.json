@@ -5,9 +5,9 @@
   "type": "module",
   "description": "Veille quotidienne automatisée Data & IA : news + roadmaps éditeurs, publiées sur un site statique.",
   "scripts": {
-    "build": "node scripts/build.js",
-    "fetch:news": "node scripts/fetch-news.js",
-    "fetch:roadmaps": "node scripts/fetch-roadmaps.js"
+    "node scripts/build.js": "node scripts/build.js",
+    "node scripts/fetch-news.js": "node scripts/node fetch-news.js",
+    "node scripts/fetch-roadmaps.js": "node scripts/node fetch-roadmaps.js"
   },
   "dependencies": {
     "rss-parser": "^3.13.0"
