@@ -110,8 +110,8 @@ function renderRoadmaps(vendors) {
 async function init() {
   try {
     const [newsData, roadmapData] = await Promise.all([
-      loadJSON("data/news.json"),
-      loadJSON("data/roadmaps.json")
+      loadJSON("news.json"), 
+      loadJSON("roadmaps.json")
     ]);
 
     const news = newsData.items || [];
