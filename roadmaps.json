@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-08-16T19:15:16.854Z",
+  "vendors": [
+    {
+      "vendor": "OpenAI",
+      "items": [],
+      "sources": [
+        {
+          "name": "OpenAI News (produits & modèles)",
+          "ok": false,
+          "error": "Status code 403"
+        }
+      ]
+    },
+    {
+      "vendor": "Google DeepMind",
+      "items": [],
+      "sources": [
+        {
+          "name": "Google DeepMind Blog",
+          "ok": false,
+          "error": "Status code 403"
+        }
+      ]
+    },
+    {
+      "vendor": "Microsoft",
+      "items": [],
+      "sources": [
+        {
+          "name": "Microsoft AI Blog",
+          "ok": false,
+          "error": "Status code 403"
+        }
+      ]
+    },
+    {
+      "vendor": "GitHub",
+      "items": [],
+      "sources": [
+        {
+          "name": "GitHub Changelog (Copilot, Actions, etc.)",
+          "ok": false,
+          "error": "Status code 403"
+        }
+      ]
+    },
+    {
+      "vendor": "Hugging Face",
+      "items": [],
+      "sources": [
+        {
+          "name": "Hugging Face Blog",
+          "ok": false,
+          "error": "Status code 403"
+        }
+      ]
+    },
+    {
+      "vendor": "NVIDIA",
+      "items": [],
+      "sources": [
+        {
+          "name": "NVIDIA Deep Learning Blog",
+          "ok": false,
+          "error": "Status code 403"
+        }
+      ]
+    }
+  ]
+}
