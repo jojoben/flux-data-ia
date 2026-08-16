@@ -16,8 +16,7 @@ import { fetchAllRoadmaps } from "./fetch-roadmaps.js";
 import { summarizeNews, summarizeRoadmaps } from "./summarize.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const DATA_DIR = path.join(__dirname, "..", "site", "data");
-
+const DATA_DIR = __dirname;
 async function main() {
   console.error("→ Récupération des news...");
   const rawNews = await fetchAllNews();
