@@ -1,0 +1,69 @@
+name: Mise à jour quotidienne du site
+
+on:
+  schedule:
+    - cron: "0 5 * * *" # 06:00 Paris ≈ 05:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10 # sécurité : empêche un run de rester bloqué indéfiniment
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Installer les dépendances
+        run: npm install
+
+      - name: Générer les données (news + roadmaps)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: npm run build
+
+      - name: Committer les données mises à jour
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json roadmaps.json
+          git diff --staged --quiet || git commit -m "chore: mise à jour quotidienne des données"
+          git push
+
+  deploy:
+    needs: build-data
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Récupérer le dépôt (avec les derniers commits)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Préparer les Pages
+        uses: actions/configure-pages@v5
+
+      - name: Empaqueter le site statique
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+
+      - name: Déployer sur GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
