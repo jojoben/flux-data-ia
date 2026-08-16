@@ -39,7 +39,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add site/data/news.json site/data/roadmaps.json
+          git add news.json roadmaps
           git diff --staged --quiet || git commit -m "chore: mise à jour quotidienne des données"
           git push
 
@@ -61,7 +61,7 @@ jobs:
       - name: Empaqueter le site statique
         uses: actions/upload-pages-artifact@v3
         with:
-          path: "site"
+          path: "."
 
       - name: Déployer sur GitHub Pages
         id: deployment
