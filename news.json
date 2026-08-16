@@ -1,4 +1,85 @@
 {
-  "generatedAt": "2026-08-16T19:15:16.854Z",
-  "items": []
+  "generatedAt": "2026-08-16T19:37:47.994Z",
+  "items": [
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "publishedAt": "2026-08-16T16:53:51.000Z",
+      "rawSummary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "summary_fr": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "publishedAt": "2026-08-16T14:56:40.000Z",
+      "rawSummary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt-in, rather than opt-out,  and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically i",
+      "summary_fr": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt-in, rather than opt-out,  and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinstein, Product and Engineering manager at OpenAI, said on X that Computer History will automatically i",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "publishedAt": "2026-08-16T12:00:00.000Z",
+      "rawSummary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nIt all started in July, when one of OpenAI's autonomous AI agents went rogue during a cybersecurity test. The agent escaped its isolated testing environment, accessed the internet, and hacked another company, Hugging Face. A few years ago, that might have sounded like science fiction. But, broadly speaking, that's exactly what happened, and the inciden",
+      "summary_fr": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nIt all started in July, when one of OpenAI's autonomous AI agents went rogue during a cybersecurity test. The agent escaped its isolated testing environment, accessed the internet, and hacked another company, Hugging Face. A few years ago, that might have sounded like science fiction. But, broadly speaking, that's exactly what happened, and the inciden",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "publishedAt": "2026-08-15T21:29:19.000Z",
+      "rawSummary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "summary_fr": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "publishedAt": "2026-08-15T20:45:00.000Z",
+      "rawSummary": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump ",
+      "summary_fr": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bores Me works on a sort of token system. Requests cost credits, and to earn credits you have to jump ",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "publishedAt": "2026-08-15T18:58:39.000Z",
+      "rawSummary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "summary_fr": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "publishedAt": "2026-08-15T16:30:00.000Z",
+      "rawSummary": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "summary_fr": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "category": "Autre"
+    },
+    {
+      "source": "GitHub Changelog",
+      "tag": "Produit",
+      "title": "Multiple redirect URIs and token refresh for OAuth apps",
+      "link": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+      "publishedAt": "2026-08-14T22:43:44.000Z",
+      "rawSummary": "We’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development: OAuth apps can opt in to expiring access tokens and refresh tokens.…\nThe post Multiple redirect URIs and token refresh for OAuth apps appeared first on The GitHub Blog.",
+      "summary_fr": "We’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development: OAuth apps can opt in to expiring access tokens and refresh tokens.…\nThe post Multiple redirect URIs and token refresh for OAuth apps appeared first on The GitHub Blog.",
+      "category": "Autre"
+    }
+  ]
 }

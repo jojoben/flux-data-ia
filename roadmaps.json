@@ -1,25 +1,115 @@
 {
-  "generatedAt": "2026-08-16T19:15:16.854Z",
+  "generatedAt": "2026-08-16T19:37:47.995Z",
   "vendors": [
     {
       "vendor": "OpenAI",
-      "items": [],
+      "items": [
+        {
+          "title": "The builder’s guide to GPT‑5.6",
+          "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+          "publishedAt": "2026-08-13T11:00:00.000Z",
+          "rawSummary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+          "summary_fr": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+          "link": "https://openai.com/index/previewing-ultrafast",
+          "publishedAt": "2026-08-13T10:00:00.000Z",
+          "rawSummary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+          "summary_fr": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+          "link": "https://openai.com/index/dali-rajic-chief-revenue-officer",
+          "publishedAt": "2026-08-13T09:00:00.000Z",
+          "rawSummary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+          "summary_fr": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "From assistance to execution: How enterprises put AI to work",
+          "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
+          "publishedAt": "2026-08-12T06:00:00.000Z",
+          "rawSummary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+          "summary_fr": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "How RingCentral builds AI-native work from engineering to ops",
+          "link": "https://openai.com/index/ringcentral",
+          "publishedAt": "2026-08-12T00:00:00.000Z",
+          "rawSummary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+          "summary_fr": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Testing ads in ChatGPT",
+          "link": "https://openai.com/index/testing-ads-in-chatgpt",
+          "publishedAt": "2026-08-11T10:00:00.000Z",
+          "rawSummary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+          "summary_fr": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Daybreak models are now available on AWS",
+          "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+          "publishedAt": "2026-08-11T10:00:00.000Z",
+          "rawSummary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+          "summary_fr": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+          "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
+          "publishedAt": "2026-08-10T14:00:00.000Z",
+          "rawSummary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+          "summary_fr": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "OpenAI News (produits & modèles)",
-          "ok": false,
-          "error": "Status code 403"
+          "ok": true,
+          "error": null
         }
       ]
     },
     {
       "vendor": "Google DeepMind",
-      "items": [],
+      "items": [
+        {
+          "title": "Introducing Gemini 3.7 Flash",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+          "publishedAt": "2026-08-13T17:04:18.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Putting sign language AI into users’ hands",
+          "link": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+          "publishedAt": "2026-08-12T14:01:59.000Z",
+          "rawSummary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+          "summary_fr": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "publishedAt": "2026-08-06T15:06:15.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": false,
-          "error": "Status code 403"
+          "ok": true,
+          "error": null
         }
       ]
     },
@@ -30,29 +120,159 @@
         {
           "name": "Microsoft AI Blog",
           "ok": false,
-          "error": "Status code 403"
+          "error": "Status code 410"
         }
       ]
     },
     {
       "vendor": "GitHub",
-      "items": [],
+      "items": [
+        {
+          "title": "Multiple redirect URIs and token refresh for OAuth apps",
+          "link": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+          "publishedAt": "2026-08-14T22:43:44.000Z",
+          "rawSummary": "We’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development: OAuth apps can opt in to expiring access tokens and refresh tokens.…\nThe post Multiple redirect URIs and token refresh for OAuth apps appeared first on The GitHub Blog.",
+          "summary_fr": "We’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development: OAuth apps can opt in to expiring access tokens and refresh tokens.…\nThe post Multiple redirect URIs and token refresh for OAuth apps appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Grok 4.6 is now available in GitHub Copilot",
+          "link": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
+          "publishedAt": "2026-08-14T16:17:46.000Z",
+          "rawSummary": "Grok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows. In our internal testing, Grok 4.6 showed…\nThe post Grok 4.6 is now available in GitHub Copilot appeared first on The GitHub Blog.",
+          "summary_fr": "Grok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows. In our internal testing, Grok 4.6 showed…\nThe post Grok 4.6 is now available in GitHub Copilot appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Copilot weekly releases — August 10",
+          "link": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
+          "publishedAt": "2026-08-14T03:15:56.000Z",
+          "rawSummary": "From new models and portable plugins to smoother agent workflows, this week’s updates make GitHub Copilot more flexible across editors, the command line, and the Copilot app. GitHub Copilot, general…\nThe post GitHub Copilot weekly releases — August 10 appeared first on The GitHub Blog.",
+          "summary_fr": "From new models and portable plugins to smoother agent workflows, this week’s updates make GitHub Copilot more flexible across editors, the command line, and the Copilot app. GitHub Copilot, general…\nThe post GitHub Copilot weekly releases — August 10 appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "License data quality improvements",
+          "link": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
+          "publishedAt": "2026-08-13T19:14:12.000Z",
+          "rawSummary": "GitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown…\nThe post License data quality improvements appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown…\nThe post License data quality improvements appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Block users from comments in personal repositories",
+          "link": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
+          "publishedAt": "2026-08-13T19:02:46.000Z",
+          "rawSummary": "You can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts. To block or unblock a user: Open the…\nThe post Block users from comments in personal repositories appeared first on The GitHub Blog.",
+          "summary_fr": "You can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts. To block or unblock a user: Open the…\nThe post Block users from comments in personal repositories appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini 3.7 Flash is now available in GitHub Copilot",
+          "link": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
+          "publishedAt": "2026-08-13T14:00:53.000Z",
+          "rawSummary": "Gemini 3.7 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. From our early testing, the model has made improvements in web and app development and agentic…\nThe post Gemini 3.7 Flash is now available in GitHub Copilot appeared first on The GitHub Blog.",
+          "summary_fr": "Gemini 3.7 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. From our early testing, the model has made improvements in web and app development and agentic…\nThe post Gemini 3.7 Flash is now available in GitHub Copilot appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "link": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "publishedAt": "2026-08-12T18:39:11.000Z",
+          "rawSummary": "You can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel.…\nThe post Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app appeared first on The GitHub Blog.",
+          "summary_fr": "You can now build a plugin once and use it across all compatible agent clients. We published Agent Plugins 1.0 on August 6 with AWS, Anysphere, Microsoft, OpenAI, and Vercel.…\nThe post Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Rule insights for organizations in public preview",
+          "link": "https://github.blog/changelog/2026-08-12-rule-insights-for-organizations-in-public-preview",
+          "publishedAt": "2026-08-12T18:30:28.000Z",
+          "rawSummary": "The rule insights dashboard is now in public preview at the organization level. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository rulesets, so…\nThe post Rule insights for organizations in public preview appeared first on The GitHub Blog.",
+          "summary_fr": "The rule insights dashboard is now in public preview at the organization level. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository rulesets, so…\nThe post Rule insights for organizations in public preview appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "GitHub Changelog (Copilot, Actions, etc.)",
-          "ok": false,
-          "error": "Status code 403"
+          "ok": true,
+          "error": null
         }
       ]
     },
     {
       "vendor": "Hugging Face",
-      "items": [],
+      "items": [
+        {
+          "title": "State of Open Models: Summer 2026 Observations",
+          "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+          "publishedAt": "2026-08-14T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+          "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+          "publishedAt": "2026-08-13T17:16:04.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "What We Learned by Reproducing 2,200 papers from ICML",
+          "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
+          "publishedAt": "2026-08-13T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "publishedAt": "2026-08-12T16:14:36.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+          "publishedAt": "2026-08-12T14:00:51.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+          "publishedAt": "2026-08-11T13:37:10.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+          "link": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+          "publishedAt": "2026-08-10T16:25:36.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+          "link": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+          "publishedAt": "2026-08-10T10:05:36.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "Hugging Face Blog",
-          "ok": false,
-          "error": "Status code 403"
+          "ok": true,
+          "error": null
         }
       ]
     },
@@ -62,8 +282,8 @@
       "sources": [
         {
           "name": "NVIDIA Deep Learning Blog",
-          "ok": false,
-          "error": "Status code 403"
+          "ok": true,
+          "error": null
         }
       ]
     }
