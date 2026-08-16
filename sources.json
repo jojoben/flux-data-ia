@@ -1,0 +1,26 @@
+{
+  "news": [
+    { "name": "OpenAI News",        "url": "https://openai.com/news/rss.xml",                        "tag": "Éditeur" },
+    { "name": "Google DeepMind",    "url": "https://deepmind.google/blog/feed/basic/",                "tag": "Éditeur" },
+    { "name": "Hugging Face",       "url": "https://huggingface.co/blog/feed.xml",                    "tag": "Éditeur" },
+    { "name": "NVIDIA (Deep Learning)", "url": "https://blogs.nvidia.com/blog/category/deep-learning/feed/", "tag": "Éditeur" },
+    { "name": "AWS Machine Learning", "url": "https://aws.amazon.com/blogs/machine-learning/feed/",   "tag": "Éditeur" },
+    { "name": "Microsoft AI",       "url": "https://blogs.microsoft.com/ai/feed/",                    "tag": "Éditeur" },
+    { "name": "GitHub Changelog",   "url": "https://github.blog/changelog/feed/",                     "tag": "Produit" },
+    { "name": "TechCrunch AI",      "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "tag": "Presse" },
+    { "name": "VentureBeat AI",     "url": "https://venturebeat.com/category/ai/feed/",                "tag": "Presse" },
+    { "name": "The Verge AI",       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "tag": "Presse" },
+    { "name": "Ars Technica AI",    "url": "https://arstechnica.com/ai/feed/",                         "tag": "Presse" },
+    { "name": "arXiv cs.AI",        "url": "http://export.arxiv.org/rss/cs.AI",                        "tag": "Recherche" }
+  ],
+  "roadmaps": [
+    { "vendor": "OpenAI",     "name": "OpenAI News (produits & modèles)", "url": "https://openai.com/news/rss.xml" },
+    { "vendor": "Anthropic",  "name": "Anthropic News (mirroir non-officiel — à surveiller, cf. README)", "url": "https://rsshub.bestblogs.dev/anthropic/news" },
+    { "vendor": "Google Cloud", "name": "Google DeepMind Blog", "url": "https://deepmind.google/blog/feed/basic/" },
+    { "vendor": "Microsoft",  "name": "Microsoft AI Blog", "url": "https://blogs.microsoft.com/ai/feed/" },
+    { "vendor": "GitHub",     "name": "GitHub Changelog (Copilot, Actions, etc.)", "url": "https://github.blog/changelog/feed/" },
+    { "vendor": "Hugging Face", "name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml" },
+    { "vendor": "NVIDIA",     "name": "NVIDIA Deep Learning Blog", "url": "https://blogs.nvidia.com/blog/category/deep-learning/feed/" }
+  ],
+  "_notes": "Certaines URLs (notamment le mirroir Anthropic) sont non-officielles et peuvent casser sans préavis. Vérifie régulièrement scripts/sources.json et corrige/complète la liste — c'est le seul fichier à éditer pour ajouter une source."
+}
