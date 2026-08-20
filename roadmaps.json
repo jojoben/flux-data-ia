@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-19T05:33:11.024Z",
+  "generatedAt": "2026-08-20T05:33:53.555Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Offering Zero Data Retention for frontier models",
+          "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "publishedAt": "2026-08-19T19:00:00.000Z",
+          "rawSummary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+          "summary_fr": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Replit expands access to software creation with GPT-5.6 Luna",
+          "link": "https://openai.com/index/replit",
+          "publishedAt": "2026-08-19T07:00:00.000Z",
+          "rawSummary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+          "summary_fr": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "ChatGPT Ads expands across Europe",
+          "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "publishedAt": "2026-08-18T22:00:00.000Z",
+          "rawSummary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+          "summary_fr": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+          "diff_type": "updated"
+        },
         {
           "title": "Strengthening democratic oversight in national security",
           "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
@@ -37,35 +61,11 @@
           "diff_type": "updated"
         },
         {
-          "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-          "link": "https://openai.com/index/asana",
-          "publishedAt": "2026-08-18T07:00:00.000Z",
-          "rawSummary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-          "summary_fr": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
-          "diff_type": "updated"
-        },
-        {
           "title": "How NVIDIA scales expertise with ChatGPT Work",
           "link": "https://openai.com/index/nvidia/chatgpt-work",
           "publishedAt": "2026-08-18T00:00:00.000Z",
           "rawSummary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
           "summary_fr": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "The Defender’s Window",
-          "link": "https://openai.com/index/the-defenders-window",
-          "publishedAt": "2026-08-17T05:30:00.000Z",
-          "rawSummary": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-          "summary_fr": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "OpenAI joins PORTS-Pike project",
-          "link": "https://openai.com/index/openai-joins-ports-pike-project",
-          "publishedAt": "2026-08-17T05:00:00.000Z",
-          "rawSummary": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
-          "summary_fr": "OpenAI joins PORTS-Pike project, expanding community investment and supporting thousands of Southern Ohio jobs",
           "diff_type": "updated"
         }
       ],
@@ -128,6 +128,22 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "link": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "publishedAt": "2026-08-19T21:09:30.000Z",
+          "rawSummary": "CodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning, which helps…\nThe post CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling appeared first on The GitHub Blog.",
+          "summary_fr": "CodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning, which helps…\nThe post CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Track organization code quality trends",
+          "link": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
+          "publishedAt": "2026-08-19T12:56:57.000Z",
+          "rawSummary": "The organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see…\nThe post Track organization code quality trends appeared first on The GitHub Blog.",
+          "summary_fr": "The organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see…\nThe post Track organization code quality trends appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Enterprise managed settings in GitHub Copilot for JetBrains",
           "link": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
           "publishedAt": "2026-08-18T23:33:07.000Z",
@@ -174,22 +190,6 @@
           "rawSummary": "GitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown…\nThe post License data quality improvements appeared first on The GitHub Blog.",
           "summary_fr": "GitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown…\nThe post License data quality improvements appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Block users from comments in personal repositories",
-          "link": "https://github.blog/changelog/2026-08-13-block-users-from-comments-in-personal-repositories",
-          "publishedAt": "2026-08-13T19:02:46.000Z",
-          "rawSummary": "You can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts. To block or unblock a user: Open the…\nThe post Block users from comments in personal repositories appeared first on The GitHub Blog.",
-          "summary_fr": "You can now block or unblock users directly from comments on pull requests and issues in repositories owned by personal GitHub accounts. To block or unblock a user: Open the…\nThe post Block users from comments in personal repositories appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Gemini 3.7 Flash is now available in GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
-          "publishedAt": "2026-08-13T14:00:53.000Z",
-          "rawSummary": "Gemini 3.7 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. From our early testing, the model has made improvements in web and app development and agentic…\nThe post Gemini 3.7 Flash is now available in GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "Gemini 3.7 Flash, Google’s latest Flash model, is now rolling out in GitHub Copilot. From our early testing, the model has made improvements in web and app development and agentic…\nThe post Gemini 3.7 Flash is now available in GitHub Copilot appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -203,6 +203,14 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+          "link": "https://huggingface.co/blog/LiquidAI/qad",
+          "publishedAt": "2026-08-19T13:48:49.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "How Much Memory Does Your Agent Actually Need?",
           "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
@@ -255,14 +263,6 @@
           "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
           "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
           "publishedAt": "2026-08-12T16:14:36.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "publishedAt": "2026-08-12T14:00:51.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
