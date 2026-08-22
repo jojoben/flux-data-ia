@@ -1,9 +1,25 @@
 {
-  "generatedAt": "2026-08-20T05:33:53.555Z",
+  "generatedAt": "2026-08-22T05:30:32.766Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Introducing AI Futures",
+          "link": "https://openai.com/index/introducing-ai-futures",
+          "publishedAt": "2026-08-20T07:00:00.000Z",
+          "rawSummary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+          "summary_fr": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+          "link": "https://openai.com/index/stampli",
+          "publishedAt": "2026-08-20T00:00:00.000Z",
+          "rawSummary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+          "summary_fr": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+          "diff_type": "updated"
+        },
         {
           "title": "Offering Zero Data Retention for frontier models",
           "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
@@ -51,22 +67,6 @@
           "rawSummary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
           "summary_fr": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-          "link": "https://openai.com/index/chatgpt-for-teens",
-          "publishedAt": "2026-08-18T11:00:00.000Z",
-          "rawSummary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-          "summary_fr": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How NVIDIA scales expertise with ChatGPT Work",
-          "link": "https://openai.com/index/nvidia/chatgpt-work",
-          "publishedAt": "2026-08-18T00:00:00.000Z",
-          "rawSummary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-          "summary_fr": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -81,6 +81,14 @@
       "vendor": "Google DeepMind",
       "items": [
         {
+          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+          "publishedAt": "2026-08-21T11:59:48.000Z",
+          "rawSummary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+          "summary_fr": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Introducing Gemini 3.7 Flash",
           "link": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
           "publishedAt": "2026-08-13T17:04:18.000Z",
@@ -94,14 +102,6 @@
           "publishedAt": "2026-08-12T14:01:59.000Z",
           "rawSummary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
           "summary_fr": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-          "link": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-          "publishedAt": "2026-08-06T15:06:15.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
           "diff_type": "updated"
         }
       ],
@@ -120,7 +120,7 @@
         {
           "name": "Microsoft AI Blog",
           "ok": false,
-          "error": "Status code 410"
+          "error": "Status code 403"
         }
       ]
     },
@@ -128,67 +128,67 @@
       "vendor": "GitHub",
       "items": [
         {
-          "title": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "link": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "publishedAt": "2026-08-19T21:09:30.000Z",
-          "rawSummary": "CodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning, which helps…\nThe post CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling appeared first on The GitHub Blog.",
-          "summary_fr": "CodeQL 2.26.3 adds JavaScript, TypeScript, and Vue source modeling and improves the accuracy of several GitHub Actions queries. CodeQL is the static analysis engine behind GitHub code scanning, which helps…\nThe post CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling appeared first on The GitHub Blog.",
+          "title": "Better tools for managing blocked users",
+          "link": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
+          "publishedAt": "2026-08-21T17:28:36.000Z",
+          "rawSummary": "Managing blocked users is now faster and clearer for personal accounts and organizations. With this update, you can: Search by username, full name, or email. Sort and paginate long lists.…\nThe post Better tools for managing blocked users appeared first on The GitHub Blog.",
+          "summary_fr": "Managing blocked users is now faster and clearer for personal accounts and organizations. With this update, you can: Search by username, full name, or email. Sort and paginate long lists.…\nThe post Better tools for managing blocked users appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Track organization code quality trends",
-          "link": "https://github.blog/changelog/2026-08-19-track-organization-code-quality-trends",
-          "publishedAt": "2026-08-19T12:56:57.000Z",
-          "rawSummary": "The organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see…\nThe post Track organization code quality trends appeared first on The GitHub Blog.",
-          "summary_fr": "The organization-level Code Quality dashboard now includes a Trends tab that shows how code quality has changed across your repositories over time. Instead of a point-in-time snapshot, you can see…\nThe post Track organization code quality trends appeared first on The GitHub Blog.",
+          "title": "The new GitHub Copilot experience in Slack",
+          "link": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+          "publishedAt": "2026-08-21T16:07:15.000Z",
+          "rawSummary": "The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to…\nThe post The new GitHub Copilot experience in Slack appeared first on The GitHub Blog.",
+          "summary_fr": "The GitHub integration in Slack now brings the agentic capabilities of GitHub Copilot CLI and the GitHub Copilot app into Slack in public preview. You can work with @GitHub to…\nThe post The new GitHub Copilot experience in Slack appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Enterprise managed settings in GitHub Copilot for JetBrains",
-          "link": "https://github.blog/changelog/2026-08-18-enterprise-managed-settings-in-github-copilot-for-jetbrains",
-          "publishedAt": "2026-08-18T23:33:07.000Z",
-          "rawSummary": "GitHub Copilot for JetBrains now supports enterprise managed settings for plugin governance, MCP server access, OpenTelemetry, and permission modes. Administrators can now apply consistent controls for everyone on your enterprise’s…\nThe post Enterprise managed settings in GitHub Copilot for JetBrains appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub Copilot for JetBrains now supports enterprise managed settings for plugin governance, MCP server access, OpenTelemetry, and permission modes. Administrators can now apply consistent controls for everyone on your enterprise’s…\nThe post Enterprise managed settings in GitHub Copilot for JetBrains appeared first on The GitHub Blog.",
+          "title": "Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "link": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+          "publishedAt": "2026-08-21T16:03:36.000Z",
+          "rawSummary": "Turn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot…\nThe post Shared agentic work with GitHub Copilot in Microsoft Teams appeared first on The GitHub Blog.",
+          "summary_fr": "Turn a Microsoft Teams discussion into a collaborative agent session everyone can see and help direct. Mention @GitHub in a channel, thread, or direct message to start a GitHub Copilot…\nThe post Shared agentic work with GitHub Copilot in Microsoft Teams appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Credential revocation and deauthorization by token type",
-          "link": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-          "publishedAt": "2026-08-18T21:57:30.000Z",
-          "rawSummary": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives…\nThe post Credential revocation and deauthorization by token type appeared first on The GitHub Blog.",
-          "summary_fr": "Building on our self-service credential revocation experiences for incident response, you can now take token-type and user-specific actions to deauthorize and revoke user credentials during a security incident. This gives…\nThe post Credential revocation and deauthorization by token type appeared first on The GitHub Blog.",
+          "title": "Pinning saved views to the repository issues sidebar is generally available and more",
+          "link": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "publishedAt": "2026-08-20T23:29:34.000Z",
+          "rawSummary": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even…\nThe post Pinning saved views to the repository issues sidebar is generally available and more appeared first on The GitHub Blog.",
+          "summary_fr": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even…\nThe post Pinning saved views to the repository issues sidebar is generally available and more appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Multiple redirect URIs and token refresh for OAuth apps",
-          "link": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-          "publishedAt": "2026-08-14T22:43:44.000Z",
-          "rawSummary": "We’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development: OAuth apps can opt in to expiring access tokens and refresh tokens.…\nThe post Multiple redirect URIs and token refresh for OAuth apps appeared first on The GitHub Blog.",
-          "summary_fr": "We’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development: OAuth apps can opt in to expiring access tokens and refresh tokens.…\nThe post Multiple redirect URIs and token refresh for OAuth apps appeared first on The GitHub Blog.",
+          "title": "Windows 11 arm64 VS2026 image generally available",
+          "link": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "publishedAt": "2026-08-20T17:52:38.000Z",
+          "rawSummary": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe post Windows 11 arm64 VS2026 image generally available appeared first on The GitHub Blog.",
+          "summary_fr": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe post Windows 11 arm64 VS2026 image generally available appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Grok 4.6 is now available in GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-          "publishedAt": "2026-08-14T16:17:46.000Z",
-          "rawSummary": "Grok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows. In our internal testing, Grok 4.6 showed…\nThe post Grok 4.6 is now available in GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "Grok 4.6, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for agentic coding and complex multi-step workflows. In our internal testing, Grok 4.6 showed…\nThe post Grok 4.6 is now available in GitHub Copilot appeared first on The GitHub Blog.",
+          "title": "Code scanning adds a mitigated alert dismissal reason",
+          "link": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "publishedAt": "2026-08-20T15:14:31.000Z",
+          "rawSummary": "You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network…\nThe post Code scanning adds a mitigated alert dismissal reason appeared first on The GitHub Blog.",
+          "summary_fr": "You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network…\nThe post Code scanning adds a mitigated alert dismissal reason appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "GitHub Copilot weekly releases — August 10",
-          "link": "https://github.blog/changelog/2026-08-13-github-copilot-weekly-releases-august-10",
-          "publishedAt": "2026-08-14T03:15:56.000Z",
-          "rawSummary": "From new models and portable plugins to smoother agent workflows, this week’s updates make GitHub Copilot more flexible across editors, the command line, and the Copilot app. GitHub Copilot, general…\nThe post GitHub Copilot weekly releases — August 10 appeared first on The GitHub Blog.",
-          "summary_fr": "From new models and portable plugins to smoother agent workflows, this week’s updates make GitHub Copilot more flexible across editors, the command line, and the Copilot app. GitHub Copilot, general…\nThe post GitHub Copilot weekly releases — August 10 appeared first on The GitHub Blog.",
+          "title": "Separate GitHub Actions path for GitHub Code Quality",
+          "link": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "publishedAt": "2026-08-20T14:29:27.000Z",
+          "rawSummary": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart…\nThe post Separate GitHub Actions path for GitHub Code Quality appeared first on The GitHub Blog.",
+          "summary_fr": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart…\nThe post Separate GitHub Actions path for GitHub Code Quality appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "License data quality improvements",
-          "link": "https://github.blog/changelog/2026-08-13-license-data-quality-improvements",
-          "publishedAt": "2026-08-13T19:14:12.000Z",
-          "rawSummary": "GitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown…\nThe post License data quality improvements appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub now uses package registries like npmjs.org and PyPI to determine license information for software components in the dependency graph. This improves the accuracy and completeness of the licenses shown…\nThe post License data quality improvements appeared first on The GitHub Blog.",
+          "title": "Track GitHub Code Quality enablement changes in the audit log",
+          "link": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "publishedAt": "2026-08-20T14:28:41.000Z",
+          "rawSummary": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when…\nThe post Track GitHub Code Quality enablement changes in the audit log appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when…\nThe post Track GitHub Code Quality enablement changes in the audit log appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
@@ -204,9 +204,17 @@
       "vendor": "Hugging Face",
       "items": [
         {
-          "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-          "link": "https://huggingface.co/blog/LiquidAI/qad",
-          "publishedAt": "2026-08-19T13:48:49.000Z",
+          "title": "Measuring benchmark optimization in speech recognition",
+          "link": "https://huggingface.co/blog/asr-benchmark-optimization",
+          "publishedAt": "2026-08-21T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "publishedAt": "2026-08-20T16:52:57.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
@@ -255,14 +263,6 @@
           "title": "What We Learned by Reproducing 2,200 papers from ICML",
           "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
           "publishedAt": "2026-08-13T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-          "link": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-          "publishedAt": "2026-08-12T16:14:36.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
