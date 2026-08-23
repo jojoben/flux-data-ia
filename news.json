@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-08-22T05:30:32.765Z",
+  "generatedAt": "2026-08-23T05:31:57.379Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "publishedAt": "2026-08-22T21:46:56.000Z",
+      "rawSummary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "summary_fr": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "publishedAt": "2026-08-22T19:00:00.000Z",
+      "rawSummary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "summary_fr": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "publishedAt": "2026-08-22T16:30:34.000Z",
+      "rawSummary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "summary_fr": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "publishedAt": "2026-08-22T16:00:00.000Z",
+      "rawSummary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "summary_fr": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+      "category": "Autre"
+    },
     {
       "source": "TechCrunch AI",
       "tag": "Presse",
@@ -159,366 +199,6 @@
       "publishedAt": "2026-08-21T11:00:53.000Z",
       "rawSummary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
       "summary_fr": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "publishedAt": "2026-08-21T00:13:44.000Z",
-      "rawSummary": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "summary_fr": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "category": "Autre"
-    },
-    {
-      "source": "Hugging Face",
-      "tag": "Éditeur",
-      "title": "Measuring benchmark optimization in speech recognition",
-      "link": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "publishedAt": "2026-08-21T00:00:00.000Z",
-      "rawSummary": "",
-      "summary_fr": "",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Pinning saved views to the repository issues sidebar is generally available and more",
-      "link": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
-      "publishedAt": "2026-08-20T23:29:34.000Z",
-      "rawSummary": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even…\nThe post Pinning saved views to the repository issues sidebar is generally available and more appeared first on The GitHub Blog.",
-      "summary_fr": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even…\nThe post Pinning saved views to the repository issues sidebar is generally available and more appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "publishedAt": "2026-08-20T22:36:37.000Z",
-      "rawSummary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "summary_fr": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "publishedAt": "2026-08-20T22:09:51.000Z",
-      "rawSummary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "summary_fr": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "publishedAt": "2026-08-20T21:50:22.000Z",
-      "rawSummary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits.\nYou'll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you'll be able to describe your preferences. The chatbot will confirm your choices and lay out the types of content it will prioritize, but you'll also have the option",
-      "summary_fr": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak your feed and \"remember\" your preferences for future visits.\nYou'll find the option within the three-dot menu on your Discover feed. As shown in a video shared by Google, tapping the feature will open a chatbot-style interface, where you'll be able to describe your preferences. The chatbot will confirm your choices and lay out the types of content it will prioritize, but you'll also have the option",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Introducing cross-Region inference for OpenAI GPT-5.6 models on Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/introducing-cross-region-inference-for-openai-gpt-5-6-models-on-amazon-bedrock/",
-      "publishedAt": "2026-08-20T21:46:03.000Z",
-      "rawSummary": "Amazon Bedrock now offers OpenAI GPT-5.6 models (Sol, Terra, and Luna) in more than 25 AWS Regions with cross-Region inference. Learn how US geographic and global inference profiles route requests for higher throughput, how to call the models with the OpenAI and Converse APIs, and how to configure IAM, quotas, and monitoring.",
-      "summary_fr": "Amazon Bedrock now offers OpenAI GPT-5.6 models (Sol, Terra, and Luna) in more than 25 AWS Regions with cross-Region inference. Learn how US geographic and global inference profiles route requests for higher throughput, how to call the models with the OpenAI and Converse APIs, and how to configure IAM, quotas, and monitoring.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 1: Setting up your Snowflake environment",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-1-setting-up-your-snowflake-environment/",
-      "publishedAt": "2026-08-20T21:23:38.000Z",
-      "rawSummary": "Healthcare, retail, and life sciences teams store large volumes of operational data in Snowflake, but turning it into predictions is hard. In Part 1 of this series, you set up your AWS account and Snowflake environment for a no-code ML workflow with Amazon SageMaker Canvas, laying the foundation for building a fraud detection model without writing code.",
-      "summary_fr": "Healthcare, retail, and life sciences teams store large volumes of operational data in Snowflake, but turning it into predictions is hard. In Part 1 of this series, you set up your AWS account and Snowflake environment for a no-code ML workflow with Amazon SageMaker Canvas, laying the foundation for building a fraud detection model without writing code.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 2: Data preparation and model building with Amazon SageMaker Canvas",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-2-data-preparation-and-model-building-with-amazon-sagemaker-canvas/",
-      "publishedAt": "2026-08-20T21:23:29.000Z",
-      "rawSummary": "In Part 2 of this no-code ML series, you connect Amazon SageMaker Canvas to Snowflake, prepare and join transaction data with Data Wrangler visual transformations, and train an XGBoost fraud detection model. All without writing machine learning code, laying the groundwork for interactive dashboards in Part 3.",
-      "summary_fr": "In Part 2 of this no-code ML series, you connect Amazon SageMaker Canvas to Snowflake, prepare and join transaction data with Data Wrangler visual transformations, and train an XGBoost fraud detection model. All without writing machine learning code, laying the groundwork for interactive dashboards in Part 3.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Build a no-code ML workflow with Snowflake, Amazon SageMaker Canvas and Amazon Quick – Part 3: Visualizing insights with Amazon Quick Sight",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-no-code-ml-workflow-with-snowflake-amazon-sagemaker-canvas-and-amazon-quick-part-3-visualizing-insights-with-amazon-quick-sight/",
-      "publishedAt": "2026-08-20T21:23:23.000Z",
-      "rawSummary": "In Part 3 of this no-code ML series, you bring fraud detection predictions to life. Import your Amazon SageMaker Canvas predictions into Amazon Quick Sight, build interactive dashboards, use generative BI to answer questions in natural language, and publish AI-generated executive summaries for stakeholders.",
-      "summary_fr": "In Part 3 of this no-code ML series, you bring fraud detection predictions to life. Import your Amazon SageMaker Canvas predictions into Amazon Quick Sight, build interactive dashboards, use generative BI to answer questions in natural language, and publish AI-generated executive summaries for stakeholders.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "OK, can we actually cool data centers with our pee?",
-      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "publishedAt": "2026-08-20T20:53:13.000Z",
-      "rawSummary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-      "summary_fr": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "publishedAt": "2026-08-20T19:18:21.000Z",
-      "rawSummary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-      "summary_fr": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
-      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
-      "publishedAt": "2026-08-20T19:15:05.000Z",
-      "rawSummary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-      "summary_fr": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "publishedAt": "2026-08-20T18:20:35.000Z",
-      "rawSummary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "summary_fr": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Windows 11 arm64 VS2026 image generally available",
-      "link": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "publishedAt": "2026-08-20T17:52:38.000Z",
-      "rawSummary": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe post Windows 11 arm64 VS2026 image generally available appeared first on The GitHub Blog.",
-      "summary_fr": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe post Windows 11 arm64 VS2026 image generally available appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Grok keeps sending gibberish responses to users",
-      "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "publishedAt": "2026-08-20T17:32:16.000Z",
-      "rawSummary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-      "summary_fr": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "publishedAt": "2026-08-20T17:18:58.000Z",
-      "rawSummary": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "summary_fr": "ChatGPT and other AI models are now authoring and editing much of the new web.",
-      "category": "Autre"
-    },
-    {
-      "source": "Hugging Face",
-      "tag": "Éditeur",
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "publishedAt": "2026-08-20T16:52:57.000Z",
-      "rawSummary": "",
-      "summary_fr": "",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Ramp launches its own AI model router, called Router",
-      "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "publishedAt": "2026-08-20T16:46:00.000Z",
-      "rawSummary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "summary_fr": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Authoring Dogwood policies from natural language in Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/authoring-dogwood-policies-from-natural-language-in-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-08-20T16:31:28.000Z",
-      "rawSummary": "AI agents can take actions that do not match your organization's policies. Policy in Amazon Bedrock AgentCore lets teams enforce controls across agents, now including time-based constraints. This post shows how Policy Authoring turns natural-language policy documents into correct Dogwood policies, with worked examples and best practices.",
-      "summary_fr": "AI agents can take actions that do not match your organization's policies. Policy in Amazon Bedrock AgentCore lets teams enforce controls across agents, now including time-based constraints. This post shows how Policy Authoring turns natural-language policy documents into correct Dogwood policies, with worked examples and best practices.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Scaling agentic AI: Enterprise patterns without vendor lock-in",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-agentic-ai-enterprise-patterns-without-vendor-lock-in/",
-      "publishedAt": "2026-08-20T16:24:12.000Z",
-      "rawSummary": "Scaling agentic AI across an enterprise requires patterns that preserve flexibility while avoiding vendor lock-in. In this second post of our multi-agent series, we examine how ML teams operate many agentic AI systems across a multi-everything environment of frameworks, models, and providers, and the principles that let those systems scale together.",
-      "summary_fr": "Scaling agentic AI across an enterprise requires patterns that preserve flexibility while avoiding vendor lock-in. In this second post of our multi-agent series, we examine how ML teams operate many agentic AI systems across a multi-everything environment of frameworks, models, and providers, and the principles that let those systems scale together.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-08-20T16:11:18.000Z",
-      "rawSummary": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC development time from weeks to minutes.",
-      "summary_fr": "Learn how AWS Professional Services uses a multi-agent framework built on Amazon Bedrock AgentCore to automate enterprise cloud migrations end to end. Purpose-built AI agents handle discovery, infrastructure as code generation, portfolio governance, and post-migration operations, reducing IaC development time from weeks to minutes.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "publishedAt": "2026-08-20T16:07:26.000Z",
-      "rawSummary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-      "summary_fr": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "AWS vector solutions: Build agentic AI where your data lives",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aws-vector-solutions-build-agentic-ai-where-your-data-lives/",
-      "publishedAt": "2026-08-20T16:06:06.000Z",
-      "rawSummary": "AWS offers a broad portfolio of vector search built directly into the databases and storage services you already use, with no standalone vector database or data migration required. This post covers six purpose-built services, a decision framework for choosing the right engine, and customer proof points for each.",
-      "summary_fr": "AWS offers a broad portfolio of vector search built directly into the databases and storage services you already use, with no standalone vector database or data migration required. This post covers six purpose-built services, a decision framework for choosing the right engine, and customer proof points for each.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-      "publishedAt": "2026-08-20T16:00:00.000Z",
-      "rawSummary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-      "summary_fr": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "publishedAt": "2026-08-20T15:45:55.000Z",
-      "rawSummary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names.\nThroughout it all, one person has quietly amassed power: Greg Brockman. \nBrockman is currently OpenAI's president and cofounder. He's helped lead OpenAI since its inception, described as an \"engineering workhorse ",
-      "summary_fr": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced widespread scrutiny after an unreleased model hacked another AI company. As it prepares for an IPO, a steady string of executives have departed, including some of the company's biggest names.\nThroughout it all, one person has quietly amassed power: Greg Brockman. \nBrockman is currently OpenAI's president and cofounder. He's helped lead OpenAI since its inception, described as an \"engineering workhorse ",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Build intelligent security for healthcare APIs with Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-intelligent-security-for-healthcare-apis-with-amazon-bedrock/",
-      "publishedAt": "2026-08-20T15:20:03.000Z",
-      "rawSummary": "Learn how to add context-aware security monitoring to FHIR APIs using Amazon Bedrock. This post shows how to detect anomalous access patterns, classify data sensitivity automatically, and generate compliance reports in natural language, all without adding latency to clinical workflows.",
-      "summary_fr": "Learn how to add context-aware security monitoring to FHIR APIs using Amazon Bedrock. This post shows how to detect anomalous access patterns, classify data sensitivity automatically, and generate compliance reports in natural language, all without adding latency to clinical workflows.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Code scanning adds a mitigated alert dismissal reason",
-      "link": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-      "publishedAt": "2026-08-20T15:14:31.000Z",
-      "rawSummary": "You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network…\nThe post Code scanning adds a mitigated alert dismissal reason appeared first on The GitHub Blog.",
-      "summary_fr": "You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network…\nThe post Code scanning adds a mitigated alert dismissal reason appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Separate GitHub Actions path for GitHub Code Quality",
-      "link": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "publishedAt": "2026-08-20T14:29:27.000Z",
-      "rawSummary": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart…\nThe post Separate GitHub Actions path for GitHub Code Quality appeared first on The GitHub Blog.",
-      "summary_fr": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart…\nThe post Separate GitHub Actions path for GitHub Code Quality appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Track GitHub Code Quality enablement changes in the audit log",
-      "link": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "publishedAt": "2026-08-20T14:28:41.000Z",
-      "rawSummary": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when…\nThe post Track GitHub Code Quality enablement changes in the audit log appeared first on The GitHub Blog.",
-      "summary_fr": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when…\nThe post Track GitHub Code Quality enablement changes in the audit log appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "Welcome to the AI crisis in math",
-      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "publishedAt": "2026-08-20T14:00:00.000Z",
-      "rawSummary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it.\nOpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. It caused a huge debate in the math community, and Rob spent some time talking to some of the most accomplished mathematicians of our time about it. \nIt’s funny that AI systems are all still pretty bad at elementary school arithmetic, but getting increasingly good at ver",
-      "summary_fr": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having about it.\nOpenAI just published a set of solutions to longstanding problems in math that went off like a bombshell in the field. It caused a huge debate in the math community, and Rob spent some time talking to some of the most accomplished mathematicians of our time about it. \nIt’s funny that AI systems are all still pretty bad at elementary school arithmetic, but getting increasingly good at ver",
-      "category": "Autre"
-    },
-    {
-      "source": "Ars Technica AI",
-      "tag": "Presse",
-      "title": "Grok exfiltrates user data when malicious instructions are encrypted",
-      "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-      "publishedAt": "2026-08-20T13:00:35.000Z",
-      "rawSummary": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "summary_fr": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "publishedAt": "2026-08-20T12:11:57.000Z",
-      "rawSummary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-      "summary_fr": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "publishedAt": "2026-08-20T12:00:00.000Z",
-      "rawSummary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \n\"With Slack Code, when you have an idea or need to build a new feature, update a web page, or fix a bug, you simply tag in a coding agent like Anthropic's Claude or Cognition's Devin, and that agent then spins up a code channel to tackle the task,\" Sl",
-      "summary_fr": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-specific code channels with dedicated user tabs, alongside features that compare coding changes and preview HTML output before the project is shipped. \n\"With Slack Code, when you have an idea or need to build a new feature, update a web page, or fix a bug, you simply tag in a coding agent like Anthropic's Claude or Cognition's Devin, and that agent then spins up a code channel to tackle the task,\" Sl",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "publishedAt": "2026-08-20T09:30:00.000Z",
-      "rawSummary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-      "summary_fr": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-      "category": "Autre"
-    },
-    {
-      "source": "OpenAI News",
-      "tag": "Éditeur",
-      "title": "Introducing AI Futures",
-      "link": "https://openai.com/index/introducing-ai-futures",
-      "publishedAt": "2026-08-20T07:00:00.000Z",
-      "rawSummary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-      "summary_fr": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
       "category": "Autre"
     }
   ]
