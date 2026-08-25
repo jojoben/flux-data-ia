@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-08-24T05:40:22.302Z",
+  "generatedAt": "2026-08-25T05:34:24.906Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "link": "https://openai.com/index/gpt-5-6-in-kiro",
+          "publishedAt": "2026-08-24T12:00:00.000Z",
+          "rawSummary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+          "summary_fr": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+          "diff_type": "updated"
+        },
         {
           "title": "Introducing AI Futures",
           "link": "https://openai.com/index/introducing-ai-futures",
@@ -59,14 +67,6 @@
           "rawSummary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
           "summary_fr": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Pacing model development in an era of cyber-critical capabilities",
-          "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
-          "publishedAt": "2026-08-18T11:00:00.000Z",
-          "rawSummary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-          "summary_fr": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -120,7 +120,7 @@
         {
           "name": "Microsoft AI Blog",
           "ok": false,
-          "error": "Status code 403"
+          "error": "Status code 410"
         }
       ]
     },
@@ -204,6 +204,14 @@
       "vendor": "Hugging Face",
       "items": [
         {
+          "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+          "link": "https://huggingface.co/blog/gradio-workflow-guide",
+          "publishedAt": "2026-08-25T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
           "title": "Measuring benchmark optimization in speech recognition",
           "link": "https://huggingface.co/blog/asr-benchmark-optimization",
           "publishedAt": "2026-08-21T00:00:00.000Z",
@@ -255,14 +263,6 @@
           "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
           "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
           "publishedAt": "2026-08-13T17:16:04.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "What We Learned by Reproducing 2,200 papers from ICML",
-          "link": "https://huggingface.co/blog/icml-2026-open-reproductions",
-          "publishedAt": "2026-08-13T00:00:00.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
