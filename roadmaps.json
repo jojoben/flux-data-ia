@@ -1,9 +1,41 @@
 {
-  "generatedAt": "2026-08-25T05:34:24.906Z",
+  "generatedAt": "2026-08-26T05:36:55.068Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "The full stack behind abundant intelligence",
+          "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+          "publishedAt": "2026-08-25T07:05:00.000Z",
+          "rawSummary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+          "summary_fr": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+          "link": "https://openai.com/index/jalapeno-first-results",
+          "publishedAt": "2026-08-25T07:00:00.000Z",
+          "rawSummary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+          "summary_fr": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Disrupting a new covert influence campaign from Russia",
+          "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+          "publishedAt": "2026-08-25T00:00:00.000Z",
+          "rawSummary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+          "summary_fr": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+          "link": "https://openai.com/index/introducing-admin-plugin",
+          "publishedAt": "2026-08-25T00:00:00.000Z",
+          "rawSummary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+          "summary_fr": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+          "diff_type": "updated"
+        },
         {
           "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
           "link": "https://openai.com/index/gpt-5-6-in-kiro",
@@ -34,38 +66,6 @@
           "publishedAt": "2026-08-19T19:00:00.000Z",
           "rawSummary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
           "summary_fr": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Replit expands access to software creation with GPT-5.6 Luna",
-          "link": "https://openai.com/index/replit",
-          "publishedAt": "2026-08-19T07:00:00.000Z",
-          "rawSummary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-          "summary_fr": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "ChatGPT Ads expands across Europe",
-          "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-          "publishedAt": "2026-08-18T22:00:00.000Z",
-          "rawSummary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-          "summary_fr": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Strengthening democratic oversight in national security",
-          "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-          "publishedAt": "2026-08-18T19:00:00.000Z",
-          "rawSummary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-          "summary_fr": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Partnering with CodeAI to prepare the first AI generation",
-          "link": "https://openai.com/index/partnering-with-codeai",
-          "publishedAt": "2026-08-18T11:00:00.000Z",
-          "rawSummary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
-          "summary_fr": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
           "diff_type": "updated"
         }
       ],
@@ -128,6 +128,38 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "Rule insights dashboard generally available",
+          "link": "https://github.blog/changelog/2026-08-25-rule-insights-dashboard-generally-available",
+          "publishedAt": "2026-08-25T20:05:35.000Z",
+          "rawSummary": "The rule insights dashboard is now generally available at both the repository and organization levels. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository…\nThe post Rule insights dashboard generally available appeared first on The GitHub Blog.",
+          "summary_fr": "The rule insights dashboard is now generally available at both the repository and organization levels. You get a visual, high-level view of how GitHub evaluates and enforces your GitHub repository…\nThe post Rule insights dashboard generally available appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Copilot app Customize tab is generally available",
+          "link": "https://github.blog/changelog/2026-08-25-github-copilot-app-customize-tab-is-generally-available",
+          "publishedAt": "2026-08-25T20:05:26.000Z",
+          "rawSummary": "GitHub Copilot is more useful when it works with the tools, knowledge, and workflows your team already relies on. The new Customize tab in the GitHub Copilot app brings MCP…\nThe post GitHub Copilot app Customize tab is generally available appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Copilot is more useful when it works with the tools, knowledge, and workflows your team already relies on. The new Customize tab in the GitHub Copilot app brings MCP…\nThe post GitHub Copilot app Customize tab is generally available appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Block users directly from security advisories",
+          "link": "https://github.blog/changelog/2026-08-25-block-users-directly-from-security-advisories",
+          "publishedAt": "2026-08-25T18:38:57.000Z",
+          "rawSummary": "You can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience…\nThe post Block users directly from security advisories appeared first on The GitHub Blog.",
+          "summary_fr": "You can now block a user directly from a security advisory page in public repositories owned by either an organization or a personal account. This brings the streamlined moderation experience…\nThe post Block users directly from security advisories appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Push rules in rulesets now support path exceptions",
+          "link": "https://github.blog/changelog/2026-08-25-push-rules-in-rulesets-now-support-path-exceptions",
+          "publishedAt": "2026-08-25T17:40:15.000Z",
+          "rawSummary": "You can now configure push rules more granularly by exempting specific file paths, so a rule applies everywhere in scope except the paths you choose. Path exceptions are in public…\nThe post Push rules in rulesets now support path exceptions appeared first on The GitHub Blog.",
+          "summary_fr": "You can now configure push rules more granularly by exempting specific file paths, so a rule applies everywhere in scope except the paths you choose. Path exceptions are in public…\nThe post Push rules in rulesets now support path exceptions appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Better tools for managing blocked users",
           "link": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
           "publishedAt": "2026-08-21T17:28:36.000Z",
@@ -158,38 +190,6 @@
           "rawSummary": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even…\nThe post Pinning saved views to the repository issues sidebar is generally available and more appeared first on The GitHub Blog.",
           "summary_fr": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even…\nThe post Pinning saved views to the repository issues sidebar is generally available and more appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Windows 11 arm64 VS2026 image generally available",
-          "link": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-          "publishedAt": "2026-08-20T17:52:38.000Z",
-          "rawSummary": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe post Windows 11 arm64 VS2026 image generally available appeared first on The GitHub Blog.",
-          "summary_fr": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe post Windows 11 arm64 VS2026 image generally available appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Code scanning adds a mitigated alert dismissal reason",
-          "link": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-          "publishedAt": "2026-08-20T15:14:31.000Z",
-          "rawSummary": "You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network…\nThe post Code scanning adds a mitigated alert dismissal reason appeared first on The GitHub Blog.",
-          "summary_fr": "You can now dismiss a code scanning alert with the reason Mitigated when a vulnerability remains in the code but external controls, such as a web application firewall or network…\nThe post Code scanning adds a mitigated alert dismissal reason appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Separate GitHub Actions path for GitHub Code Quality",
-          "link": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "publishedAt": "2026-08-20T14:29:27.000Z",
-          "rawSummary": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart…\nThe post Separate GitHub Actions path for GitHub Code Quality appeared first on The GitHub Blog.",
-          "summary_fr": "A dedicated workflow path for code quality CodeQL actions workflows is now generally available. Your workflow run history and your Actions usage reports now tell GitHub Code Quality runs apart…\nThe post Separate GitHub Actions path for GitHub Code Quality appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Track GitHub Code Quality enablement changes in the audit log",
-          "link": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-          "publishedAt": "2026-08-20T14:28:41.000Z",
-          "rawSummary": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when…\nThe post Track GitHub Code Quality enablement changes in the audit log appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub Code Quality now writes an audit log event whenever someone enables, disables, or changes its settings on a repository. Three new events give you that history: repo.code_quality_enabled records when…\nThe post Track GitHub Code Quality enablement changes in the audit log appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -204,9 +204,33 @@
       "vendor": "Hugging Face",
       "items": [
         {
+          "title": "Granite 4.2 LLMs: How They're Built",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+          "publishedAt": "2026-08-25T15:14:14.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
+          "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+          "publishedAt": "2026-08-25T11:39:24.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
           "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
           "link": "https://huggingface.co/blog/gradio-workflow-guide",
           "publishedAt": "2026-08-25T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
+          "link": "https://huggingface.co/blog/pwc-search",
+          "publishedAt": "2026-08-21T00:00:00.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
@@ -239,30 +263,6 @@
           "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "link": "https://huggingface.co/blog/multi-vector-encoder",
           "publishedAt": "2026-08-18T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "link": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "publishedAt": "2026-08-17T19:46:21.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "State of Open Models: Summer 2026 Observations",
-          "link": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "publishedAt": "2026-08-14T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-          "link": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-          "publishedAt": "2026-08-13T17:16:04.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
