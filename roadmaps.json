@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-08-28T17:12:15.889Z",
+  "generatedAt": "2026-08-30T10:21:28.571Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Our decision on Cursor following its acquisition by SpaceX",
+          "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+          "publishedAt": "2026-08-28T06:00:00.000Z",
+          "rawSummary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+          "summary_fr": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+          "diff_type": "updated"
+        },
         {
           "title": "Supporting Thailand’s next generation of AI startups",
           "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
@@ -29,19 +37,19 @@
           "diff_type": "updated"
         },
         {
-          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-          "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-          "publishedAt": "2026-08-26T10:00:00.000Z",
-          "rawSummary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-          "summary_fr": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-          "diff_type": "updated"
-        },
-        {
           "title": "Learning never stops: How AI makes learning continuous",
           "link": "https://openai.com/index/learning-never-stops",
           "publishedAt": "2026-08-26T10:00:00.000Z",
           "rawSummary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
           "summary_fr": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+          "publishedAt": "2026-08-26T10:00:00.000Z",
+          "rawSummary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+          "summary_fr": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
           "diff_type": "updated"
         },
         {
@@ -58,14 +66,6 @@
           "publishedAt": "2026-08-26T00:00:00.000Z",
           "rawSummary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
           "summary_fr": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "The full stack behind abundant intelligence",
-          "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-          "publishedAt": "2026-08-25T07:05:00.000Z",
-          "rawSummary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
-          "summary_fr": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
           "diff_type": "updated"
         }
       ],
@@ -136,6 +136,22 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "GitHub Copilot in Visual Studio — August update",
+          "link": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
+          "publishedAt": "2026-08-28T20:24:20.000Z",
+          "rawSummary": "August 2026 brought more control over how GitHub Copilot reasons, which models you use, how teams share specialized agents, and when you ask for a code review. Highlights Here’s what’s…\nThe post GitHub Copilot in Visual Studio — August update appeared first on The GitHub Blog.",
+          "summary_fr": "August 2026 brought more control over how GitHub Copilot reasons, which models you use, how teams share specialized agents, and when you ask for a code review. Highlights Here’s what’s…\nThe post GitHub Copilot in Visual Studio — August update appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Copilot weekly releases — August 24",
+          "link": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
+          "publishedAt": "2026-08-28T20:13:22.000Z",
+          "rawSummary": "This week’s updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE. GitHub Copilot in…\nThe post GitHub Copilot weekly releases — August 24 appeared first on The GitHub Blog.",
+          "summary_fr": "This week’s updates give you more control over how Copilot runs, from team sessions in Slack and Teams to customization across the app, CLI, and your IDE. GitHub Copilot in…\nThe post GitHub Copilot weekly releases — August 24 appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Upcoming changes to GitHub Copilot policies and billing",
           "link": "https://github.blog/changelog/2026-08-28-upcoming-changes-to-github-copilot-policies-and-billing",
           "publishedAt": "2026-08-28T11:37:19.000Z",
@@ -182,22 +198,6 @@
           "rawSummary": "You can now automatically close all open issues, discussions, and pull requests authored by a user when you block them from your personal account or organization. To use this option,…\nThe post Close all open contributions authored by a blocked user appeared first on The GitHub Blog.",
           "summary_fr": "You can now automatically close all open issues, discussions, and pull requests authored by a user when you block them from your personal account or organization. To use this option,…\nThe post Close all open contributions authored by a blocked user appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Enterprise-managed settings now support autoUpdate for plugin marketplaces",
-          "link": "https://github.blog/changelog/2026-08-26-enterprise-managed-settings-now-support-autoupdate-for-plugin-marketplaces",
-          "publishedAt": "2026-08-27T01:52:19.000Z",
-          "rawSummary": "You can now opt individual plugin marketplaces into automatic updates by setting autoUpdate: true on an extraKnownMarketplaces entry in enterprise managed settings. Supported clients automatically check the marketplace and update…\nThe post Enterprise-managed settings now support autoUpdate for plugin marketplaces appeared first on The GitHub Blog.",
-          "summary_fr": "You can now opt individual plugin marketplaces into automatic updates by setting autoUpdate: true on an extraKnownMarketplaces entry in enterprise managed settings. Supported clients automatically check the marketplace and update…\nThe post Enterprise-managed settings now support autoUpdate for plugin marketplaces appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Global model policy generally available",
-          "link": "https://github.blog/changelog/2026-08-26-global-model-policy-generally-available",
-          "publishedAt": "2026-08-26T22:08:38.000Z",
-          "rawSummary": "In July, we announced a default model policy for generally available GitHub Copilot models on Copilot Business and Copilot Enterprise plans. Starting today, we’re gradually rolling out enforcement of the…\nThe post Global model policy generally available appeared first on The GitHub Blog.",
-          "summary_fr": "In July, we announced a default model policy for generally available GitHub Copilot models on Copilot Business and Copilot Enterprise plans. Starting today, we’re gradually rolling out enforcement of the…\nThe post Global model policy generally available appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -211,6 +211,14 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+          "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+          "publishedAt": "2026-08-28T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
           "link": "https://huggingface.co/blog/train-multi-vector-encoder",
@@ -263,14 +271,6 @@
           "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
           "link": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
           "publishedAt": "2026-08-20T16:52:57.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How Much Memory Does Your Agent Actually Need?",
-          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "publishedAt": "2026-08-18T18:09:38.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
