@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-08-30T10:21:28.571Z",
+  "generatedAt": "2026-09-01T09:49:24.356Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "OpenAI supports California’s bill to advance youth AI safety",
+          "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+          "publishedAt": "2026-08-31T07:00:00.000Z",
+          "rawSummary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+          "summary_fr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Polimill builds Japan's next-generation public AI infrastructure",
+          "link": "https://openai.com/index/polimill",
+          "publishedAt": "2026-08-31T07:00:00.000Z",
+          "rawSummary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+          "summary_fr": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "A milestone in expanding access to AI",
+          "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+          "publishedAt": "2026-08-31T04:00:00.000Z",
+          "rawSummary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+          "summary_fr": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+          "diff_type": "updated"
+        },
         {
           "title": "Our decision on Cursor following its acquisition by SpaceX",
           "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
@@ -37,35 +61,11 @@
           "diff_type": "updated"
         },
         {
-          "title": "Learning never stops: How AI makes learning continuous",
-          "link": "https://openai.com/index/learning-never-stops",
-          "publishedAt": "2026-08-26T10:00:00.000Z",
-          "rawSummary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-          "summary_fr": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-          "diff_type": "updated"
-        },
-        {
           "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
           "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
           "publishedAt": "2026-08-26T10:00:00.000Z",
           "rawSummary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
           "summary_fr": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "The Hugging Face incident and the road ahead",
-          "link": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-          "publishedAt": "2026-08-26T00:00:00.000Z",
-          "rawSummary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-          "summary_fr": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How loveholidays is making everyone a builder with Codex",
-          "link": "https://openai.com/index/loveholidays",
-          "publishedAt": "2026-08-26T00:00:00.000Z",
-          "rawSummary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-          "summary_fr": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
           "diff_type": "updated"
         }
       ],
@@ -136,6 +136,14 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "GitHub Copilot in VS Code, August 2026 releases",
+          "link": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
+          "publishedAt": "2026-08-31T08:39:54.000Z",
+          "rawSummary": "This changelog covers VS Code v1.132 through v1.135, shipped throughout August 2026. These releases make it easier to organize agent sessions, review changes, and navigate long conversations. Agent Host, the…\nThe post GitHub Copilot in VS Code, August 2026 releases appeared first on The GitHub Blog.",
+          "summary_fr": "This changelog covers VS Code v1.132 through v1.135, shipped throughout August 2026. These releases make it easier to organize agent sessions, review changes, and navigate long conversations. Agent Host, the…\nThe post GitHub Copilot in VS Code, August 2026 releases appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "GitHub Copilot in Visual Studio — August update",
           "link": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
           "publishedAt": "2026-08-28T20:24:20.000Z",
@@ -189,14 +197,6 @@
           "publishedAt": "2026-08-27T21:50:39.000Z",
           "rawSummary": "Starting October 1, 2026, checks, workflow runs, and statuses will be governed by the same Actions retention setting that already controls how long artifacts and logs are kept, with a…\nThe post Actions retention will cover checks, workflow runs, and statuses appeared first on The GitHub Blog.",
           "summary_fr": "Starting October 1, 2026, checks, workflow runs, and statuses will be governed by the same Actions retention setting that already controls how long artifacts and logs are kept, with a…\nThe post Actions retention will cover checks, workflow runs, and statuses appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Close all open contributions authored by a blocked user",
-          "link": "https://github.blog/changelog/2026-08-27-close-all-open-contributions-authored-by-a-blocked-user",
-          "publishedAt": "2026-08-27T16:30:52.000Z",
-          "rawSummary": "You can now automatically close all open issues, discussions, and pull requests authored by a user when you block them from your personal account or organization. To use this option,…\nThe post Close all open contributions authored by a blocked user appeared first on The GitHub Blog.",
-          "summary_fr": "You can now automatically close all open issues, discussions, and pull requests authored by a user when you block them from your personal account or organization. To use this option,…\nThe post Close all open contributions authored by a blocked user appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
