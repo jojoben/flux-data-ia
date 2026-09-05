@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-09-03T09:31:16.521Z",
+  "generatedAt": "2026-09-05T08:52:11.911Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+          "link": "https://openai.com/index/daybreak-for-frontline-defenders",
+          "publishedAt": "2026-09-03T13:15:00.000Z",
+          "rawSummary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+          "summary_fr": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "publishedAt": "2026-09-03T12:00:00.000Z",
+          "rawSummary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "summary_fr": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+          "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
+          "publishedAt": "2026-09-03T12:00:00.000Z",
+          "rawSummary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+          "summary_fr": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GPT-6 Astra: A new generation of intelligence",
+          "link": "https://openai.com/index/gpt-6-astra",
+          "publishedAt": "2026-09-03T11:00:00.000Z",
+          "rawSummary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+          "summary_fr": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Safety overview: GPT-6 Astra",
+          "link": "https://openai.com/index/safety-overview-gpt-6-astra",
+          "publishedAt": "2026-09-03T00:00:00.000Z",
+          "rawSummary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+          "summary_fr": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+          "diff_type": "updated"
+        },
         {
           "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
           "link": "https://openai.com/index/atv-big-air-tour",
@@ -27,46 +67,6 @@
           "rawSummary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
           "summary_fr": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-          "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-          "publishedAt": "2026-09-01T12:00:00.000Z",
-          "rawSummary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-          "summary_fr": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-          "link": "https://openai.com/index/gilbert-tobin",
-          "publishedAt": "2026-09-01T01:00:00.000Z",
-          "rawSummary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-          "summary_fr": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "OpenAI supports California’s bill to advance youth AI safety",
-          "link": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-          "publishedAt": "2026-08-31T07:00:00.000Z",
-          "rawSummary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-          "summary_fr": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Polimill builds Japan's next-generation public AI infrastructure",
-          "link": "https://openai.com/index/polimill",
-          "publishedAt": "2026-08-31T07:00:00.000Z",
-          "rawSummary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-          "summary_fr": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "A milestone in expanding access to AI",
-          "link": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-          "publishedAt": "2026-08-31T04:00:00.000Z",
-          "rawSummary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-          "summary_fr": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -80,6 +80,14 @@
     {
       "vendor": "Google DeepMind",
       "items": [
+        {
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "publishedAt": "2026-09-03T15:02:08.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Proactive cyber defense for governments and enterprises",
           "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
@@ -127,14 +135,6 @@
           "rawSummary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
           "summary_fr": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
           "diff_type": "updated"
-        },
-        {
-          "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-          "link": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-          "publishedAt": "2026-08-21T11:59:48.000Z",
-          "rawSummary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-          "summary_fr": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -160,67 +160,67 @@
       "vendor": "GitHub",
       "items": [
         {
-          "title": "Enterprise-managed settings support any default model",
-          "link": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-          "publishedAt": "2026-09-02T18:51:12.000Z",
-          "rawSummary": "You can now set your preferred GitHub Copilot model as the default for new conversations through enterprise-managed settings. This lets you choose the default model that best fits your workflows.…\nThe post Enterprise-managed settings support any default model appeared first on The GitHub Blog.",
-          "summary_fr": "You can now set your preferred GitHub Copilot model as the default for new conversations through enterprise-managed settings. This lets you choose the default model that best fits your workflows.…\nThe post Enterprise-managed settings support any default model appeared first on The GitHub Blog.",
+          "title": "GitHub Copilot weekly releases — August 31",
+          "link": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
+          "publishedAt": "2026-09-04T21:05:01.000Z",
+          "rawSummary": "This week, GitHub Copilot expands model choice and content protections, while VS Code adds new ways to manage agent sessions and get pull requests merge-ready. GitHub Copilot, general Claude Fable…\nThe post GitHub Copilot weekly releases — August 31 appeared first on The GitHub Blog.",
+          "summary_fr": "This week, GitHub Copilot expands model choice and content protections, while VS Code adds new ways to manage agent sessions and get pull requests merge-ready. GitHub Copilot, general Claude Fable…\nThe post GitHub Copilot weekly releases — August 31 appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Content exclusions generally available in Copilot app and CLI",
-          "link": "https://github.blog/changelog/2026-09-02-content-exclusions-generally-available-in-copilot-app-and-cli",
-          "publishedAt": "2026-09-02T18:14:23.000Z",
-          "rawSummary": "The GitHub Copilot app and Copilot CLI now respect content exclusion policies configured by enterprise, organization, and repository administrators. Copilot won’t use excluded files as context, helping you protect sensitive…\nThe post Content exclusions generally available in Copilot app and CLI appeared first on The GitHub Blog.",
-          "summary_fr": "The GitHub Copilot app and Copilot CLI now respect content exclusion policies configured by enterprise, organization, and repository administrators. Copilot won’t use excluded files as context, helping you protect sensitive…\nThe post Content exclusions generally available in Copilot app and CLI appeared first on The GitHub Blog.",
+          "title": "GPT-6 Astra is generally available in GitHub Copilot",
+          "link": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
+          "publishedAt": "2026-09-04T18:59:51.000Z",
+          "rawSummary": "GPT-6 Astra from OpenAI is now available in GitHub Copilot. OpenAI’s latest general-purpose model, GPT-6 Astra, is designed for long-horizon, autonomous coding and agentic tasks. In our internal testing, GPT-6…\nThe post GPT-6 Astra is generally available in GitHub Copilot appeared first on The GitHub Blog.",
+          "summary_fr": "GPT-6 Astra from OpenAI is now available in GitHub Copilot. OpenAI’s latest general-purpose model, GPT-6 Astra, is designed for long-horizon, autonomous coding and agentic tasks. In our internal testing, GPT-6…\nThe post GPT-6 Astra is generally available in GitHub Copilot appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
-          "link": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
-          "publishedAt": "2026-09-01T22:24:27.000Z",
-          "rawSummary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud with Data Residency (GHEC DR), so you can move…\nThe post Enterprise Live Migrations from GHES to ghe.com generally available appeared first on The GitHub Blog.",
-          "summary_fr": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud with Data Residency (GHEC DR), so you can move…\nThe post Enterprise Live Migrations from GHES to ghe.com generally available appeared first on The GitHub Blog.",
+          "title": "New API endpoint provides privacy-safe star history data",
+          "link": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
+          "publishedAt": "2026-09-04T16:43:56.000Z",
+          "rawSummary": "Track repository star growth over time with the new star history REST API endpoint without exposing stargazer identities. Earlier this year, stargazer listing endpoints were restricted to admins and collaborators…\nThe post New API endpoint provides privacy-safe star history data appeared first on The GitHub Blog.",
+          "summary_fr": "Track repository star growth over time with the new star history REST API endpoint without exposing stargazer identities. Earlier this year, stargazer listing endpoints were restricted to admins and collaborators…\nThe post New API endpoint provides privacy-safe star history data appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Set an expiration date for individual user budgets",
-          "link": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
-          "publishedAt": "2026-09-01T20:23:13.000Z",
-          "rawSummary": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls…\nThe post Set an expiration date for individual user budgets appeared first on The GitHub Blog.",
-          "summary_fr": "You can now set an optional expiration date on an individual user budget, and GitHub removes the budget on that date. This capability is generally available. The user then falls…\nThe post Set an expiration date for individual user budgets appeared first on The GitHub Blog.",
+          "title": "Multiple trusted publishing configurations for npm",
+          "link": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
+          "publishedAt": "2026-09-03T20:34:34.000Z",
+          "rawSummary": "We’re continuing to make trusted publishing smoother for npm publishers, guided by maintainers feedback. Three updates to npm publishing are now generally available: Multiple trusted publishing configurations per package Staged…\nThe post Multiple trusted publishing configurations for npm appeared first on The GitHub Blog.",
+          "summary_fr": "We’re continuing to make trusted publishing smoother for npm publishers, guided by maintainers feedback. Three updates to npm publishing are now generally available: Multiple trusted publishing configurations per package Staged…\nThe post Multiple trusted publishing configurations for npm appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Copilot code review can now approve pull requests",
-          "link": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
-          "publishedAt": "2026-09-01T19:25:57.000Z",
-          "rawSummary": "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off…\nThe post Copilot code review can now approve pull requests appeared first on The GitHub Blog.",
-          "summary_fr": "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off…\nThe post Copilot code review can now approve pull requests appeared first on The GitHub Blog.",
+          "title": "GitHub Actions: Early September 2026 updates",
+          "link": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates",
+          "publishedAt": "2026-09-03T20:30:53.000Z",
+          "rawSummary": "GitHub Actions now includes three updates that give you clearer visibility and finer-grained control over your workflows. New REST API for runner version deprecations A new REST API returns when…\nThe post GitHub Actions: Early September 2026 updates appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Actions now includes three updates that give you clearer visibility and finer-grained control over your workflows. New REST API for runner version deprecations A new REST API returns when…\nThe post GitHub Actions: Early September 2026 updates appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Block users from discussion comments in personal repositories",
-          "link": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
-          "publishedAt": "2026-09-01T16:30:01.000Z",
-          "rawSummary": "You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking controls already available for issue and pull request…\nThe post Block users from discussion comments in personal repositories appeared first on The GitHub Blog.",
-          "summary_fr": "You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking controls already available for issue and pull request…\nThe post Block users from discussion comments in personal repositories appeared first on The GitHub Blog.",
+          "title": "Upcoming deprecation of selected GitHub Copilot models",
+          "link": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+          "publishedAt": "2026-09-03T19:40:14.000Z",
+          "rawSummary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 2nd, 2026: Model Deprecation date…\nThe post Upcoming deprecation of selected GitHub Copilot models appeared first on The GitHub Blog.",
+          "summary_fr": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 2nd, 2026: Model Deprecation date…\nThe post Upcoming deprecation of selected GitHub Copilot models appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Claude Fable 5.1 is generally available in GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot",
-          "publishedAt": "2026-09-01T14:29:23.000Z",
-          "rawSummary": "Claude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.1 is designed for long-horizon, autonomous coding and knowledge-work tasks.…\nThe post Claude Fable 5.1 is generally available in GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "Claude Fable 5.1 from Anthropic is now available in GitHub Copilot. The latest model in Anthropic’s Mythos class, Claude Fable 5.1 is designed for long-horizon, autonomous coding and knowledge-work tasks.…\nThe post Claude Fable 5.1 is generally available in GitHub Copilot appeared first on The GitHub Blog.",
+          "title": "GitHub CLI Linux package signing key expires September 5",
+          "link": "https://github.blog/changelog/2026-09-03-github-cli-linux-package-signing-key-expires-september-5",
+          "publishedAt": "2026-09-03T19:05:40.000Z",
+          "rawSummary": "The current PGP key for the GitHub CLI Linux package repositories expires on Saturday, September 5, 2026. Beginning with the first release after that date, APT and RPM repository metadata…\nThe post GitHub CLI Linux package signing key expires September 5 appeared first on The GitHub Blog.",
+          "summary_fr": "The current PGP key for the GitHub CLI Linux package repositories expires on Saturday, September 5, 2026. Beginning with the first release after that date, APT and RPM repository metadata…\nThe post GitHub CLI Linux package signing key expires September 5 appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "GitHub CLI: Media in issues, pull requests, and comments",
-          "link": "https://github.blog/changelog/2026-09-01-github-cli-media-in-issues-pull-requests-and-comments",
-          "publishedAt": "2026-09-01T12:35:59.000Z",
-          "rawSummary": "GitHub CLI now has a repeatable --attach flag that uploads a local image or video and references it inline in an issue, pull request, or comment body. This is now…\nThe post GitHub CLI: Media in issues, pull requests, and comments appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub CLI now has a repeatable --attach flag that uploads a local image or video and references it inline in an issue, pull request, or comment body. This is now…\nThe post GitHub CLI: Media in issues, pull requests, and comments appeared first on The GitHub Blog.",
+          "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
+          "link": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
+          "publishedAt": "2026-09-03T18:50:38.000Z",
+          "rawSummary": "Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.8 Flash performed strongly on complex terminal-based coding tasks and demonstrated rigorous…\nThe post Gemini 3.8 Flash is now available in GitHub Copilot appeared first on The GitHub Blog.",
+          "summary_fr": "Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.8 Flash performed strongly on complex terminal-based coding tasks and demonstrated rigorous…\nThe post Gemini 3.8 Flash is now available in GitHub Copilot appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
@@ -235,6 +235,30 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+          "link": "https://huggingface.co/blog/Hcompany/neomme",
+          "publishedAt": "2026-09-03T13:13:48.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+          "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+          "publishedAt": "2026-09-03T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Give Your Coding Agents a Memory You Own",
+          "link": "https://huggingface.co/blog/funes",
+          "publishedAt": "2026-09-03T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
           "link": "https://huggingface.co/blog/train-to-paint-with-code",
@@ -271,30 +295,6 @@
           "title": "The Open ASR Leaderboard Adds Its First Global South Language",
           "link": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
           "publishedAt": "2026-08-28T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-          "link": "https://huggingface.co/blog/train-multi-vector-encoder",
-          "publishedAt": "2026-08-26T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Granite 4.2 LLMs: How They're Built",
-          "link": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-          "publishedAt": "2026-08-25T15:14:14.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-          "link": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-          "publishedAt": "2026-08-25T11:39:24.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
