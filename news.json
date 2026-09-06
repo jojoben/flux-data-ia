@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-09-05T08:52:11.910Z",
+  "generatedAt": "2026-09-06T09:12:34.380Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "publishedAt": "2026-09-05T22:49:55.000Z",
+      "rawSummary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "summary_fr": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "publishedAt": "2026-09-05T19:35:24.000Z",
+      "rawSummary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "summary_fr": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "publishedAt": "2026-09-05T18:05:27.000Z",
+      "rawSummary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "summary_fr": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "publishedAt": "2026-09-05T11:15:55.000Z",
+      "rawSummary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site.\nRegarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\"\nOpenAI said it has typically treated cases of AI agents acting in unint",
+      "summary_fr": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site.\nRegarding the \"'wiki incident,' where our agents wrote to several internet sites,\" OpenAI wrote in a post on X on Saturday morning, \"it's past time for us to define standards for when and how we share misalignment incidents, not just misalignment properties of our models.\"\nOpenAI said it has typically treated cases of AI agents acting in unint",
+      "category": "Autre"
+    },
     {
       "source": "TechCrunch AI",
       "tag": "Presse",
@@ -279,326 +319,6 @@
       "publishedAt": "2026-09-04T09:41:44.000Z",
       "rawSummary": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nUgreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice assistant called Uliya, with the promise that everything runs locally.  \nAt the core of Ugreen's HomeA",
       "summary_fr": "Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nUgreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, on-device AI, and smart home control in one system, managed by a voice assistant called Uliya, with the promise that everything runs locally.  \nAt the core of Ugreen's HomeA",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "publishedAt": "2026-09-04T04:21:03.000Z",
-      "rawSummary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "summary_fr": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "publishedAt": "2026-09-04T00:48:42.000Z",
-      "rawSummary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "summary_fr": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Multiple trusted publishing configurations for npm",
-      "link": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
-      "publishedAt": "2026-09-03T20:34:34.000Z",
-      "rawSummary": "We’re continuing to make trusted publishing smoother for npm publishers, guided by maintainers feedback. Three updates to npm publishing are now generally available: Multiple trusted publishing configurations per package Staged…\nThe post Multiple trusted publishing configurations for npm appeared first on The GitHub Blog.",
-      "summary_fr": "We’re continuing to make trusted publishing smoother for npm publishers, guided by maintainers feedback. Three updates to npm publishing are now generally available: Multiple trusted publishing configurations per package Staged…\nThe post Multiple trusted publishing configurations for npm appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "GitHub Actions: Early September 2026 updates",
-      "link": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates",
-      "publishedAt": "2026-09-03T20:30:53.000Z",
-      "rawSummary": "GitHub Actions now includes three updates that give you clearer visibility and finer-grained control over your workflows. New REST API for runner version deprecations A new REST API returns when…\nThe post GitHub Actions: Early September 2026 updates appeared first on The GitHub Blog.",
-      "summary_fr": "GitHub Actions now includes three updates that give you clearer visibility and finer-grained control over your workflows. New REST API for runner version deprecations A new REST API returns when…\nThe post GitHub Actions: Early September 2026 updates appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Upcoming deprecation of selected GitHub Copilot models",
-      "link": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
-      "publishedAt": "2026-09-03T19:40:14.000Z",
-      "rawSummary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 2nd, 2026: Model Deprecation date…\nThe post Upcoming deprecation of selected GitHub Copilot models appeared first on The GitHub Blog.",
-      "summary_fr": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 2nd, 2026: Model Deprecation date…\nThe post Upcoming deprecation of selected GitHub Copilot models appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "publishedAt": "2026-09-03T19:36:29.000Z",
-      "rawSummary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "summary_fr": "The high-profile startup's annual revenue run rate stands at over $100 million.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "GitHub CLI Linux package signing key expires September 5",
-      "link": "https://github.blog/changelog/2026-09-03-github-cli-linux-package-signing-key-expires-september-5",
-      "publishedAt": "2026-09-03T19:05:40.000Z",
-      "rawSummary": "The current PGP key for the GitHub CLI Linux package repositories expires on Saturday, September 5, 2026. Beginning with the first release after that date, APT and RPM repository metadata…\nThe post GitHub CLI Linux package signing key expires September 5 appeared first on The GitHub Blog.",
-      "summary_fr": "The current PGP key for the GitHub CLI Linux package repositories expires on Saturday, September 5, 2026. Beginning with the first release after that date, APT and RPM repository metadata…\nThe post GitHub CLI Linux package signing key expires September 5 appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-      "link": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-      "publishedAt": "2026-09-03T18:50:38.000Z",
-      "rawSummary": "Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.8 Flash performed strongly on complex terminal-based coding tasks and demonstrated rigorous…\nThe post Gemini 3.8 Flash is now available in GitHub Copilot appeared first on The GitHub Blog.",
-      "summary_fr": "Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.8 Flash performed strongly on complex terminal-based coding tasks and demonstrated rigorous…\nThe post Gemini 3.8 Flash is now available in GitHub Copilot appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "publishedAt": "2026-09-03T18:37:57.000Z",
-      "rawSummary": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "summary_fr": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-      "publishedAt": "2026-09-03T18:19:56.000Z",
-      "rawSummary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-      "summary_fr": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
-      "category": "Autre"
-    },
-    {
-      "source": "Ars Technica AI",
-      "tag": "Presse",
-      "title": "Four major AI models suffer rare overlapping downtime",
-      "link": "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
-      "publishedAt": "2026-09-03T18:10:19.000Z",
-      "rawSummary": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
-      "summary_fr": "Service interruptions hit ChatGPT, Claude, Grok, and Gemini practically simultaneously.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "publishedAt": "2026-09-03T18:01:45.000Z",
-      "rawSummary": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "summary_fr": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "publishedAt": "2026-09-03T18:00:00.000Z",
-      "rawSummary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't lead to a repeat of its models hacking a rival company's internal systems.\n\"If we fast-forward a couple of years, and we look back and say, 'When was it, really, that AGI was created?' I think it's going to be about thi",
-      "summary_fr": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also the first model designated as meeting OpenAI's \"critical cybersecurity capability threshold\" - but the company promises that won't lead to a repeat of its models hacking a rival company's internal systems.\n\"If we fast-forward a couple of years, and we look back and say, 'When was it, really, that AGI was created?' I think it's going to be about thi",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "AI-driven development lifecycle using Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/ai-driven-development-lifecycle-using-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-09-03T16:16:28.000Z",
-      "rawSummary": "Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two reference implementations on Amazon Bedrock AgentCore, Kiro, and Claude Code: an SQL-to-ER-diagram generator and a multi-agent code security analyzer that put the AI-DLC construction phase into practice.",
-      "summary_fr": "Engineering teams adopting the AI-Driven Development Lifecycle (AI-DLC) often struggle to turn concepts into working code. This post walks through two reference implementations on Amazon Bedrock AgentCore, Kiro, and Claude Code: an SQL-to-ER-diagram generator and a multi-agent code security analyzer that put the AI-DLC construction phase into practice.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Migrate agentic workloads to Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/migrate-agentic-workloads-to-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-09-03T16:14:12.000Z",
-      "rawSummary": "An agent that works in a notebook is not an agent in production. This post walks through migrating a LangGraph customer support agent to Amazon Bedrock AgentCore in two stages: onto Runtime, Gateway, and Memory, then to model-driven planning on Strands Agents, retiring operational burdens along the way.",
-      "summary_fr": "An agent that works in a notebook is not an agent in production. This post walks through migrating a LangGraph customer support agent to Amazon Bedrock AgentCore in two stages: onto Runtime, Gateway, and Memory, then to model-driven planning on Strands Agents, retiring operational burdens along the way.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Integrating Outlook with Amazon Quick for AI-powered email automation",
-      "link": "https://aws.amazon.com/blogs/machine-learning/integrating-outlook-with-amazon-quick-for-ai-powered-email-automation/",
-      "publishedAt": "2026-09-03T16:11:57.000Z",
-      "rawSummary": "Integrate Microsoft Outlook with Amazon Quick to automate email management, calendar scheduling, and workflow coordination. This post walks through the end-to-end setup and shows automation scenarios using Amazon Quick chat agents, Amazon Quick Flows, and Amazon Quick Automate.",
-      "summary_fr": "Integrate Microsoft Outlook with Amazon Quick to automate email management, calendar scheduling, and workflow coordination. This post walks through the end-to-end setup and shows automation scenarios using Amazon Quick chat agents, Amazon Quick Flows, and Amazon Quick Automate.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Set up OpenAI ChatGPT Codex with LiteLLM on Amazon ECS and Amazon Bedrock",
-      "link": "https://aws.amazon.com/blogs/machine-learning/set-up-openai-chatgpt-codex-with-litellm-on-amazon-ecs-and-amazon-bedrock/",
-      "publishedAt": "2026-09-03T16:10:39.000Z",
-      "rawSummary": "Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to route requests through the gateway's Responses API with scoped identities, budgets, rate limits, and telemetry. We also compare direct IAM Identity Center access and a managed Portkey deployment.",
-      "summary_fr": "Deploy a customer-operated LiteLLM gateway on Amazon ECS with AWS Fargate, connect it to an OpenAI model on Amazon Bedrock, and configure Codex to route requests through the gateway's Responses API with scoped identities, budgets, rate limits, and telemetry. We also compare direct IAM Identity Center access and a managed Portkey deployment.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "publishedAt": "2026-09-03T16:09:01.000Z",
-      "rawSummary": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "summary_fr": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Best practices for building agentic automations with Amazon Quick Automate",
-      "link": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-building-agentic-automations-with-amazon-quick-automate/",
-      "publishedAt": "2026-09-03T16:08:28.000Z",
-      "rawSummary": "Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, designing focused agents, combining them with deterministic steps, applying human-in-the-loop review, and building in evaluation and observability.",
-      "summary_fr": "Learn best practices for building production-grade, agent-based business process automations with Amazon Quick Automate: choosing the right process, designing focused agents, combining them with deterministic steps, applying human-in-the-loop review, and building in evaluation and observability.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Embed Quick Sight visuals using Cognito user authentication",
-      "link": "https://aws.amazon.com/blogs/machine-learning/embed-quick-sight-visuals-using-cognito-user-authentication/",
-      "publishedAt": "2026-09-03T16:01:56.000Z",
-      "rawSummary": "Learn how to embed individual Amazon Quick Sight visuals into a React application with per-user access control. This walkthrough uses Amazon Cognito authentication and a serverless AWS Lambda backend to generate scoped embed URLs, deployed with a single AWS CloudFormation stack.",
-      "summary_fr": "Learn how to embed individual Amazon Quick Sight visuals into a React application with per-user access control. This walkthrough uses Amazon Cognito authentication and a serverless AWS Lambda backend to generate scoped embed URLs, deployed with a single AWS CloudFormation stack.",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "publishedAt": "2026-09-03T16:00:00.000Z",
-      "rawSummary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nLet's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software developed by Nvidia that discovers compatible PCs on a network, connects them, and prepares them for crunching numbers on agentic workflows. While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as well as RTX Pro GPUs and DGX Spar",
-      "summary_fr": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. \nLet's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software developed by Nvidia that discovers compatible PCs on a network, connects them, and prepares them for crunching numbers on agentic workflows. While the compatible devices are mostly Nvidia GeForce GPUs (PAIR works with RTX 20-series cards and newer, as well as RTX Pro GPUs and DGX Spar",
-      "category": "Autre"
-    },
-    {
-      "source": "Google DeepMind",
-      "tag": "Éditeur",
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "publishedAt": "2026-09-03T15:02:08.000Z",
-      "rawSummary": "",
-      "summary_fr": "",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "publishedAt": "2026-09-03T15:00:00.000Z",
-      "rawSummary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "summary_fr": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Reopening Copilot Business and Enterprise signups",
-      "link": "https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups",
-      "publishedAt": "2026-09-03T14:40:43.000Z",
-      "rawSummary": "We’re gradually reopening sign-ups for Copilot Business and Copilot Enterprise customers paying by credit card or PayPal over the next couple of weeks. If you’ve been waiting to get started…\nThe post Reopening Copilot Business and Enterprise signups appeared first on The GitHub Blog.",
-      "summary_fr": "We’re gradually reopening sign-ups for Copilot Business and Copilot Enterprise customers paying by credit card or PayPal over the next couple of weeks. If you’ve been waiting to get started…\nThe post Reopening Copilot Business and Enterprise signups appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "CodeQL 2.26.4 improves GitHub actions security detections",
-      "link": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
-      "publishedAt": "2026-09-03T14:04:59.000Z",
-      "rawSummary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.4, which adds support for Go 1.27,…\nThe post CodeQL 2.26.4 improves GitHub actions security detections appeared first on The GitHub Blog.",
-      "summary_fr": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.4, which adds support for Go 1.27,…\nThe post CodeQL 2.26.4 improves GitHub actions security detections appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "Ars Technica AI",
-      "tag": "Presse",
-      "title": "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion",
-      "link": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-      "publishedAt": "2026-09-03T13:34:13.000Z",
-      "rawSummary": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
-      "summary_fr": "Nvidia says Hugging Face will stay open even as the chipmaker takes control of a key AI hub.",
-      "category": "Autre"
-    },
-    {
-      "source": "OpenAI News",
-      "tag": "Éditeur",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "link": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "publishedAt": "2026-09-03T13:15:00.000Z",
-      "rawSummary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "summary_fr": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
-      "category": "Autre"
-    },
-    {
-      "source": "Hugging Face",
-      "tag": "Éditeur",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "link": "https://huggingface.co/blog/Hcompany/neomme",
-      "publishedAt": "2026-09-03T13:13:48.000Z",
-      "rawSummary": "",
-      "summary_fr": "",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-      "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-      "publishedAt": "2026-09-03T12:42:45.000Z",
-      "rawSummary": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "summary_fr": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-      "category": "Autre"
-    },
-    {
-      "source": "OpenAI News",
-      "tag": "Éditeur",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "rawSummary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "summary_fr": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-      "category": "Autre"
-    },
-    {
-      "source": "OpenAI News",
-      "tag": "Éditeur",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "publishedAt": "2026-09-03T12:00:00.000Z",
-      "rawSummary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "summary_fr": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
-      "category": "Autre"
-    },
-    {
-      "source": "OpenAI News",
-      "tag": "Éditeur",
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "link": "https://openai.com/index/gpt-6-astra",
-      "publishedAt": "2026-09-03T11:00:00.000Z",
-      "rawSummary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
-      "summary_fr": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science.",
       "category": "Autre"
     }
   ]
