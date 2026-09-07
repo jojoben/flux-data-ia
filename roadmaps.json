@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-06T09:12:34.381Z",
+  "generatedAt": "2026-09-07T10:00:26.618Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Supporting independent journalism in Ukraine",
+          "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+          "publishedAt": "2026-09-07T00:00:00.000Z",
+          "rawSummary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+          "summary_fr": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "An Alien Mind",
+          "link": "https://openai.com/index/an-alien-mind",
+          "publishedAt": "2026-09-06T09:00:00.000Z",
+          "rawSummary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+          "summary_fr": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Research acceleration: The view inside OpenAI",
+          "link": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "publishedAt": "2026-09-06T08:00:00.000Z",
+          "rawSummary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+          "summary_fr": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+          "diff_type": "updated"
+        },
         {
           "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
           "link": "https://openai.com/index/daybreak-for-frontline-defenders",
@@ -13,19 +37,19 @@
           "diff_type": "updated"
         },
         {
-          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-          "link": "https://openai.com/index/playco-game-prototyping-with-astra",
-          "publishedAt": "2026-09-03T12:00:00.000Z",
-          "rawSummary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-          "summary_fr": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-          "diff_type": "updated"
-        },
-        {
           "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
           "link": "https://openai.com/index/legora-financial-statement-review-with-astra",
           "publishedAt": "2026-09-03T12:00:00.000Z",
           "rawSummary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
           "summary_fr": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+          "link": "https://openai.com/index/playco-game-prototyping-with-astra",
+          "publishedAt": "2026-09-03T12:00:00.000Z",
+          "rawSummary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+          "summary_fr": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
           "diff_type": "updated"
         },
         {
@@ -42,30 +66,6 @@
           "publishedAt": "2026-09-03T00:00:00.000Z",
           "rawSummary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
           "summary_fr": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-          "link": "https://openai.com/index/atv-big-air-tour",
-          "publishedAt": "2026-09-02T12:00:00.000Z",
-          "rawSummary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-          "summary_fr": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How AI-native companies turn workflows into operating capability",
-          "link": "https://openai.com/index/ai-native-company-workflows",
-          "publishedAt": "2026-09-01T17:00:00.000Z",
-          "rawSummary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-          "summary_fr": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Path to Astra: critical capabilities and frontier safeguards",
-          "link": "https://openai.com/index/path-to-astra",
-          "publishedAt": "2026-09-01T13:00:00.000Z",
-          "rawSummary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-          "summary_fr": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
           "diff_type": "updated"
         }
       ],
