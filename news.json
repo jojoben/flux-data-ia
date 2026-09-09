@@ -1,6 +1,386 @@
 {
-  "generatedAt": "2026-09-08T09:25:53.925Z",
+  "generatedAt": "2026-09-09T09:27:34.144Z",
   "items": [
+    {
+      "source": "GitHub Changelog",
+      "tag": "Produit",
+      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+      "link": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+      "publishedAt": "2026-09-09T02:43:38.000Z",
+      "rawSummary": "This update brings support for enterprise-managed sandbox policies, cross-file cursor jumps for next edit suggestions, global project context in chat, enterprise policy diagnostics, and a new connection between terminal Copilot…\nThe post Enterprise-managed sandbox in Copilot for JetBrains appeared first on The GitHub Blog.",
+      "summary_fr": "This update brings support for enterprise-managed sandbox policies, cross-file cursor jumps for next edit suggestions, global project context in chat, enterprise policy diagnostics, and a new connection between terminal Copilot…\nThe post Enterprise-managed sandbox in Copilot for JetBrains appeared first on The GitHub Blog.",
+      "category": "Autre"
+    },
+    {
+      "source": "AWS Machine Learning",
+      "tag": "Éditeur",
+      "title": "Take on your most ambitious work with GPT-6 Astra on Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/take-on-your-most-ambitious-work-with-gpt-6-astra-on-amazon-bedrock/",
+      "publishedAt": "2026-09-08T22:06:58.000Z",
+      "rawSummary": "GPT-6 Astra from OpenAI is now generally available on Amazon Bedrock. It brings deeper reasoning and sharper judgment to your most demanding tasks, running on the Amazon Bedrock inference engine built for high performance, security, and scale.",
+      "summary_fr": "GPT-6 Astra from OpenAI is now generally available on Amazon Bedrock. It brings deeper reasoning and sharper judgment to your most demanding tasks, running on the Amazon Bedrock inference engine built for high performance, security, and scale.",
+      "category": "Autre"
+    },
+    {
+      "source": "GitHub Changelog",
+      "tag": "Produit",
+      "title": "GitHub Enterprise Server 3.22 is now generally available",
+      "link": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+      "publishedAt": "2026-09-08T21:52:42.000Z",
+      "rawSummary": "GitHub Enterprise Server (GHES) 3.22 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.22 release: Administrators can configure Copilot CLI to…\nThe post GitHub Enterprise Server 3.22 is now generally available appeared first on The GitHub Blog.",
+      "summary_fr": "GitHub Enterprise Server (GHES) 3.22 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.22 release: Administrators can configure Copilot CLI to…\nThe post GitHub Enterprise Server 3.22 is now generally available appeared first on The GitHub Blog.",
+      "category": "Autre"
+    },
+    {
+      "source": "Ars Technica AI",
+      "tag": "Presse",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "publishedAt": "2026-09-08T21:11:46.000Z",
+      "rawSummary": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "summary_fr": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "publishedAt": "2026-09-08T21:10:27.000Z",
+      "rawSummary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "summary_fr": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "publishedAt": "2026-09-08T21:04:06.000Z",
+      "rawSummary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "summary_fr": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "publishedAt": "2026-09-08T20:53:52.000Z",
+      "rawSummary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems, each of which comes with a $1 million reward for solving. \nOpenAI says it started training the internal AI mod",
+      "summary_fr": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stokes problem - which relates to the flow of liquid and gas - using an internal AI model more powerful than the newly released GPT-6 Astra alongside 10,000 concurrent agents. The Navier-Stokes problem is one of seven Millennium Prize Problems, each of which comes with a $1 million reward for solving. \nOpenAI says it started training the internal AI mod",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "publishedAt": "2026-09-08T20:16:09.000Z",
+      "rawSummary": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat.\t\n\nOpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image based on that sketch.\nYou can activate the Sketch feature by typing @Sketch into your chat box, and a window will pop up where you can make your drawing. I briefly tested it, and it successfully turned my bad doodle of a cat that I drew ",
+      "summary_fr": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat.\t\n\nOpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT how you want it to make an image based on that sketch.\nYou can activate the Sketch feature by typing @Sketch into your chat box, and a window will pop up where you can make your drawing. I briefly tested it, and it successfully turned my bad doodle of a cat that I drew ",
+      "category": "Autre"
+    },
+    {
+      "source": "AWS Machine Learning",
+      "tag": "Éditeur",
+      "title": "Pathway’s brain-inspired architecture development on Amazon SageMaker HyperPod",
+      "link": "https://aws.amazon.com/blogs/machine-learning/pathways-brain-inspired-architecture-development-on-amazon-sagemaker-hyperpod/",
+      "publishedAt": "2026-09-08T19:12:51.000Z",
+      "rawSummary": "Pathway's Baby Dragon Hatchling (BDH) is a brain-inspired, post-transformer architecture that reasons in latent space instead of emitting chain-of-thought tokens. See how Pathway develops and scales BDH on Amazon SageMaker HyperPod, and how BDH-CQ set a new cost-efficiency mark on the ARC-AGI-1 benchmark.",
+      "summary_fr": "Pathway's Baby Dragon Hatchling (BDH) is a brain-inspired, post-transformer architecture that reasons in latent space instead of emitting chain-of-thought tokens. See how Pathway develops and scales BDH on Amazon SageMaker HyperPod, and how BDH-CQ set a new cost-efficiency mark on the ARC-AGI-1 benchmark.",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "publishedAt": "2026-09-08T19:00:00.000Z",
+      "rawSummary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "summary_fr": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "publishedAt": "2026-09-08T19:00:00.000Z",
+      "rawSummary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up to rivals like OpenAI, Anthropic, and Google. \nMuse is a \"personal AI agent\" designed to help out with everyday tasks and projects, like online shopping, sending emails, and planning a trip. Once given a goal, Meta says Muse can work on its own, opening a browser, filling out",
+      "summary_fr": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion-dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch up to rivals like OpenAI, Anthropic, and Google. \nMuse is a \"personal AI agent\" designed to help out with everyday tasks and projects, like online shopping, sending emails, and planning a trip. Once given a goal, Meta says Muse can work on its own, opening a browser, filling out",
+      "category": "Autre"
+    },
+    {
+      "source": "Ars Technica AI",
+      "tag": "Presse",
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "publishedAt": "2026-09-08T18:43:09.000Z",
+      "rawSummary": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+      "summary_fr": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+      "category": "Autre"
+    },
+    {
+      "source": "AWS Machine Learning",
+      "tag": "Éditeur",
+      "title": "Amazon SageMaker Feature Store introduces UpdateRecord for feature-level writes",
+      "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-feature-store-introduces-updaterecord-for-feature-level-writes/",
+      "publishedAt": "2026-09-08T18:29:15.000Z",
+      "rawSummary": "Amazon SageMaker Feature Store now supports feature-level writes. With the new UpdateRecord API, you can update one or more feature values in a single call without reading or rewriting the entire record. It is available for both the Standard (Amazon DynamoDB) and In-Memory (Amazon ElastiCache) online store tiers.",
+      "summary_fr": "Amazon SageMaker Feature Store now supports feature-level writes. With the new UpdateRecord API, you can update one or more feature values in a single call without reading or rewriting the entire record. It is available for both the Standard (Amazon DynamoDB) and In-Memory (Amazon ElastiCache) online store tiers.",
+      "category": "Autre"
+    },
+    {
+      "source": "Ars Technica AI",
+      "tag": "Presse",
+      "title": "Update to Google’s AI weather model improves forecast accuracy",
+      "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "publishedAt": "2026-09-08T18:00:56.000Z",
+      "rawSummary": "Like traditional weather models, it benefits from an expanded set of inputs.",
+      "summary_fr": "Like traditional weather models, it benefits from an expanded set of inputs.",
+      "category": "Autre"
+    },
+    {
+      "source": "GitHub Changelog",
+      "tag": "Produit",
+      "title": "New customer portal help.github.com",
+      "link": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+      "publishedAt": "2026-09-08T18:00:10.000Z",
+      "rawSummary": "The support portal has been redesigned and moved to a new home at help.github.com. It brings support, docs, learning, community, and account resources together in one place with Copilot-powered search…\nThe post New customer portal help.github.com appeared first on The GitHub Blog.",
+      "summary_fr": "The support portal has been redesigned and moved to a new home at help.github.com. It brings support, docs, learning, community, and account resources together in one place with Copilot-powered search…\nThe post New customer portal help.github.com appeared first on The GitHub Blog.",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "publishedAt": "2026-09-08T17:32:15.000Z",
+      "rawSummary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "summary_fr": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "publishedAt": "2026-09-08T17:27:31.000Z",
+      "rawSummary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. \nIn an expanded class action lawsuit filed today, a group of Claude subscribers say the company deceptively advertised the limits of its Max subscription tier. The lawsuit was brought by attorneys Monica Vaca and Kati Daffan, who both formerly worked at the Federal Trade Commission under Lina Khan. It's a ",
+      "summary_fr": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misled them into believing they'd get more out of a top-tier pricing subscription than they did. \nIn an expanded class action lawsuit filed today, a group of Claude subscribers say the company deceptively advertised the limits of its Max subscription tier. The lawsuit was brought by attorneys Monica Vaca and Kati Daffan, who both formerly worked at the Federal Trade Commission under Lina Khan. It's a ",
+      "category": "Autre"
+    },
+    {
+      "source": "AWS Machine Learning",
+      "tag": "Éditeur",
+      "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 2",
+      "link": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-2/",
+      "publishedAt": "2026-09-08T17:03:50.000Z",
+      "rawSummary": "Governing models across accounts is the next step after automatic model registration. This post extends managed MLflow and Amazon SageMaker AI Model Registry sync to two cross-account governance topologies: a hub-and-spoke pattern that centralizes governance with AWS RAM, and a hybrid pattern that keeps development accounts isolated.",
+      "summary_fr": "Governing models across accounts is the next step after automatic model registration. This post extends managed MLflow and Amazon SageMaker AI Model Registry sync to two cross-account governance topologies: a hub-and-spoke pattern that centralizes governance with AWS RAM, and a hybrid pattern that keeps development accounts isolated.",
+      "category": "Autre"
+    },
+    {
+      "source": "AWS Machine Learning",
+      "tag": "Éditeur",
+      "title": "Govern models with MLflow and Amazon SageMaker AI Model Registry sync: Part 1",
+      "link": "https://aws.amazon.com/blogs/machine-learning/govern-models-with-mlflow-and-amazon-sagemaker-ai-model-registry-sync-part-1/",
+      "publishedAt": "2026-09-08T17:03:20.000Z",
+      "rawSummary": "Managed MLflow on Amazon SageMaker AI now syncs richer model metadata (training metrics, evaluation results, inference specs, and lineage) into the SageMaker AI Model Registry, with lifecycle stage promotion. Part 1 shows how to govern candidate models in a single account using IAM guardrails.",
+      "summary_fr": "Managed MLflow on Amazon SageMaker AI now syncs richer model metadata (training metrics, evaluation results, inference specs, and lineage) into the SageMaker AI Model Registry, with lifecycle stage promotion. Part 1 shows how to govern candidate models in a single account using IAM guardrails.",
+      "category": "Autre"
+    },
+    {
+      "source": "OpenAI News",
+      "tag": "Éditeur",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments",
+      "publishedAt": "2026-09-08T17:00:00.000Z",
+      "rawSummary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "summary_fr": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "category": "Autre"
+    },
+    {
+      "source": "GitHub Changelog",
+      "tag": "Produit",
+      "title": "Automatic Dependabot access to GitHub-hosted registries",
+      "link": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
+      "publishedAt": "2026-09-08T16:46:05.000Z",
+      "rawSummary": "Dependabot can now read from private GitHub Packages registries without a personal access token. If a package has granted your repository access through “Manage Actions access” in the package settings,…\nThe post Automatic Dependabot access to GitHub-hosted registries appeared first on The GitHub Blog.",
+      "summary_fr": "Dependabot can now read from private GitHub Packages registries without a personal access token. If a package has granted your repository access through “Manage Actions access” in the package settings,…\nThe post Automatic Dependabot access to GitHub-hosted registries appeared first on The GitHub Blog.",
+      "category": "Autre"
+    },
+    {
+      "source": "AWS Machine Learning",
+      "tag": "Éditeur",
+      "title": "Automated agent evaluation with Amazon Bedrock AgentCore and GitHub Actions",
+      "link": "https://aws.amazon.com/blogs/machine-learning/automated-agent-evaluation-with-amazon-bedrock-agentcore-and-github-actions/",
+      "publishedAt": "2026-09-08T16:23:21.000Z",
+      "rawSummary": "Wire Amazon Bedrock AgentCore Evaluations into a GitHub Actions pipeline: deploy an AI agent and an OAuth-protected MCP server to AgentCore runtime, invoke the agent with test prompts, score the responses, and automatically block pull requests when agent behavior regresses.",
+      "summary_fr": "Wire Amazon Bedrock AgentCore Evaluations into a GitHub Actions pipeline: deploy an AI agent and an OAuth-protected MCP server to AgentCore runtime, invoke the agent with test prompts, score the responses, and automatically block pull requests when agent behavior regresses.",
+      "category": "Autre"
+    },
+    {
+      "source": "AWS Machine Learning",
+      "tag": "Éditeur",
+      "title": "Benchmarking small LLM inference on SageMaker AI: G7 vs G5 and G6",
+      "link": "https://aws.amazon.com/blogs/machine-learning/benchmarking-small-llm-inference-on-sagemaker-ai-g7-vs-g5-and-g6/",
+      "publishedAt": "2026-09-08T16:21:57.000Z",
+      "rawSummary": "Benchmark two 30B Mixture-of-Experts models, Qwen3-Coder-30B and NVIDIA Nemotron-3-Nano-30B, across G5, G6, G6e, and G7 GPU instances on Amazon SageMaker AI. Compare throughput, latency, and cost-per-token, and see how G7's NVIDIA Blackwell GPUs deliver measurable price-performance gains for real-time LLM inference.",
+      "summary_fr": "Benchmark two 30B Mixture-of-Experts models, Qwen3-Coder-30B and NVIDIA Nemotron-3-Nano-30B, across G5, G6, G6e, and G7 GPU instances on Amazon SageMaker AI. Compare throughput, latency, and cost-per-token, and see how G7's NVIDIA Blackwell GPUs deliver measurable price-performance gains for real-time LLM inference.",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "publishedAt": "2026-09-08T16:20:31.000Z",
+      "rawSummary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "summary_fr": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "category": "Autre"
+    },
+    {
+      "source": "AWS Machine Learning",
+      "tag": "Éditeur",
+      "title": "How HPE Zerto built an agentic troubleshooting system with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-hpe-zerto-built-an-agentic-troubleshooting-system-with-amazon-bedrock/",
+      "publishedAt": "2026-09-08T16:15:23.000Z",
+      "rawSummary": "HPE Zerto built an agentic troubleshooting system powered by Amazon Bedrock that runs on-premises inside the customer environment. This post describes the multi-agent architecture, the on-premises deployment model built with Strands Agents, and the engineering challenges of grounding agents in live disaster recovery data.",
+      "summary_fr": "HPE Zerto built an agentic troubleshooting system powered by Amazon Bedrock that runs on-premises inside the customer environment. This post describes the multi-agent architecture, the on-premises deployment model built with Strands Agents, and the engineering challenges of grounding agents in live disaster recovery data.",
+      "category": "Autre"
+    },
+    {
+      "source": "AWS Machine Learning",
+      "tag": "Éditeur",
+      "title": "How DiDi built intelligent contact center QA with Amazon Bedrock",
+      "link": "https://aws.amazon.com/blogs/machine-learning/how-didi-built-intelligent-contact-center-qa-with-amazon-bedrock/",
+      "publishedAt": "2026-09-08T16:11:11.000Z",
+      "rawSummary": "DiDi built a transparent, self-owned contact center quality assurance (QA) system on Amazon Bedrock, replacing an opaque third-party tool. Intent verification accuracy rose from 38% to 86%, compliance scoring topped 90%, and Voice of Customer trend analysis dropped from hours to minutes across Spanish and Portuguese support.",
+      "summary_fr": "DiDi built a transparent, self-owned contact center quality assurance (QA) system on Amazon Bedrock, replacing an opaque third-party tool. Intent verification accuracy rose from 38% to 86%, compliance scoring topped 90%, and Voice of Customer trend analysis dropped from hours to minutes across Spanish and Portuguese support.",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "publishedAt": "2026-09-08T15:04:09.000Z",
+      "rawSummary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "summary_fr": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "category": "Autre"
+    },
+    {
+      "source": "Hugging Face",
+      "tag": "Éditeur",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "publishedAt": "2026-09-08T14:23:07.000Z",
+      "rawSummary": "",
+      "summary_fr": "",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "publishedAt": "2026-09-08T14:17:48.000Z",
+      "rawSummary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "summary_fr": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "category": "Autre"
+    },
+    {
+      "source": "Google DeepMind",
+      "tag": "Éditeur",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "publishedAt": "2026-09-08T14:00:15.000Z",
+      "rawSummary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "summary_fr": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "publishedAt": "2026-09-08T14:00:00.000Z",
+      "rawSummary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases.  \nThe platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in the human genome,\"  the researchers said in a blog post published on Tuesday. \nDNA is written in an alphabet of four chemical \"letters\" - usually shortened to A, C, G, and T - and the human genome contains roughly three billion lette",
+      "summary_fr": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and ultimately paving the way for new treatments for diseases.  \nThe platform, called AlphaGenome Atlas, contains a \"predictive map of every possible DNA letter change in the human genome,\"  the researchers said in a blog post published on Tuesday. \nDNA is written in an alphabet of four chemical \"letters\" - usually shortened to A, C, G, and T - and the human genome contains roughly three billion lette",
+      "category": "Autre"
+    },
+    {
+      "source": "OpenAI News",
+      "tag": "Éditeur",
+      "title": "The Work Now Within Reach",
+      "link": "https://openai.com/index/the-work-now-within-reach",
+      "publishedAt": "2026-09-08T13:00:00.000Z",
+      "rawSummary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "summary_fr": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "publishedAt": "2026-09-08T13:00:00.000Z",
+      "rawSummary": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe\t\n\nAdobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking your workflow. \nInstead of jumping between browsers or external apps to find missing B-roll or audio elements, editors can now highlight an empty gap on the ",
+      "summary_fr": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe\t\n\nAdobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. The generators themselves aren't entirely new; the big change is how easily you can access them without breaking your workflow. \nInstead of jumping between browsers or external apps to find missing B-roll or audio elements, editors can now highlight an empty gap on the ",
+      "category": "Autre"
+    },
+    {
+      "source": "OpenAI News",
+      "tag": "Éditeur",
+      "title": "Introducing ChatGPT Images 2.5",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "publishedAt": "2026-09-08T11:30:00.000Z",
+      "rawSummary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "summary_fr": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "category": "Autre"
+    },
+    {
+      "source": "OpenAI News",
+      "tag": "Éditeur",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "link": "https://openai.com/index/navier-stokes-solution",
+      "publishedAt": "2026-09-08T10:00:00.000Z",
+      "rawSummary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "summary_fr": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "category": "Autre"
+    },
+    {
+      "source": "OpenAI News",
+      "tag": "Éditeur",
+      "title": "Funding grants for new research into AI and teen development",
+      "link": "https://openai.com/index/teen-development-research-grants",
+      "publishedAt": "2026-09-08T09:00:00.000Z",
+      "rawSummary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "summary_fr": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "category": "Autre"
+    },
+    {
+      "source": "OpenAI News",
+      "tag": "Éditeur",
+      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "rawSummary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "summary_fr": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "category": "Autre"
+    },
+    {
+      "source": "OpenAI News",
+      "tag": "Éditeur",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "link": "https://openai.com/index/1password",
+      "publishedAt": "2026-09-08T00:00:00.000Z",
+      "rawSummary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "summary_fr": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "category": "Autre"
+    },
     {
       "source": "TechCrunch AI",
       "tag": "Presse",
@@ -19,46 +399,6 @@
       "publishedAt": "2026-09-07T11:00:03.000Z",
       "rawSummary": "When multiple companies are behind one project, who bears responsibility for problems?",
       "summary_fr": "When multiple companies are behind one project, who bears responsibility for problems?",
-      "category": "Autre"
-    },
-    {
-      "source": "OpenAI News",
-      "tag": "Éditeur",
-      "title": "Supporting independent journalism in Ukraine",
-      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "publishedAt": "2026-09-07T00:00:00.000Z",
-      "rawSummary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "summary_fr": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "publishedAt": "2026-09-06T23:36:04.000Z",
-      "rawSummary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images\t\n\nThe Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting i",
-      "summary_fr": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI began rolling out GPT-6 Astra, its most advanced model to date. (Photo by Samuel Boivin/NurPhoto via Getty Images) | NurPhoto via Getty Images\t\n\nThe Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces passages from their reporting i",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "publishedAt": "2026-09-06T20:47:37.000Z",
-      "rawSummary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "summary_fr": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "publishedAt": "2026-09-06T16:45:00.000Z",
-      "rawSummary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "summary_fr": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
       "category": "Autre"
     }
   ]
