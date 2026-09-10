@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-09T09:27:34.145Z",
+  "generatedAt": "2026-09-10T09:26:23.336Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Paul Christiano joins OpenAI Foundation Board",
+          "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "publishedAt": "2026-09-09T17:00:00.000Z",
+          "rawSummary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+          "summary_fr": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "The AI policy window is open. We need to act.",
+          "link": "https://openai.com/index/ai-policy-window",
+          "publishedAt": "2026-09-09T13:00:00.000Z",
+          "rawSummary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+          "summary_fr": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GPT-6 Astra: The next generation in intelligence for work",
+          "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "publishedAt": "2026-09-09T11:00:00.000Z",
+          "rawSummary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+          "summary_fr": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+          "diff_type": "updated"
+        },
         {
           "title": "How GPT-5.6 Sol helps run quantum computing experiments",
           "link": "https://openai.com/index/codex-quantum-computing-experiments",
@@ -42,30 +66,6 @@
           "publishedAt": "2026-09-08T09:00:00.000Z",
           "rawSummary": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
           "summary_fr": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-          "link": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-          "publishedAt": "2026-09-08T00:00:00.000Z",
-          "rawSummary": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-          "summary_fr": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "1Password increases engineering productivity 21% with Codex",
-          "link": "https://openai.com/index/1password",
-          "publishedAt": "2026-09-08T00:00:00.000Z",
-          "rawSummary": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-          "summary_fr": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Supporting independent journalism in Ukraine",
-          "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-          "publishedAt": "2026-09-07T00:00:00.000Z",
-          "rawSummary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-          "summary_fr": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
           "diff_type": "updated"
         }
       ],
@@ -135,14 +135,6 @@
           "rawSummary": "Piloting the world's first double-blind AI evaluations",
           "summary_fr": "Piloting the world's first double-blind AI evaluations",
           "diff_type": "updated"
-        },
-        {
-          "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-          "link": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-          "publishedAt": "2026-08-26T17:01:00.000Z",
-          "rawSummary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-          "summary_fr": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -168,6 +160,46 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+          "link": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+          "publishedAt": "2026-09-09T21:45:06.000Z",
+          "rawSummary": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improvements across multiple languages. CodeQL is…\nThe post CodeQL 2.27.0 adds support for Linux ARM64 appeared first on The GitHub Blog.",
+          "summary_fr": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improvements across multiple languages. CodeQL is…\nThe post CodeQL 2.27.0 adds support for Linux ARM64 appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Enterprise managed permissions for GitHub Copilot agent operations",
+          "link": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
+          "publishedAt": "2026-09-09T20:08:14.000Z",
+          "rawSummary": "If you administer GitHub Copilot Business or GitHub Copilot Enterprise, you can now centrally control which agent operations are blocked, require human approval, or can proceed without a prompt. Managed…\nThe post Enterprise managed permissions for GitHub Copilot agent operations appeared first on The GitHub Blog.",
+          "summary_fr": "If you administer GitHub Copilot Business or GitHub Copilot Enterprise, you can now centrally control which agent operations are blocked, require human approval, or can proceed without a prompt. Managed…\nThe post Enterprise managed permissions for GitHub Copilot agent operations appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Advanced Security expands trial availability",
+          "link": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+          "publishedAt": "2026-09-09T17:33:34.000Z",
+          "rawSummary": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection. Eligibility has expanded from enterprises with up…\nThe post GitHub Advanced Security expands trial availability appeared first on The GitHub Blog.",
+          "summary_fr": "More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection. Eligibility has expanded from enterprises with up…\nThe post GitHub Advanced Security expands trial availability appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Block pull requests with exposed secrets from merging",
+          "link": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
+          "publishedAt": "2026-09-09T17:14:02.000Z",
+          "rawSummary": "Repository rulesets allow you to easily add scalable protections across your repositories. Starting today, you can use repository rulesets to block pull requests from merging when the pull request introduces…\nThe post Block pull requests with exposed secrets from merging appeared first on The GitHub Blog.",
+          "summary_fr": "Repository rulesets allow you to easily add scalable protections across your repositories. Starting today, you can use repository rulesets to block pull requests from merging when the pull request introduces…\nThe post Block pull requests with exposed secrets from merging appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Remediate Code Quality findings with agentic autofix",
+          "link": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+          "publishedAt": "2026-09-09T12:21:01.000Z",
+          "rawSummary": "Agentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the…\nThe post Remediate Code Quality findings with agentic autofix appeared first on The GitHub Blog.",
+          "summary_fr": "Agentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the…\nThe post Remediate Code Quality findings with agentic autofix appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Enterprise-managed sandbox in Copilot for JetBrains",
           "link": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
           "publishedAt": "2026-09-09T02:43:38.000Z",
@@ -190,46 +222,6 @@
           "rawSummary": "The support portal has been redesigned and moved to a new home at help.github.com. It brings support, docs, learning, community, and account resources together in one place with Copilot-powered search…\nThe post New customer portal help.github.com appeared first on The GitHub Blog.",
           "summary_fr": "The support portal has been redesigned and moved to a new home at help.github.com. It brings support, docs, learning, community, and account resources together in one place with Copilot-powered search…\nThe post New customer portal help.github.com appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Automatic Dependabot access to GitHub-hosted registries",
-          "link": "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries",
-          "publishedAt": "2026-09-08T16:46:05.000Z",
-          "rawSummary": "Dependabot can now read from private GitHub Packages registries without a personal access token. If a package has granted your repository access through “Manage Actions access” in the package settings,…\nThe post Automatic Dependabot access to GitHub-hosted registries appeared first on The GitHub Blog.",
-          "summary_fr": "Dependabot can now read from private GitHub Packages registries without a personal access token. If a package has granted your repository access through “Manage Actions access” in the package settings,…\nThe post Automatic Dependabot access to GitHub-hosted registries appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GitHub Copilot weekly releases — August 31",
-          "link": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-          "publishedAt": "2026-09-04T21:05:01.000Z",
-          "rawSummary": "This week, GitHub Copilot expands model choice and content protections, while VS Code adds new ways to manage agent sessions and get pull requests merge-ready. GitHub Copilot, general Claude Fable…\nThe post GitHub Copilot weekly releases — August 31 appeared first on The GitHub Blog.",
-          "summary_fr": "This week, GitHub Copilot expands model choice and content protections, while VS Code adds new ways to manage agent sessions and get pull requests merge-ready. GitHub Copilot, general Claude Fable…\nThe post GitHub Copilot weekly releases — August 31 appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GPT-6 Astra is generally available in GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
-          "publishedAt": "2026-09-04T18:59:51.000Z",
-          "rawSummary": "GPT-6 Astra from OpenAI is now available in GitHub Copilot. OpenAI’s latest general-purpose model, GPT-6 Astra, is designed for long-horizon, autonomous coding and agentic tasks. In our internal testing, GPT-6…\nThe post GPT-6 Astra is generally available in GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "GPT-6 Astra from OpenAI is now available in GitHub Copilot. OpenAI’s latest general-purpose model, GPT-6 Astra, is designed for long-horizon, autonomous coding and agentic tasks. In our internal testing, GPT-6…\nThe post GPT-6 Astra is generally available in GitHub Copilot appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "New API endpoint provides privacy-safe star history data",
-          "link": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-          "publishedAt": "2026-09-04T16:43:56.000Z",
-          "rawSummary": "Track repository star growth over time with the new star history REST API endpoint without exposing stargazer identities. Earlier this year, stargazer listing endpoints were restricted to admins and collaborators…\nThe post New API endpoint provides privacy-safe star history data appeared first on The GitHub Blog.",
-          "summary_fr": "Track repository star growth over time with the new star history REST API endpoint without exposing stargazer identities. Earlier this year, stargazer listing endpoints were restricted to admins and collaborators…\nThe post New API endpoint provides privacy-safe star history data appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Multiple trusted publishing configurations for npm",
-          "link": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
-          "publishedAt": "2026-09-03T20:34:34.000Z",
-          "rawSummary": "We’re continuing to make trusted publishing smoother for npm publishers, guided by maintainers feedback. Three updates to npm publishing are now generally available: Multiple trusted publishing configurations per package Staged…\nThe post Multiple trusted publishing configurations for npm appeared first on The GitHub Blog.",
-          "summary_fr": "We’re continuing to make trusted publishing smoother for npm publishers, guided by maintainers feedback. Three updates to npm publishing are now generally available: Multiple trusted publishing configurations per package Staged…\nThe post Multiple trusted publishing configurations for npm appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -243,6 +235,14 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "publishedAt": "2026-09-09T15:36:24.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
           "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
@@ -279,14 +279,6 @@
           "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
           "link": "https://huggingface.co/blog/train-to-paint-with-code",
           "publishedAt": "2026-09-03T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-          "link": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-          "publishedAt": "2026-09-02T13:49:14.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
