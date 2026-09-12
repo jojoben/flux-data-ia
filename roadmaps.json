@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-09-11T09:25:03.039Z",
+  "generatedAt": "2026-09-12T09:05:56.229Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "publishedAt": "2026-09-14T00:00:00.000Z",
+          "rawSummary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+          "summary_fr": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+          "publishedAt": "2026-09-11T16:00:00.000Z",
+          "rawSummary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+          "summary_fr": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "publishedAt": "2026-09-11T10:00:00.000Z",
+          "rawSummary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+          "summary_fr": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+          "diff_type": "updated"
+        },
         {
           "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
           "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
@@ -42,30 +66,6 @@
           "publishedAt": "2026-09-10T00:00:00.000Z",
           "rawSummary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
           "summary_fr": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing the Agents API",
-          "link": "https://openai.com/index/introducing-the-agents-api",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "rawSummary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-          "summary_fr": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "The AI policy window is open. We need to act.",
-          "link": "https://openai.com/index/ai-policy-window",
-          "publishedAt": "2026-09-09T13:00:00.000Z",
-          "rawSummary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-          "summary_fr": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GPT-6 Astra: The next generation in intelligence for work",
-          "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-          "publishedAt": "2026-09-09T11:00:00.000Z",
-          "rawSummary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-          "summary_fr": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
           "diff_type": "updated"
         }
       ],
@@ -144,6 +144,30 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "Add VS Code Agents to Copilot usage metrics",
+          "link": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+          "publishedAt": "2026-09-11T21:30:30.000Z",
+          "rawSummary": "GitHub Copilot usage metrics reports now include generally available metrics for activity in the dedicated VS Code Agents window, helping you measure adoption and engagement across enterprises and organizations. What’s…\nThe post Add VS Code Agents to Copilot usage metrics appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Copilot usage metrics reports now include generally available metrics for activity in the dedicated VS Code Agents window, helping you measure adoption and engagement across enterprises and organizations. What’s…\nThe post Add VS Code Agents to Copilot usage metrics appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "link": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+          "publishedAt": "2026-09-11T20:00:07.000Z",
+          "rawSummary": "Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions. Behind the scenes, Copilot now…\nThe post Auto-resolution and analysis updates in Copilot code review appeared first on The GitHub Blog.",
+          "summary_fr": "Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions. Behind the scenes, Copilot now…\nThe post Auto-resolution and analysis updates in Copilot code review appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Copilot weekly releases — September 7",
+          "link": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+          "publishedAt": "2026-09-10T22:55:07.000Z",
+          "rawSummary": "This week, GitHub Copilot introduces Jira integration in Copilot app and adaptive model orchestration with Project HydraFusion in Copilot CLI. We also introduced new agent automation in Visual Studio Code…\nThe post GitHub Copilot weekly releases — September 7 appeared first on The GitHub Blog.",
+          "summary_fr": "This week, GitHub Copilot introduces Jira integration in Copilot app and adaptive model orchestration with Project HydraFusion in Copilot CLI. We also introduced new agent automation in Visual Studio Code…\nThe post GitHub Copilot weekly releases — September 7 appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Refreshed repository pull requests page in public preview",
           "link": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
           "publishedAt": "2026-09-10T21:27:17.000Z",
@@ -181,30 +205,6 @@
           "publishedAt": "2026-09-10T15:15:36.000Z",
           "rawSummary": "You can now validate your Apple apps against macOS 27 using the Xcode 27 runner image for GitHub-hosted macOS runners, available in public preview. The image previously ran on macOS…\nThe post Xcode 27 runner image now runs on macOS 27 appeared first on The GitHub Blog.",
           "summary_fr": "You can now validate your Apple apps against macOS 27 using the Xcode 27 runner image for GitHub-hosted macOS runners, available in public preview. The image previously ran on macOS…\nThe post Xcode 27 runner image now runs on macOS 27 appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "npm extends recovery-code security holds to all accounts",
-          "link": "https://github.blog/changelog/2026-09-09-npm-extends-recovery-code-security-holds-to-all-accounts",
-          "publishedAt": "2026-09-09T21:55:55.000Z",
-          "rawSummary": "npm now places a temporary 72-hour security hold on any account after a successful recovery-code sign-in, extending a protection that previously applied only to high-impact accounts. This change applies to…\nThe post npm extends recovery-code security holds to all accounts appeared first on The GitHub Blog.",
-          "summary_fr": "npm now places a temporary 72-hour security hold on any account after a successful recovery-code sign-in, extending a protection that previously applied only to high-impact accounts. This change applies to…\nThe post npm extends recovery-code security holds to all accounts appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "CodeQL 2.27.0 adds support for Linux ARM64",
-          "link": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
-          "publishedAt": "2026-09-09T21:45:06.000Z",
-          "rawSummary": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improvements across multiple languages. CodeQL is…\nThe post CodeQL 2.27.0 adds support for Linux ARM64 appeared first on The GitHub Blog.",
-          "summary_fr": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improvements across multiple languages. CodeQL is…\nThe post CodeQL 2.27.0 adds support for Linux ARM64 appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Enterprise managed permissions for GitHub Copilot agent operations",
-          "link": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
-          "publishedAt": "2026-09-09T20:08:14.000Z",
-          "rawSummary": "If you administer GitHub Copilot Business or GitHub Copilot Enterprise, you can now centrally control which agent operations are blocked, require human approval, or can proceed without a prompt. Managed…\nThe post Enterprise managed permissions for GitHub Copilot agent operations appeared first on The GitHub Blog.",
-          "summary_fr": "If you administer GitHub Copilot Business or GitHub Copilot Enterprise, you can now centrally control which agent operations are blocked, require human approval, or can proceed without a prompt. Managed…\nThe post Enterprise managed permissions for GitHub Copilot agent operations appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
