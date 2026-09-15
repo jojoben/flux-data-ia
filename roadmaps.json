@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-09-12T09:05:56.229Z",
+  "generatedAt": "2026-09-15T09:49:55.091Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "How Fyxer built an AI executive assistant people trust",
+          "link": "https://openai.com/index/fyxer",
+          "publishedAt": "2026-09-14T12:00:00.000Z",
+          "rawSummary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+          "summary_fr": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
+          "diff_type": "updated"
+        },
         {
           "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
           "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -58,14 +66,6 @@
           "publishedAt": "2026-09-10T07:00:00.000Z",
           "rawSummary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
           "summary_fr": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-          "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "rawSummary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-          "summary_fr": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
           "diff_type": "updated"
         }
       ],
@@ -144,6 +144,22 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "Configure cost and quality in Copilot auto model selection",
+          "link": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
+          "publishedAt": "2026-09-14T16:05:27.000Z",
+          "rawSummary": "GitHub Copilot auto model selection now offers three tiers: efficiency, balance, and intelligence. Choose the tier that reflects how you want auto to weigh cost, quality, and response time for…\nThe post Configure cost and quality in Copilot auto model selection appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Copilot auto model selection now offers three tiers: efficiency, balance, and intelligence. Choose the tier that reflects how you want auto to weigh cost, quality, and response time for…\nThe post Configure cost and quality in Copilot auto model selection appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Profiles now show your highest achievement badge tier",
+          "link": "https://github.blog/changelog/2026-09-11-profiles-now-show-your-highest-achievement-badge-tier",
+          "publishedAt": "2026-09-11T22:39:50.000Z",
+          "rawSummary": "Your GitHub profile now displays the highest tier you’ve earned for achievements with multiple levels. Previously, profiles could display the first tier earned, even after you had progressed to a…\nThe post Profiles now show your highest achievement badge tier appeared first on The GitHub Blog.",
+          "summary_fr": "Your GitHub profile now displays the highest tier you’ve earned for achievements with multiple levels. Previously, profiles could display the first tier earned, even after you had progressed to a…\nThe post Profiles now show your highest achievement badge tier appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Add VS Code Agents to Copilot usage metrics",
           "link": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
           "publishedAt": "2026-09-11T21:30:30.000Z",
@@ -190,22 +206,6 @@
           "rawSummary": "You can now use cache-mode to apply least-privilege access to the GitHub Actions cache at the workflow or job level. By granting each workflow or job only the cache access…\nThe post Control GitHub Actions cache access with cache-mode appeared first on The GitHub Blog.",
           "summary_fr": "You can now use cache-mode to apply least-privilege access to the GitHub Actions cache at the workflow or job level. By granting each workflow or job only the cache access…\nThe post Control GitHub Actions cache access with cache-mode appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "MAI-Code-1-Flash deprecated",
-          "link": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-          "publishedAt": "2026-09-10T16:54:01.000Z",
-          "rawSummary": "We have deprecated MAI-Code-1-Flash across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) today, September 10, 2026. Model Deprecation date Suggested alternative…\nThe post MAI-Code-1-Flash deprecated appeared first on The GitHub Blog.",
-          "summary_fr": "We have deprecated MAI-Code-1-Flash across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) today, September 10, 2026. Model Deprecation date Suggested alternative…\nThe post MAI-Code-1-Flash deprecated appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Xcode 27 runner image now runs on macOS 27",
-          "link": "https://github.blog/changelog/2026-09-10-xcode-27-runner-image-now-runs-on-macos-27",
-          "publishedAt": "2026-09-10T15:15:36.000Z",
-          "rawSummary": "You can now validate your Apple apps against macOS 27 using the Xcode 27 runner image for GitHub-hosted macOS runners, available in public preview. The image previously ran on macOS…\nThe post Xcode 27 runner image now runs on macOS 27 appeared first on The GitHub Blog.",
-          "summary_fr": "You can now validate your Apple apps against macOS 27 using the Xcode 27 runner image for GitHub-hosted macOS runners, available in public preview. The image previously ran on macOS…\nThe post Xcode 27 runner image now runs on macOS 27 appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -219,6 +219,14 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+          "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+          "publishedAt": "2026-09-10T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
           "link": "https://huggingface.co/blog/gradio-workflow-1111",
@@ -271,14 +279,6 @@
           "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
           "link": "https://huggingface.co/blog/train-to-paint-with-code",
           "publishedAt": "2026-09-03T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-          "link": "https://huggingface.co/blog/allenai/benchmirt",
-          "publishedAt": "2026-09-01T21:39:07.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
