@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-09-15T09:49:55.091Z",
+  "generatedAt": "2026-09-17T09:53:01.262Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Our framework for reporting model misalignment",
+          "link": "https://openai.com/index/model-misalignment-reporting-framework",
+          "publishedAt": "2026-09-16T17:00:00.000Z",
+          "rawSummary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "summary_fr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Helping older adults use AI in everyday life",
+          "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "publishedAt": "2026-09-16T16:00:00.000Z",
+          "rawSummary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+          "summary_fr": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Reimagining advertising with AI",
+          "link": "https://openai.com/index/reimagining-advertising-with-ai",
+          "publishedAt": "2026-09-16T13:00:00.000Z",
+          "rawSummary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+          "summary_fr": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "How to connect AI usage to business value",
+          "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "publishedAt": "2026-09-16T12:00:00.000Z",
+          "rawSummary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+          "summary_fr": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "How workers are unlocking new ways of working",
+          "link": "https://openai.com/index/unlocking-new-ways-of-working",
+          "publishedAt": "2026-09-16T09:00:00.000Z",
+          "rawSummary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "summary_fr": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+          "diff_type": "updated"
+        },
         {
           "title": "How Fyxer built an AI executive assistant people trust",
           "link": "https://openai.com/index/fyxer",
@@ -21,51 +61,11 @@
           "diff_type": "updated"
         },
         {
-          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-          "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-          "publishedAt": "2026-09-11T16:00:00.000Z",
-          "rawSummary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-          "summary_fr": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-          "diff_type": "updated"
-        },
-        {
           "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
           "link": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
           "publishedAt": "2026-09-11T10:00:00.000Z",
           "rawSummary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
           "summary_fr": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-          "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-          "publishedAt": "2026-09-10T16:00:00.000Z",
-          "rawSummary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-          "summary_fr": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Now everyone can put data to work",
-          "link": "https://openai.com/index/put-data-to-work",
-          "publishedAt": "2026-09-10T15:00:00.000Z",
-          "rawSummary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-          "summary_fr": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing ChatGPT for Financial Services",
-          "link": "https://openai.com/index/introducing-chatgpt-financial-services",
-          "publishedAt": "2026-09-10T07:00:00.000Z",
-          "rawSummary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-          "summary_fr": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-          "link": "https://openai.com/index/expanding-ai-access-us-government",
-          "publishedAt": "2026-09-10T07:00:00.000Z",
-          "rawSummary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-          "summary_fr": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
           "diff_type": "updated"
         }
       ],
@@ -81,6 +81,14 @@
       "vendor": "Google DeepMind",
       "items": [
         {
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "publishedAt": "2026-09-15T17:05:57.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
           "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
           "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
           "publishedAt": "2026-09-08T14:00:15.000Z",
@@ -92,30 +100,6 @@
           "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
           "link": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
           "publishedAt": "2026-09-03T15:02:08.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Proactive cyber defense for governments and enterprises",
-          "link": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-          "publishedAt": "2026-09-02T16:24:24.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-          "link": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-          "publishedAt": "2026-09-02T16:18:31.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing agentic video understanding with Gemini",
-          "link": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-          "publishedAt": "2026-09-01T17:08:51.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
@@ -144,67 +128,67 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "Automate SSO authorization for classic PATs and SSH keys",
+          "link": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
+          "publishedAt": "2026-09-16T20:20:16.000Z",
+          "rawSummary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.…\nThe post Automate SSO authorization for classic PATs and SSH keys appeared first on The GitHub Blog.",
+          "summary_fr": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.…\nThe post Automate SSO authorization for classic PATs and SSH keys appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "SCIM user responses now include a profileUrl attribute",
+          "link": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "publishedAt": "2026-09-16T20:19:58.000Z",
+          "rawSummary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity. Previously, matching…\nThe post SCIM user responses now include a profileUrl attribute appeared first on The GitHub Blog.",
+          "summary_fr": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity. Previously, matching…\nThe post SCIM user responses now include a profileUrl attribute appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Copilot budget increase requests are generally available",
+          "link": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+          "publishedAt": "2026-09-16T20:17:18.000Z",
+          "rawSummary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to…\nThe post Copilot budget increase requests are generally available appeared first on The GitHub Blog.",
+          "summary_fr": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to…\nThe post Copilot budget increase requests are generally available appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+          "link": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "publishedAt": "2026-09-16T13:26:06.000Z",
+          "rawSummary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only…\nThe post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog.",
+          "summary_fr": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only…\nThe post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Enforce GitHub Advanced Security configurations",
+          "link": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
+          "publishedAt": "2026-09-15T19:31:58.000Z",
+          "rawSummary": "Enterprise administrators can now enforce GitHub Advanced Security configurations across their organizations. This prevents both organization and repository administrators from overriding settings defined at the enterprise level, helping security and…\nThe post Enforce GitHub Advanced Security configurations appeared first on The GitHub Blog.",
+          "summary_fr": "Enterprise administrators can now enforce GitHub Advanced Security configurations across their organizations. This prevents both organization and repository administrators from overriding settings defined at the enterprise level, helping security and…\nThe post Enforce GitHub Advanced Security configurations appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Copilot suggests custom properties definitions",
+          "link": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
+          "publishedAt": "2026-09-15T19:07:47.000Z",
+          "rawSummary": "GitHub Copilot can now suggest allowed values when you create a custom property for repositories in your organization. This feature is in public preview for GitHub Copilot Business and Copilot…\nThe post GitHub Copilot suggests custom properties definitions appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Copilot can now suggest allowed values when you create a custom property for repositories in your organization. This feature is in public preview for GitHub Copilot Business and Copilot…\nThe post GitHub Copilot suggests custom properties definitions appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "SHA-1 in HTTPS on GitHub sunset",
+          "link": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
+          "publishedAt": "2026-09-15T16:47:20.000Z",
+          "rawSummary": "Previously we announced we would be disabling SHA-1 in HTTPS for GitHub on September 15th, 2026. Following the planned schedule, GitHub has disabled SHA-1 in HTTPS for github.com and partner…\nThe post SHA-1 in HTTPS on GitHub sunset appeared first on The GitHub Blog.",
+          "summary_fr": "Previously we announced we would be disabling SHA-1 in HTTPS for GitHub on September 15th, 2026. Following the planned schedule, GitHub has disabled SHA-1 in HTTPS for github.com and partner…\nThe post SHA-1 in HTTPS on GitHub sunset appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Configure cost and quality in Copilot auto model selection",
           "link": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
           "publishedAt": "2026-09-14T16:05:27.000Z",
           "rawSummary": "GitHub Copilot auto model selection now offers three tiers: efficiency, balance, and intelligence. Choose the tier that reflects how you want auto to weigh cost, quality, and response time for…\nThe post Configure cost and quality in Copilot auto model selection appeared first on The GitHub Blog.",
           "summary_fr": "GitHub Copilot auto model selection now offers three tiers: efficiency, balance, and intelligence. Choose the tier that reflects how you want auto to weigh cost, quality, and response time for…\nThe post Configure cost and quality in Copilot auto model selection appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Profiles now show your highest achievement badge tier",
-          "link": "https://github.blog/changelog/2026-09-11-profiles-now-show-your-highest-achievement-badge-tier",
-          "publishedAt": "2026-09-11T22:39:50.000Z",
-          "rawSummary": "Your GitHub profile now displays the highest tier you’ve earned for achievements with multiple levels. Previously, profiles could display the first tier earned, even after you had progressed to a…\nThe post Profiles now show your highest achievement badge tier appeared first on The GitHub Blog.",
-          "summary_fr": "Your GitHub profile now displays the highest tier you’ve earned for achievements with multiple levels. Previously, profiles could display the first tier earned, even after you had progressed to a…\nThe post Profiles now show your highest achievement badge tier appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Add VS Code Agents to Copilot usage metrics",
-          "link": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-          "publishedAt": "2026-09-11T21:30:30.000Z",
-          "rawSummary": "GitHub Copilot usage metrics reports now include generally available metrics for activity in the dedicated VS Code Agents window, helping you measure adoption and engagement across enterprises and organizations. What’s…\nThe post Add VS Code Agents to Copilot usage metrics appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub Copilot usage metrics reports now include generally available metrics for activity in the dedicated VS Code Agents window, helping you measure adoption and engagement across enterprises and organizations. What’s…\nThe post Add VS Code Agents to Copilot usage metrics appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Auto-resolution and analysis updates in Copilot code review",
-          "link": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
-          "publishedAt": "2026-09-11T20:00:07.000Z",
-          "rawSummary": "Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions. Behind the scenes, Copilot now…\nThe post Auto-resolution and analysis updates in Copilot code review appeared first on The GitHub Blog.",
-          "summary_fr": "Copilot code review now resolves its own comments once you address them and writes smart commit messages for you when you apply its code suggestions. Behind the scenes, Copilot now…\nThe post Auto-resolution and analysis updates in Copilot code review appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GitHub Copilot weekly releases — September 7",
-          "link": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
-          "publishedAt": "2026-09-10T22:55:07.000Z",
-          "rawSummary": "This week, GitHub Copilot introduces Jira integration in Copilot app and adaptive model orchestration with Project HydraFusion in Copilot CLI. We also introduced new agent automation in Visual Studio Code…\nThe post GitHub Copilot weekly releases — September 7 appeared first on The GitHub Blog.",
-          "summary_fr": "This week, GitHub Copilot introduces Jira integration in Copilot app and adaptive model orchestration with Project HydraFusion in Copilot CLI. We also introduced new agent automation in Visual Studio Code…\nThe post GitHub Copilot weekly releases — September 7 appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Refreshed repository pull requests page in public preview",
-          "link": "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview",
-          "publishedAt": "2026-09-10T21:27:17.000Z",
-          "rawSummary": "A refreshed repository-level pull request listing page is now in public preview for all GitHub users. It brings powerful filtering, compact presentation mode, and more. Highlights The new page makes…\nThe post Refreshed repository pull requests page in public preview appeared first on The GitHub Blog.",
-          "summary_fr": "A refreshed repository-level pull request listing page is now in public preview for all GitHub users. It brings powerful filtering, compact presentation mode, and more. Highlights The new page makes…\nThe post Refreshed repository pull requests page in public preview appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "AI Scan for pull request APIs in public preview",
-          "link": "https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview",
-          "publishedAt": "2026-09-10T20:20:58.000Z",
-          "rawSummary": "You can now manage GitHub code scanning’s AI Scan for pull request enablement with REST API endpoints at the organization and repository levels. This public preview gives teams a programmatic…\nThe post AI Scan for pull request APIs in public preview appeared first on The GitHub Blog.",
-          "summary_fr": "You can now manage GitHub code scanning’s AI Scan for pull request enablement with REST API endpoints at the organization and repository levels. This public preview gives teams a programmatic…\nThe post AI Scan for pull request APIs in public preview appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Control GitHub Actions cache access with cache-mode",
-          "link": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
-          "publishedAt": "2026-09-10T17:26:59.000Z",
-          "rawSummary": "You can now use cache-mode to apply least-privilege access to the GitHub Actions cache at the workflow or job level. By granting each workflow or job only the cache access…\nThe post Control GitHub Actions cache access with cache-mode appeared first on The GitHub Blog.",
-          "summary_fr": "You can now use cache-mode to apply least-privilege access to the GitHub Actions cache at the workflow or job level. By granting each workflow or job only the cache access…\nThe post Control GitHub Actions cache access with cache-mode appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
@@ -219,6 +203,14 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "publishedAt": "2026-09-15T16:00:44.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
           "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
@@ -236,14 +228,6 @@
           "diff_type": "updated"
         },
         {
-          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-          "link": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-          "publishedAt": "2026-09-09T15:36:24.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
           "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
           "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
           "publishedAt": "2026-09-08T14:23:07.000Z",
@@ -255,30 +239,6 @@
           "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
           "link": "https://huggingface.co/blog/Hcompany/neomme",
           "publishedAt": "2026-09-03T13:13:48.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-          "link": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-          "publishedAt": "2026-09-03T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Give Your Coding Agents a Memory You Own",
-          "link": "https://huggingface.co/blog/funes",
-          "publishedAt": "2026-09-03T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-          "link": "https://huggingface.co/blog/train-to-paint-with-code",
-          "publishedAt": "2026-09-03T00:00:00.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
