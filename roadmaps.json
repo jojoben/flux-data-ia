@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-09-18T09:28:30.263Z",
+  "generatedAt": "2026-09-20T09:38:50.629Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "link": "https://openai.com/index/australian-youth-safety-blueprint",
+          "publishedAt": "2026-09-18T12:00:00.000Z",
+          "rawSummary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+          "summary_fr": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+          "diff_type": "updated"
+        },
         {
           "title": "How Cooley is accelerating IPO work with ChatGPT",
           "link": "https://openai.com/index/cooley-gopublic",
@@ -45,27 +53,19 @@
           "diff_type": "updated"
         },
         {
+          "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+          "link": "https://openai.com/index/hex-gpt-6-astra",
+          "publishedAt": "2026-09-16T12:00:00.000Z",
+          "rawSummary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+          "summary_fr": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
+          "diff_type": "updated"
+        },
+        {
           "title": "How to connect AI usage to business value",
           "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
           "publishedAt": "2026-09-16T12:00:00.000Z",
           "rawSummary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
           "summary_fr": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How workers are unlocking new ways of working",
-          "link": "https://openai.com/index/unlocking-new-ways-of-working",
-          "publishedAt": "2026-09-16T09:00:00.000Z",
-          "rawSummary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-          "summary_fr": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How Fyxer built an AI executive assistant people trust",
-          "link": "https://openai.com/index/fyxer",
-          "publishedAt": "2026-09-14T12:00:00.000Z",
-          "rawSummary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-          "summary_fr": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
           "diff_type": "updated"
         }
       ],
@@ -120,6 +120,46 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "Copilot code review: An improved review experience",
+          "link": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
+          "publishedAt": "2026-09-18T20:17:22.000Z",
+          "rawSummary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nThe post Copilot code review: An improved review experience appeared first on The GitHub Blog.",
+          "summary_fr": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nThe post Copilot code review: An improved review experience appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Manage the code coverage ruleset condition with the REST API",
+          "link": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
+          "publishedAt": "2026-09-18T19:23:49.000Z",
+          "rawSummary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nThe post Manage the code coverage ruleset condition with the REST API appeared first on The GitHub Blog.",
+          "summary_fr": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nThe post Manage the code coverage ruleset condition with the REST API appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Copilot weekly releases — September 14",
+          "link": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+          "publishedAt": "2026-09-18T19:21:22.000Z",
+          "rawSummary": "This week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app. There are also updates for admins, plus new agent features in…\nThe post GitHub Copilot weekly releases — September 14 appeared first on The GitHub Blog.",
+          "summary_fr": "This week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app. There are also updates for admins, plus new agent features in…\nThe post GitHub Copilot weekly releases — September 14 appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "link": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+          "publishedAt": "2026-09-18T19:00:00.000Z",
+          "rawSummary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 19th, 2026: Model Deprecation date…\nThe post Upcoming deprecation of selected GitHub Copilot models in mid-October appeared first on The GitHub Blog.",
+          "summary_fr": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 19th, 2026: Model Deprecation date…\nThe post Upcoming deprecation of selected GitHub Copilot models in mid-October appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Stage-only npm tokens for safer automation",
+          "link": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+          "publishedAt": "2026-09-18T16:37:50.000Z",
+          "rawSummary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token…\nThe post Stage-only npm tokens for safer automation appeared first on The GitHub Blog.",
+          "summary_fr": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token…\nThe post Stage-only npm tokens for safer automation appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Copilot impact dashboard now shows feature engagement",
           "link": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
           "publishedAt": "2026-09-17T21:47:27.000Z",
@@ -141,46 +181,6 @@
           "publishedAt": "2026-09-17T16:27:16.000Z",
           "rawSummary": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe post Ubuntu 26 generally available and latest migration appeared first on The GitHub Blog.",
           "summary_fr": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe post Ubuntu 26 generally available and latest migration appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Workflow execution protections in GitHub Actions generally available",
-          "link": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available",
-          "publishedAt": "2026-09-17T15:45:26.000Z",
-          "rawSummary": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who…\nThe post Workflow execution protections in GitHub Actions generally available appeared first on The GitHub Blog.",
-          "summary_fr": "Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who…\nThe post Workflow execution protections in GitHub Actions generally available appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Automate SSO authorization for classic PATs and SSH keys",
-          "link": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-          "publishedAt": "2026-09-16T20:20:16.000Z",
-          "rawSummary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.…\nThe post Automate SSO authorization for classic PATs and SSH keys appeared first on The GitHub Blog.",
-          "summary_fr": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.…\nThe post Automate SSO authorization for classic PATs and SSH keys appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "SCIM user responses now include a profileUrl attribute",
-          "link": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-          "publishedAt": "2026-09-16T20:19:58.000Z",
-          "rawSummary": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity. Previously, matching…\nThe post SCIM user responses now include a profileUrl attribute appeared first on The GitHub Blog.",
-          "summary_fr": "SCIM user responses from GitHub now include the standard profileUrl attribute defined by RFC 7643, containing the absolute URL of the GitHub account linked to the external identity. Previously, matching…\nThe post SCIM user responses now include a profileUrl attribute appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Copilot budget increase requests are generally available",
-          "link": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
-          "publishedAt": "2026-09-16T20:17:18.000Z",
-          "rawSummary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to…\nThe post Copilot budget increase requests are generally available appeared first on The GitHub Blog.",
-          "summary_fr": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to…\nThe post Copilot budget increase requests are generally available appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Code scanning AI Scan no longer requires CodeQL default setup",
-          "link": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-          "publishedAt": "2026-09-16T13:26:06.000Z",
-          "rawSummary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only…\nThe post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog.",
-          "summary_fr": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only…\nThe post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
