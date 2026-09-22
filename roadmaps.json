@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-09-21T10:29:20.817Z",
+  "generatedAt": "2026-09-22T09:41:16.518Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "publishedAt": "2026-09-21T12:00:00.000Z",
+          "rawSummary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+          "summary_fr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "publishedAt": "2026-09-21T12:00:00.000Z",
+          "rawSummary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+          "summary_fr": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Building standards for the next phase of AI",
+          "link": "https://openai.com/index/building-standards-next-phase-ai",
+          "publishedAt": "2026-09-21T10:00:00.000Z",
+          "rawSummary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "summary_fr": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Expanding OpenAI Academy with new learning paths",
+          "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "publishedAt": "2026-09-21T07:00:00.000Z",
+          "rawSummary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+          "summary_fr": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "How V7 gives AI agents institutional memory",
+          "link": "https://openai.com/index/v7",
+          "publishedAt": "2026-09-21T00:00:00.000Z",
+          "rawSummary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+          "summary_fr": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+          "diff_type": "updated"
+        },
         {
           "title": "Introducing the Australian Youth Safety Blueprint",
           "link": "https://openai.com/index/australian-youth-safety-blueprint",
@@ -26,46 +66,6 @@
           "publishedAt": "2026-09-17T00:00:00.000Z",
           "rawSummary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
           "summary_fr": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Our framework for reporting model misalignment",
-          "link": "https://openai.com/index/model-misalignment-reporting-framework",
-          "publishedAt": "2026-09-16T17:00:00.000Z",
-          "rawSummary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-          "summary_fr": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Helping older adults use AI in everyday life",
-          "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "publishedAt": "2026-09-16T16:00:00.000Z",
-          "rawSummary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-          "summary_fr": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Reimagining advertising with AI",
-          "link": "https://openai.com/index/reimagining-advertising-with-ai",
-          "publishedAt": "2026-09-16T13:00:00.000Z",
-          "rawSummary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-          "summary_fr": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-          "link": "https://openai.com/index/hex-gpt-6-astra",
-          "publishedAt": "2026-09-16T12:00:00.000Z",
-          "rawSummary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-          "summary_fr": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How to connect AI usage to business value",
-          "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "publishedAt": "2026-09-16T12:00:00.000Z",
-          "rawSummary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-          "summary_fr": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
           "diff_type": "updated"
         }
       ],
@@ -120,6 +120,30 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "Refreshed repository pull requests page generally available",
+          "link": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+          "publishedAt": "2026-09-22T01:25:53.000Z",
+          "rawSummary": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a…\nThe post Refreshed repository pull requests page generally available appeared first on The GitHub Blog.",
+          "summary_fr": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a…\nThe post Refreshed repository pull requests page generally available appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Enterprise adds credential inventory exports",
+          "link": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
+          "publishedAt": "2026-09-21T21:13:18.000Z",
+          "rawSummary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g., SSH keys, classic and fine-grained personal access tokens, OAuth App access tokens, and…\nThe post GitHub Enterprise adds credential inventory exports appeared first on The GitHub Blog.",
+          "summary_fr": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g., SSH keys, classic and fine-grained personal access tokens, OAuth App access tokens, and…\nThe post GitHub Enterprise adds credential inventory exports appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Grok 4.7 is now available in GitHub Copilot",
+          "link": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+          "publishedAt": "2026-09-21T14:54:12.000Z",
+          "rawSummary": "Grok 4.7, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. Building on Grok 4.6, it is designed for agentic coding and complex, multistep workflows. This model is…\nThe post Grok 4.7 is now available in GitHub Copilot appeared first on The GitHub Blog.",
+          "summary_fr": "Grok 4.7, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. Building on Grok 4.6, it is designed for agentic coding and complex, multistep workflows. This model is…\nThe post Grok 4.7 is now available in GitHub Copilot appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Copilot code review: An improved review experience",
           "link": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
           "publishedAt": "2026-09-18T20:17:22.000Z",
@@ -158,30 +182,6 @@
           "rawSummary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token…\nThe post Stage-only npm tokens for safer automation appeared first on The GitHub Blog.",
           "summary_fr": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token…\nThe post Stage-only npm tokens for safer automation appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Copilot impact dashboard now shows feature engagement",
-          "link": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
-          "publishedAt": "2026-09-17T21:47:27.000Z",
-          "rawSummary": "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more…\nThe post Copilot impact dashboard now shows feature engagement appeared first on The GitHub Blog.",
-          "summary_fr": "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more…\nThe post Copilot impact dashboard now shows feature engagement appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Agentic CLI customizations now in the usage metrics API",
-          "link": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
-          "publishedAt": "2026-09-17T21:08:50.000Z",
-          "rawSummary": "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in…\nThe post Agentic CLI customizations now in the usage metrics API appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in…\nThe post Agentic CLI customizations now in the usage metrics API appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Ubuntu 26 generally available and latest migration",
-          "link": "https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration",
-          "publishedAt": "2026-09-17T16:27:16.000Z",
-          "rawSummary": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe post Ubuntu 26 generally available and latest migration appeared first on The GitHub Blog.",
-          "summary_fr": "The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,…\nThe post Ubuntu 26 generally available and latest migration appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -195,6 +195,30 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+          "link": "https://huggingface.co/blog/omlx",
+          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "publishedAt": "2026-09-21T13:44:34.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "tokenizers v1: encode, decode and scaling, measured",
+          "link": "https://huggingface.co/blog/tokenizers-v1",
+          "publishedAt": "2026-09-21T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Your Agent Aced the Task. Will It Do It Again?",
           "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
@@ -215,14 +239,6 @@
           "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
           "link": "https://huggingface.co/blog/gradio-workflow-1111",
           "publishedAt": "2026-09-10T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "link": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-          "publishedAt": "2026-09-08T14:23:07.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
