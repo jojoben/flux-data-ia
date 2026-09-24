@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-09-22T09:41:16.518Z",
+  "generatedAt": "2026-09-24T09:45:31.877Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
         {
-          "title": "Advisory Group on Mathematics and Artificial Intelligence",
-          "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-          "publishedAt": "2026-09-21T12:00:00.000Z",
-          "rawSummary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
-          "summary_fr": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+          "title": "Two years of OpenAI Academy",
+          "link": "https://openai.com/index/two-years-of-openai-academy",
+          "publishedAt": "2026-09-23T16:00:00.000Z",
+          "rawSummary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+          "summary_fr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
           "diff_type": "updated"
         },
         {
-          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-          "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-          "publishedAt": "2026-09-21T12:00:00.000Z",
-          "rawSummary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-          "summary_fr": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "publishedAt": "2026-09-23T13:00:00.000Z",
+          "rawSummary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+          "summary_fr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
           "diff_type": "updated"
         },
         {
-          "title": "Building standards for the next phase of AI",
-          "link": "https://openai.com/index/building-standards-next-phase-ai",
-          "publishedAt": "2026-09-21T10:00:00.000Z",
-          "rawSummary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
-          "summary_fr": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "title": "Sam Altman’s remarks at the United Nations Security Council",
+          "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+          "publishedAt": "2026-09-23T12:00:00.000Z",
+          "rawSummary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+          "summary_fr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
           "diff_type": "updated"
         },
         {
-          "title": "Expanding OpenAI Academy with new learning paths",
-          "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-          "publishedAt": "2026-09-21T07:00:00.000Z",
-          "rawSummary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
-          "summary_fr": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+          "publishedAt": "2026-09-23T12:00:00.000Z",
+          "rawSummary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+          "summary_fr": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
           "diff_type": "updated"
         },
         {
-          "title": "How V7 gives AI agents institutional memory",
-          "link": "https://openai.com/index/v7",
-          "publishedAt": "2026-09-21T00:00:00.000Z",
-          "rawSummary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
-          "summary_fr": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+          "publishedAt": "2026-09-23T12:00:00.000Z",
+          "rawSummary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+          "summary_fr": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
           "diff_type": "updated"
         },
         {
-          "title": "Introducing the Australian Youth Safety Blueprint",
-          "link": "https://openai.com/index/australian-youth-safety-blueprint",
-          "publishedAt": "2026-09-18T12:00:00.000Z",
-          "rawSummary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-          "summary_fr": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+          "link": "https://openai.com/index/ringg",
+          "publishedAt": "2026-09-23T12:00:00.000Z",
+          "rawSummary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+          "summary_fr": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
           "diff_type": "updated"
         },
         {
-          "title": "How Cooley is accelerating IPO work with ChatGPT",
-          "link": "https://openai.com/index/cooley-gopublic",
-          "publishedAt": "2026-09-17T12:00:00.000Z",
-          "rawSummary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-          "summary_fr": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
+          "title": "Introducing MentalHealthBench",
+          "link": "https://openai.com/index/introducing-mentalhealthbench",
+          "publishedAt": "2026-09-23T10:00:00.000Z",
+          "rawSummary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+          "summary_fr": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
           "diff_type": "updated"
         },
         {
-          "title": "Introducing Astra for Law",
-          "link": "https://openai.com/index/astra-for-law",
-          "publishedAt": "2026-09-17T00:00:00.000Z",
-          "rawSummary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-          "summary_fr": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
+          "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+          "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+          "publishedAt": "2026-09-23T02:00:00.000Z",
+          "rawSummary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+          "summary_fr": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
           "diff_type": "updated"
         }
       ],
@@ -81,19 +81,27 @@
       "vendor": "Google DeepMind",
       "items": [
         {
-          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-          "publishedAt": "2026-09-15T17:05:57.000Z",
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "publishedAt": "2026-09-23T16:00:57.000Z",
+          "rawSummary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+          "summary_fr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+          "publishedAt": "2026-09-23T15:25:14.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
         },
         {
-          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "link": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-          "publishedAt": "2026-09-08T14:00:15.000Z",
-          "rawSummary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-          "summary_fr": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "publishedAt": "2026-09-15T17:05:57.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
           "diff_type": "updated"
         }
       ],
@@ -120,67 +128,67 @@
       "vendor": "GitHub",
       "items": [
         {
-          "title": "Refreshed repository pull requests page generally available",
-          "link": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-          "publishedAt": "2026-09-22T01:25:53.000Z",
-          "rawSummary": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a…\nThe post Refreshed repository pull requests page generally available appeared first on The GitHub Blog.",
-          "summary_fr": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a…\nThe post Refreshed repository pull requests page generally available appeared first on The GitHub Blog.",
+          "title": "More ways to request and configure Copilot code reviews",
+          "link": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+          "publishedAt": "2026-09-23T21:25:58.000Z",
+          "rawSummary": "GitHub Copilot code review now offers additional personal configurations to an expanded set of Copilot plans and an enterprise-level default setting. These improvements are now generally available: A dedicated personal…\nThe post More ways to request and configure Copilot code reviews appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Copilot code review now offers additional personal configurations to an expanded set of Copilot plans and an enterprise-level default setting. These improvements are now generally available: A dedicated personal…\nThe post More ways to request and configure Copilot code reviews appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "GitHub Enterprise adds credential inventory exports",
-          "link": "https://github.blog/changelog/2026-09-21-github-enterprise-adds-credential-inventory-exports",
-          "publishedAt": "2026-09-21T21:13:18.000Z",
-          "rawSummary": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g., SSH keys, classic and fine-grained personal access tokens, OAuth App access tokens, and…\nThe post GitHub Enterprise adds credential inventory exports appeared first on The GitHub Blog.",
-          "summary_fr": "Enterprise owners can now export a complete inventory of every credential that can access their enterprise (e.g., SSH keys, classic and fine-grained personal access tokens, OAuth App access tokens, and…\nThe post GitHub Enterprise adds credential inventory exports appeared first on The GitHub Blog.",
+          "title": "Node 20 is no longer available in GitHub Actions",
+          "link": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+          "publishedAt": "2026-09-23T20:46:07.000Z",
+          "rawSummary": "This is the final notification that Node 20 is no longer available on GitHub Actions runners. Runners now use Node 24 for JavaScript actions. The temporary ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION opt-out is no…\nThe post Node 20 is no longer available in GitHub Actions appeared first on The GitHub Blog.",
+          "summary_fr": "This is the final notification that Node 20 is no longer available on GitHub Actions runners. Runners now use Node 24 for JavaScript actions. The temporary ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION opt-out is no…\nThe post Node 20 is no longer available in GitHub Actions appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Grok 4.7 is now available in GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
-          "publishedAt": "2026-09-21T14:54:12.000Z",
-          "rawSummary": "Grok 4.7, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. Building on Grok 4.6, it is designed for agentic coding and complex, multistep workflows. This model is…\nThe post Grok 4.7 is now available in GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "Grok 4.7, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. Building on Grok 4.6, it is designed for agentic coding and complex, multistep workflows. This model is…\nThe post Grok 4.7 is now available in GitHub Copilot appeared first on The GitHub Blog.",
+          "title": "Local sandboxing in the GitHub Copilot app",
+          "link": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "publishedAt": "2026-09-23T15:00:57.000Z",
+          "rawSummary": "Local sandboxing helps reduce the potential impact of unintended commands by limiting access to files, network resources, and credentials on your machine. In the GitHub Copilot app, you configure it…\nThe post Local sandboxing in the GitHub Copilot app appeared first on The GitHub Blog.",
+          "summary_fr": "Local sandboxing helps reduce the potential impact of unintended commands by limiting access to files, network resources, and credentials on your machine. In the GitHub Copilot app, you configure it…\nThe post Local sandboxing in the GitHub Copilot app appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Copilot code review: An improved review experience",
-          "link": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
-          "publishedAt": "2026-09-18T20:17:22.000Z",
-          "rawSummary": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nThe post Copilot code review: An improved review experience appeared first on The GitHub Blog.",
-          "summary_fr": "Copilot code review now gives you a clearer view of how a review changes over time, more intelligently auto-resolves its own suggestions, and generates useful commit messages when you accept…\nThe post Copilot code review: An improved review experience appeared first on The GitHub Blog.",
+          "title": "OpenTelemetry in the GitHub Copilot app",
+          "link": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
+          "publishedAt": "2026-09-23T02:14:54.000Z",
+          "rawSummary": "Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open source observability framework.…\nThe post OpenTelemetry in the GitHub Copilot app appeared first on The GitHub Blog.",
+          "summary_fr": "Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open source observability framework.…\nThe post OpenTelemetry in the GitHub Copilot app appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Manage the code coverage ruleset condition with the REST API",
-          "link": "https://github.blog/changelog/2026-09-18-manage-the-code-coverage-ruleset-condition-with-the-rest-api",
-          "publishedAt": "2026-09-18T19:23:49.000Z",
-          "rawSummary": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nThe post Manage the code coverage ruleset condition with the REST API appeared first on The GitHub Blog.",
-          "summary_fr": "You can now use the generally available REST API to manage the Restrict code coverage repository ruleset option, in addition to the existing UI support. This ruleset lets you enforce…\nThe post Manage the code coverage ruleset condition with the REST API appeared first on The GitHub Blog.",
+          "title": "New features and improvements in Copilot for JetBrains",
+          "link": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+          "publishedAt": "2026-09-23T00:34:18.000Z",
+          "rawSummary": "GitHub Copilot for JetBrains 1.18.0 brings AI-assisted tool approvals, more control over agent conversations, and shared skills and instructions for your organization. You can also review plans with the Codex…\nThe post New features and improvements in Copilot for JetBrains appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Copilot for JetBrains 1.18.0 brings AI-assisted tool approvals, more control over agent conversations, and shared skills and instructions for your organization. You can also review plans with the Codex…\nThe post New features and improvements in Copilot for JetBrains appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "GitHub Copilot weekly releases — September 14",
-          "link": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
-          "publishedAt": "2026-09-18T19:21:22.000Z",
-          "rawSummary": "This week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app. There are also updates for admins, plus new agent features in…\nThe post GitHub Copilot weekly releases — September 14 appeared first on The GitHub Blog.",
-          "summary_fr": "This week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app. There are also updates for admins, plus new agent features in…\nThe post GitHub Copilot weekly releases — September 14 appeared first on The GitHub Blog.",
+          "title": "Faster C++ code intelligence with whole codebase indexing",
+          "link": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+          "publishedAt": "2026-09-22T22:24:48.000Z",
+          "rawSummary": "C++ code intelligence in GitHub Copilot CLI is now faster with support for whole codebase indexing. C++ repositories can contain millions of lines of code across deeply connected source files…\nThe post Faster C++ code intelligence with whole codebase indexing appeared first on The GitHub Blog.",
+          "summary_fr": "C++ code intelligence in GitHub Copilot CLI is now faster with support for whole codebase indexing. C++ repositories can contain millions of lines of code across deeply connected source files…\nThe post Faster C++ code intelligence with whole codebase indexing appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
-          "link": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
-          "publishedAt": "2026-09-18T19:00:00.000Z",
-          "rawSummary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 19th, 2026: Model Deprecation date…\nThe post Upcoming deprecation of selected GitHub Copilot models in mid-October appeared first on The GitHub Blog.",
-          "summary_fr": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 19th, 2026: Model Deprecation date…\nThe post Upcoming deprecation of selected GitHub Copilot models in mid-October appeared first on The GitHub Blog.",
+          "title": "Claude Opus 5.5 is now available in GitHub Copilot",
+          "link": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
+          "publishedAt": "2026-09-22T17:10:23.000Z",
+          "rawSummary": "Claude Opus 5.5, Anthropic’s newest Opus model, is now available in GitHub Copilot. You can use it for agentic coding, long-running agentic tasks, and knowledge work. In early testing, Opus…\nThe post Claude Opus 5.5 is now available in GitHub Copilot appeared first on The GitHub Blog.",
+          "summary_fr": "Claude Opus 5.5, Anthropic’s newest Opus model, is now available in GitHub Copilot. You can use it for agentic coding, long-running agentic tasks, and knowledge work. In early testing, Opus…\nThe post Claude Opus 5.5 is now available in GitHub Copilot appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Stage-only npm tokens for safer automation",
-          "link": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
-          "publishedAt": "2026-09-18T16:37:50.000Z",
-          "rawSummary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token…\nThe post Stage-only npm tokens for safer automation appeared first on The GitHub Blog.",
-          "summary_fr": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token…\nThe post Stage-only npm tokens for safer automation appeared first on The GitHub Blog.",
+          "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
+          "link": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+          "publishedAt": "2026-09-22T17:00:14.000Z",
+          "rawSummary": "OpenAI’s GPT-6 family is expanding in GitHub Copilot with two additional models: GPT-6 Sol, and GPT-6 Luna. Joining the previously released GPT-6 Astra, these new options let you select the…\nThe post OpenAI’s GPT-6 Sol and GPT-6 Luna now available appeared first on The GitHub Blog.",
+          "summary_fr": "OpenAI’s GPT-6 family is expanding in GitHub Copilot with two additional models: GPT-6 Sol, and GPT-6 Luna. Joining the previously released GPT-6 Astra, these new options let you select the…\nThe post OpenAI’s GPT-6 Sol and GPT-6 Luna now available appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
@@ -195,6 +203,30 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+          "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+          "publishedAt": "2026-09-23T18:41:40.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+          "link": "https://huggingface.co/blog/evaleval-aisi",
+          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Transformers now runs llama.cpp quants",
+          "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+          "publishedAt": "2026-09-22T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
           "link": "https://huggingface.co/blog/omlx",
@@ -223,22 +255,6 @@
           "title": "Your Agent Aced the Task. Will It Do It Again?",
           "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
           "publishedAt": "2026-09-15T16:00:44.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-          "link": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-          "link": "https://huggingface.co/blog/gradio-workflow-1111",
-          "publishedAt": "2026-09-10T00:00:00.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
