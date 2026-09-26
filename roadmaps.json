@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-09-24T09:45:31.877Z",
+  "generatedAt": "2026-09-26T09:44:45.975Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "link": "https://openai.com/index/proaction",
+          "publishedAt": "2026-09-25T19:00:00.000Z",
+          "rawSummary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+          "summary_fr": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+          "diff_type": "updated"
+        },
         {
           "title": "Two years of OpenAI Academy",
           "link": "https://openai.com/index/two-years-of-openai-academy",
@@ -59,14 +67,6 @@
           "rawSummary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
           "summary_fr": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
           "diff_type": "updated"
-        },
-        {
-          "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-          "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-          "publishedAt": "2026-09-23T02:00:00.000Z",
-          "rawSummary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-          "summary_fr": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -80,6 +80,14 @@
     {
       "vendor": "Google DeepMind",
       "items": [
+        {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "publishedAt": "2026-09-24T16:20:39.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Advancing Private AI Compute with secure, server-side memory",
           "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
@@ -128,67 +136,67 @@
       "vendor": "GitHub",
       "items": [
         {
-          "title": "More ways to request and configure Copilot code reviews",
-          "link": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
-          "publishedAt": "2026-09-23T21:25:58.000Z",
-          "rawSummary": "GitHub Copilot code review now offers additional personal configurations to an expanded set of Copilot plans and an enterprise-level default setting. These improvements are now generally available: A dedicated personal…\nThe post More ways to request and configure Copilot code reviews appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub Copilot code review now offers additional personal configurations to an expanded set of Copilot plans and an enterprise-level default setting. These improvements are now generally available: A dedicated personal…\nThe post More ways to request and configure Copilot code reviews appeared first on The GitHub Blog.",
+          "title": "Enterprise managed settings in-product validator",
+          "link": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
+          "publishedAt": "2026-09-25T23:24:57.000Z",
+          "rawSummary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors that can prevent…\nThe post Enterprise managed settings in-product validator appeared first on The GitHub Blog.",
+          "summary_fr": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors that can prevent…\nThe post Enterprise managed settings in-product validator appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Node 20 is no longer available in GitHub Actions",
-          "link": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
-          "publishedAt": "2026-09-23T20:46:07.000Z",
-          "rawSummary": "This is the final notification that Node 20 is no longer available on GitHub Actions runners. Runners now use Node 24 for JavaScript actions. The temporary ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION opt-out is no…\nThe post Node 20 is no longer available in GitHub Actions appeared first on The GitHub Blog.",
-          "summary_fr": "This is the final notification that Node 20 is no longer available on GitHub Actions runners. Runners now use Node 24 for JavaScript actions. The temporary ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION opt-out is no…\nThe post Node 20 is no longer available in GitHub Actions appeared first on The GitHub Blog.",
+          "title": "Usage metrics API adds pull request review stages",
+          "link": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
+          "publishedAt": "2026-09-25T21:09:40.000Z",
+          "rawSummary": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review. A new pull_request_review_times array on each repos-1-day row…\nThe post Usage metrics API adds pull request review stages appeared first on The GitHub Blog.",
+          "summary_fr": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review. A new pull_request_review_times array on each repos-1-day row…\nThe post Usage metrics API adds pull request review stages appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Local sandboxing in the GitHub Copilot app",
-          "link": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-          "publishedAt": "2026-09-23T15:00:57.000Z",
-          "rawSummary": "Local sandboxing helps reduce the potential impact of unintended commands by limiting access to files, network resources, and credentials on your machine. In the GitHub Copilot app, you configure it…\nThe post Local sandboxing in the GitHub Copilot app appeared first on The GitHub Blog.",
-          "summary_fr": "Local sandboxing helps reduce the potential impact of unintended commands by limiting access to files, network resources, and credentials on your machine. In the GitHub Copilot app, you configure it…\nThe post Local sandboxing in the GitHub Copilot app appeared first on The GitHub Blog.",
+          "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
+          "link": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
+          "publishedAt": "2026-09-25T19:05:03.000Z",
+          "rawSummary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. “Relates to” issue relationship…\nThe post Private saved views for repository issues and “Relates to” issue relationship is generally available appeared first on The GitHub Blog.",
+          "summary_fr": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. “Relates to” issue relationship…\nThe post Private saved views for repository issues and “Relates to” issue relationship is generally available appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "OpenTelemetry in the GitHub Copilot app",
-          "link": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
-          "publishedAt": "2026-09-23T02:14:54.000Z",
-          "rawSummary": "Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open source observability framework.…\nThe post OpenTelemetry in the GitHub Copilot app appeared first on The GitHub Blog.",
-          "summary_fr": "Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open source observability framework.…\nThe post OpenTelemetry in the GitHub Copilot app appeared first on The GitHub Blog.",
+          "title": "Changes to query results in the GitHub Actions API and UI",
+          "link": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+          "publishedAt": "2026-09-25T18:17:06.000Z",
+          "rawSummary": "Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,…\nThe post Changes to query results in the GitHub Actions API and UI appeared first on The GitHub Blog.",
+          "summary_fr": "Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,…\nThe post Changes to query results in the GitHub Actions API and UI appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "New features and improvements in Copilot for JetBrains",
-          "link": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-          "publishedAt": "2026-09-23T00:34:18.000Z",
-          "rawSummary": "GitHub Copilot for JetBrains 1.18.0 brings AI-assisted tool approvals, more control over agent conversations, and shared skills and instructions for your organization. You can also review plans with the Codex…\nThe post New features and improvements in Copilot for JetBrains appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub Copilot for JetBrains 1.18.0 brings AI-assisted tool approvals, more control over agent conversations, and shared skills and instructions for your organization. You can also review plans with the Codex…\nThe post New features and improvements in Copilot for JetBrains appeared first on The GitHub Blog.",
+          "title": "Agentic autofix now uses Copilot Memory",
+          "link": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+          "publishedAt": "2026-09-25T17:25:50.000Z",
+          "rawSummary": "Agentic autofix now uses Copilot Memory for customers who’ve enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it…\nThe post Agentic autofix now uses Copilot Memory appeared first on The GitHub Blog.",
+          "summary_fr": "Agentic autofix now uses Copilot Memory for customers who’ve enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it…\nThe post Agentic autofix now uses Copilot Memory appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Faster C++ code intelligence with whole codebase indexing",
-          "link": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
-          "publishedAt": "2026-09-22T22:24:48.000Z",
-          "rawSummary": "C++ code intelligence in GitHub Copilot CLI is now faster with support for whole codebase indexing. C++ repositories can contain millions of lines of code across deeply connected source files…\nThe post Faster C++ code intelligence with whole codebase indexing appeared first on The GitHub Blog.",
-          "summary_fr": "C++ code intelligence in GitHub Copilot CLI is now faster with support for whole codebase indexing. C++ repositories can contain millions of lines of code across deeply connected source files…\nThe post Faster C++ code intelligence with whole codebase indexing appeared first on The GitHub Blog.",
+          "title": "GitHub Copilot weekly releases — September 21",
+          "link": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "publishedAt": "2026-09-25T16:42:48.000Z",
+          "rawSummary": "This week’s releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus…\nThe post GitHub Copilot weekly releases — September 21 appeared first on The GitHub Blog.",
+          "summary_fr": "This week’s releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus…\nThe post GitHub Copilot weekly releases — September 21 appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Claude Opus 5.5 is now available in GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
-          "publishedAt": "2026-09-22T17:10:23.000Z",
-          "rawSummary": "Claude Opus 5.5, Anthropic’s newest Opus model, is now available in GitHub Copilot. You can use it for agentic coding, long-running agentic tasks, and knowledge work. In early testing, Opus…\nThe post Claude Opus 5.5 is now available in GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "Claude Opus 5.5, Anthropic’s newest Opus model, is now available in GitHub Copilot. You can use it for agentic coding, long-running agentic tasks, and knowledge work. In early testing, Opus…\nThe post Claude Opus 5.5 is now available in GitHub Copilot appeared first on The GitHub Blog.",
+          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "link": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "publishedAt": "2026-09-25T16:33:42.000Z",
+          "rawSummary": "GitHub Copilot in Slack and Microsoft Teams now gives you more context, more control, and a clearer path from conversation to GitHub work. Whether you’re sharing files in Slack or…\nThe post Updates to GitHub Copilot for Slack and Microsoft Teams appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Copilot in Slack and Microsoft Teams now gives you more context, more control, and a clearer path from conversation to GitHub work. Whether you’re sharing files in Slack or…\nThe post Updates to GitHub Copilot for Slack and Microsoft Teams appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
-          "link": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
-          "publishedAt": "2026-09-22T17:00:14.000Z",
-          "rawSummary": "OpenAI’s GPT-6 family is expanding in GitHub Copilot with two additional models: GPT-6 Sol, and GPT-6 Luna. Joining the previously released GPT-6 Astra, these new options let you select the…\nThe post OpenAI’s GPT-6 Sol and GPT-6 Luna now available appeared first on The GitHub Blog.",
-          "summary_fr": "OpenAI’s GPT-6 family is expanding in GitHub Copilot with two additional models: GPT-6 Sol, and GPT-6 Luna. Joining the previously released GPT-6 Astra, these new options let you select the…\nThe post OpenAI’s GPT-6 Sol and GPT-6 Luna now available appeared first on The GitHub Blog.",
+          "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
+          "link": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+          "publishedAt": "2026-09-25T09:55:23.000Z",
+          "rawSummary": "CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find…\nThe post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog.",
+          "summary_fr": "CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find…\nThe post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
@@ -203,6 +211,14 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "publishedAt": "2026-09-24T14:08:57.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
           "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
