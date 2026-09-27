@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-09-26T09:44:45.974Z",
+  "generatedAt": "2026-09-27T10:24:43.472Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "publishedAt": "2026-09-27T01:30:00.000Z",
+      "rawSummary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "summary_fr": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "publishedAt": "2026-09-26T21:02:06.000Z",
+      "rawSummary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "summary_fr": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "publishedAt": "2026-09-26T16:34:59.000Z",
+      "rawSummary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September 20th, and \"All training, evaluation, and inference with tool-use\" remains paused as of Saturday evening, September 25th.\nIn addition, OpenAI revealed on Friday that its agents had inappropriately uploaded 53nimages from ChatGPT users to image-hosting sites. T",
+      "summary_fr": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September 20th, and \"All training, evaluation, and inference with tool-use\" remains paused as of Saturday evening, September 25th.\nIn addition, OpenAI revealed on Friday that its agents had inappropriately uploaded 53nimages from ChatGPT users to image-hosting sites. T",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "publishedAt": "2026-09-26T14:00:00.000Z",
+      "rawSummary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "summary_fr": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "publishedAt": "2026-09-26T14:00:00.000Z",
+      "rawSummary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business.\nMatthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it turns out things are even wilder because of AI, and Matthew and Cloudflare are right at the center of it.\nCloudflare found in June that bots made up more than half of internet traffic. That number just keeps going up as more and more AI companies scrape more and more of the web, and now as more and more AI agents try an",
+      "summary_fr": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business.\nMatthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it turns out things are even wilder because of AI, and Matthew and Cloudflare are right at the center of it.\nCloudflare found in June that bots made up more than half of internet traffic. That number just keeps going up as more and more AI companies scrape more and more of the web, and now as more and more AI agents try an",
+      "category": "Autre"
+    },
     {
       "source": "TechCrunch AI",
       "tag": "Presse",
@@ -409,206 +459,6 @@
       "publishedAt": "2026-09-25T11:00:28.000Z",
       "rawSummary": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
       "summary_fr": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-      "link": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-      "publishedAt": "2026-09-25T09:55:23.000Z",
-      "rawSummary": "CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find…\nThe post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog.",
-      "summary_fr": "CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find…\nThe post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "publishedAt": "2026-09-25T05:00:00.000Z",
-      "rawSummary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "summary_fr": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Default Enablement of Copilot features for Copilot Business and Enterprise",
-      "link": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-      "publishedAt": "2026-09-25T03:13:23.000Z",
-      "rawSummary": "We’re introducing a new global default policy for generally available GitHub Copilot features and supported client capabilities in enterprise and organization Copilot settings. For the next 28 days, you can…\nThe post Default Enablement of Copilot features for Copilot Business and Enterprise appeared first on The GitHub Blog.",
-      "summary_fr": "We’re introducing a new global default policy for generally available GitHub Copilot features and supported client capabilities in enterprise and organization Copilot settings. For the next 28 days, you can…\nThe post Default Enablement of Copilot features for Copilot Business and Enterprise appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Require proof of presence for high-impact actions",
-      "link": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-      "publishedAt": "2026-09-24T20:28:33.000Z",
-      "rawSummary": "You can now require an interactive re-authentication or a multi-factor challenge before members take high-impact actions on GitHub Enterprise Cloud accounts. Proof of presence is an expansion of GitHub’s sudo…\nThe post Require proof of presence for high-impact actions appeared first on The GitHub Blog.",
-      "summary_fr": "You can now require an interactive re-authentication or a multi-factor challenge before members take high-impact actions on GitHub Enterprise Cloud accounts. Proof of presence is an expansion of GitHub’s sudo…\nThe post Require proof of presence for high-impact actions appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "publishedAt": "2026-09-24T19:59:26.000Z",
-      "rawSummary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers.\nAs noted by Google, Live Avatar can transition between the 97 languages it supports \"without degrading video fidelity or introducing visual drift.\" One video shared by Google shows its Live Avatar talking in English and Japanese, with its mouth animation lining up with what it's saying in both langua",
-      "summary_fr": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers.\nAs noted by Google, Live Avatar can transition between the 97 languages it supports \"without degrading video fidelity or introducing visual drift.\" One video shared by Google shows its Live Avatar talking in English and Japanese, with its mouth animation lining up with what it's saying in both langua",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "publishedAt": "2026-09-24T19:15:00.000Z",
-      "rawSummary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "summary_fr": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "publishedAt": "2026-09-24T19:00:42.000Z",
-      "rawSummary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "summary_fr": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "category": "Autre"
-    },
-    {
-      "source": "Ars Technica AI",
-      "tag": "Presse",
-      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-      "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-      "publishedAt": "2026-09-24T18:20:58.000Z",
-      "rawSummary": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-      "summary_fr": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "publishedAt": "2026-09-24T18:04:44.000Z",
-      "rawSummary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first.  \nThe Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the same accelerationist spin we've seen from a variety of tech leaders as well as President Donald Trump. They promise that AI will be such a gift to humanity that it's worth the damage caused by data centers currently running on dirty energy. \n\nHuang's extreme level of privilege is glaring\n\nHuang's extreme le",
-      "summary_fr": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first.  \nThe Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein Show. But his comments boil down to the same accelerationist spin we've seen from a variety of tech leaders as well as President Donald Trump. They promise that AI will be such a gift to humanity that it's worth the damage caused by data centers currently running on dirty energy. \n\nHuang's extreme level of privilege is glaring\n\nHuang's extreme le",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "publishedAt": "2026-09-24T17:52:29.000Z",
-      "rawSummary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools  that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in early access, and interested users can sign up for a waitlist.\nHorizon has struggled as a platform, but Meta has a plan to give these new Horizon games significantly more reach: It's going to let published games made with Horizon Create and Horizon Studio get recommended on Facebook an",
-      "summary_fr": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools  that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app that offers more granular controls. The apps will be available in early access, and interested users can sign up for a waitlist.\nHorizon has struggled as a platform, but Meta has a plan to give these new Horizon games significantly more reach: It's going to let published games made with Horizon Create and Horizon Studio get recommended on Facebook an",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "Muse will apparently let you download its entire filesystem",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-      "publishedAt": "2026-09-24T17:14:12.000Z",
-      "rawSummary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on Mastodon that it was \"extremely easy\" to replicate James' results and that Muse had \"Almost no prompt injection resistance.\"\nMeta denies that the incident represents a security breach. As noted in its announcement post, Meta's Muse runs in persistent L",
-      "summary_fr": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its root filesystem, Ubuntu system files, app templates, and internal documentation. Saunders posted on Mastodon that it was \"extremely easy\" to replicate James' results and that Muse had \"Almost no prompt injection resistance.\"\nMeta denies that the incident represents a security breach. As noted in its announcement post, Meta's Muse runs in persistent L",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "Muse sure looks a lot like OpenClaw",
-      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "publishedAt": "2026-09-24T17:10:38.000Z",
-      "rawSummary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been making the rounds in the tech industry. Under the hood, though, there are some obvious similarities to the platform that started it all: OpenClaw. \nFor the past week or so, some social media users have alleged that Muse is directly built on OpenClaw. The two platforms use ",
-      "summary_fr": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, whose eponymous creator is fundraising at a $2.5 billion valuation, has been making the rounds in the tech industry. Under the hood, though, there are some obvious similarities to the platform that started it all: OpenClaw. \nFor the past week or so, some social media users have alleged that Muse is directly built on OpenClaw. The two platforms use ",
-      "category": "Autre"
-    },
-    {
-      "source": "Google DeepMind",
-      "tag": "Éditeur",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "publishedAt": "2026-09-24T16:20:39.000Z",
-      "rawSummary": "",
-      "summary_fr": "",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Speaker-labeled transcription with WhisperX on SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/speaker-labeled-transcription-with-whisperx-on-sagemaker-ai/",
-      "publishedAt": "2026-09-24T16:20:12.000Z",
-      "rawSummary": "The AWS WhisperX Deep Learning Container packages Whisper, wav2vec2 forced alignment, and speaker diarization into a GPU-ready image. Learn how to deploy it to Amazon SageMaker AI real-time and asynchronous endpoints for word-level, speaker-labeled transcription, plus the production details that matter: the GPU AMI pin, scaling, and cost controls.",
-      "summary_fr": "The AWS WhisperX Deep Learning Container packages Whisper, wav2vec2 forced alignment, and speaker diarization into a GPU-ready image. Learn how to deploy it to Amazon SageMaker AI real-time and asynchronous endpoints for word-level, speaker-labeled transcription, plus the production details that matter: the GPU AMI pin, scaling, and cost controls.",
-      "category": "Autre"
-    },
-    {
-      "source": "Ars Technica AI",
-      "tag": "Presse",
-      "title": "Google's first Suncatcher orbital data center test launches October 1",
-      "link": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-      "publishedAt": "2026-09-24T16:16:34.000Z",
-      "rawSummary": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
-      "summary_fr": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Build a multi-account AI agent with AgentCore Gateway and MCP",
-      "link": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-account-ai-agent-with-agentcore-gateway-and-mcp/",
-      "publishedAt": "2026-09-24T16:12:47.000Z",
-      "rawSummary": "Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A central platform account runs the agent using Amazon Bedrock AgentCore Gateway and MCP, while line-of-business accounts expose their data as MCP servers with secure cross-account access and fine-grained authorization.",
-      "summary_fr": "Build a multi-account architecture that keeps each team's data in its own AWS account while giving AI agents a unified way to query across them. A central platform account runs the agent using Amazon Bedrock AgentCore Gateway and MCP, while line-of-business accounts expose their data as MCP servers with secure cross-account access and fine-grained authorization.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Aderant builds intelligent ticket triage with Amazon Nova",
-      "link": "https://aws.amazon.com/blogs/machine-learning/aderant-builds-intelligent-ticket-triage-with-amazon-nova/",
-      "publishedAt": "2026-09-24T16:06:46.000Z",
-      "rawSummary": "Learn how Aderant built an intelligent ticket triage system on Amazon Nova Lite through Amazon Bedrock, automating context gathering, classification, routing, and knowledge enrichment for its cloud operations team.",
-      "summary_fr": "Learn how Aderant built an intelligent ticket triage system on Amazon Nova Lite through Amazon Bedrock, automating context gathering, classification, routing, and knowledge enrichment for its cloud operations team.",
-      "category": "Autre"
-    },
-    {
-      "source": "Ars Technica AI",
-      "tag": "Presse",
-      "title": "OpenAI agent “didn’t accept no for an answer” in Australian government breach",
-      "link": "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-      "publishedAt": "2026-09-24T16:01:16.000Z",
-      "rawSummary": "\"There will obviously be legal consequences,\" prime minister promises.",
-      "summary_fr": "\"There will obviously be legal consequences,\" prime minister promises.",
-      "category": "Autre"
-    },
-    {
-      "source": "Hugging Face",
-      "tag": "Éditeur",
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "publishedAt": "2026-09-24T14:08:57.000Z",
-      "rawSummary": "",
-      "summary_fr": "",
-      "category": "Autre"
-    },
-    {
-      "source": "Ars Technica AI",
-      "tag": "Presse",
-      "title": "Meta puts its AI assistant on a keychain",
-      "link": "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
-      "publishedAt": "2026-09-24T14:03:38.000Z",
-      "rawSummary": "Meta says the keychain-sized Muse Charm will ship in December.",
-      "summary_fr": "Meta says the keychain-sized Muse Charm will ship in December.",
       "category": "Autre"
     }
   ]
