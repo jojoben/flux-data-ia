@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T10:24:43.473Z",
+  "generatedAt": "2026-09-28T11:32:07.890Z",
   "vendors": [
     {
       "vendor": "OpenAI",
@@ -212,6 +212,14 @@
       "vendor": "Hugging Face",
       "items": [
         {
+          "title": "Holo4: powering generalist computer-use agents",
+          "link": "https://huggingface.co/blog/Hcompany/holo4",
+          "publishedAt": "2026-09-28T09:44:05.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
           "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
           "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
           "publishedAt": "2026-09-24T14:08:57.000Z",
@@ -263,14 +271,6 @@
           "title": "tokenizers v1: encode, decode and scaling, measured",
           "link": "https://huggingface.co/blog/tokenizers-v1",
           "publishedAt": "2026-09-21T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Your Agent Aced the Task. Will It Do It Again?",
-          "link": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-          "publishedAt": "2026-09-15T16:00:44.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
