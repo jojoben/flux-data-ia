@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-09-28T11:32:07.890Z",
+  "generatedAt": "2026-09-29T11:11:51.138Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "How we will do better for Australia",
+          "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "publishedAt": "2026-09-28T19:00:00.000Z",
+          "rawSummary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+          "summary_fr": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Towards safety cases for frontier AI training",
+          "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+          "publishedAt": "2026-09-28T19:00:00.000Z",
+          "rawSummary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+          "summary_fr": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+          "diff_type": "updated"
+        },
+        {
+          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+          "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+          "publishedAt": "2026-09-28T07:00:00.000Z",
+          "rawSummary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+          "summary_fr": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Are you a Codex Original?",
+          "link": "https://openai.com/form/codex-originals",
+          "publishedAt": "2026-09-28T00:00:00.000Z",
+          "rawSummary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+          "summary_fr": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+          "link": "https://openai.com/index/basis-tax-workbook-with-astra",
+          "publishedAt": "2026-09-28T00:00:00.000Z",
+          "rawSummary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+          "summary_fr": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+          "diff_type": "updated"
+        },
         {
           "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
           "link": "https://openai.com/index/proaction",
@@ -26,46 +66,6 @@
           "publishedAt": "2026-09-23T13:00:00.000Z",
           "rawSummary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
           "summary_fr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Sam Altman’s remarks at the United Nations Security Council",
-          "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
-          "publishedAt": "2026-09-23T12:00:00.000Z",
-          "rawSummary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-          "summary_fr": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-          "publishedAt": "2026-09-23T12:00:00.000Z",
-          "rawSummary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-          "summary_fr": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-          "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-          "publishedAt": "2026-09-23T12:00:00.000Z",
-          "rawSummary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-          "summary_fr": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-          "link": "https://openai.com/index/ringg",
-          "publishedAt": "2026-09-23T12:00:00.000Z",
-          "rawSummary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-          "summary_fr": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing MentalHealthBench",
-          "link": "https://openai.com/index/introducing-mentalhealthbench",
-          "publishedAt": "2026-09-23T10:00:00.000Z",
-          "rawSummary": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
-          "summary_fr": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
           "diff_type": "updated"
         }
       ],
@@ -136,6 +136,22 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "Self-hosted runner version enforcement date has moved",
+          "link": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
+          "publishedAt": "2026-09-28T19:22:46.000Z",
+          "rawSummary": "The enforcement date for GitHub Actions minimum version requirements for self-hosted runners on GitHub Enterprise Cloud has changed. The change ships Monday, September 28, 2026, and full enforcement now begins…\nThe post Self-hosted runner version enforcement date has moved appeared first on The GitHub Blog.",
+          "summary_fr": "The enforcement date for GitHub Actions minimum version requirements for self-hosted runners on GitHub Enterprise Cloud has changed. The change ships Monday, September 28, 2026, and full enforcement now begins…\nThe post Self-hosted runner version enforcement date has moved appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Claude Sonnet 5.5 in GitHub Copilot",
+          "link": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
+          "publishedAt": "2026-09-28T18:03:57.000Z",
+          "rawSummary": "Claude Sonnet 5.5, Anthropic’s newest Sonnet model, is now generally available in GitHub Copilot. It is designed for well-scoped everyday work like building features and fixing bugs. In our early…\nThe post Claude Sonnet 5.5 in GitHub Copilot appeared first on The GitHub Blog.",
+          "summary_fr": "Claude Sonnet 5.5, Anthropic’s newest Sonnet model, is now generally available in GitHub Copilot. It is designed for well-scoped everyday work like building features and fixing bugs. In our early…\nThe post Claude Sonnet 5.5 in GitHub Copilot appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Enterprise managed settings in-product validator",
           "link": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
           "publishedAt": "2026-09-25T23:24:57.000Z",
@@ -181,22 +197,6 @@
           "publishedAt": "2026-09-25T16:42:48.000Z",
           "rawSummary": "This week’s releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus…\nThe post GitHub Copilot weekly releases — September 21 appeared first on The GitHub Blog.",
           "summary_fr": "This week’s releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus…\nThe post GitHub Copilot weekly releases — September 21 appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
-          "link": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
-          "publishedAt": "2026-09-25T16:33:42.000Z",
-          "rawSummary": "GitHub Copilot in Slack and Microsoft Teams now gives you more context, more control, and a clearer path from conversation to GitHub work. Whether you’re sharing files in Slack or…\nThe post Updates to GitHub Copilot for Slack and Microsoft Teams appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub Copilot in Slack and Microsoft Teams now gives you more context, more control, and a clearer path from conversation to GitHub work. Whether you’re sharing files in Slack or…\nThe post Updates to GitHub Copilot for Slack and Microsoft Teams appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-          "link": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-          "publishedAt": "2026-09-25T09:55:23.000Z",
-          "rawSummary": "CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find…\nThe post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog.",
-          "summary_fr": "CodeQL 2.27.1 adds new queries for C/C++ and C#, support for Kotlin 2.4.20, and query-accuracy improvements. CodeQL is the static analysis engine behind GitHub code scanning, which helps you find…\nThe post CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
