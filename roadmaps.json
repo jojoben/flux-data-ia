@@ -1,15 +1,31 @@
 {
-  "generatedAt": "2026-09-29T11:11:51.138Z",
+  "generatedAt": "2026-09-30T10:59:45.870Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
         {
-          "title": "How we will do better for Australia",
-          "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "publishedAt": "2026-09-28T19:00:00.000Z",
-          "rawSummary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-          "summary_fr": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+          "title": "Introducing GPT-6.1 Sol",
+          "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "publishedAt": "2026-09-29T10:00:00.000Z",
+          "rawSummary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+          "summary_fr": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "DevDay 2026 Recap",
+          "link": "https://openai.com/index/devday-2026-recap",
+          "publishedAt": "2026-09-29T10:00:00.000Z",
+          "rawSummary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+          "summary_fr": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing dots",
+          "link": "https://openai.com/index/introducing-dots",
+          "publishedAt": "2026-09-29T00:00:00.000Z",
+          "rawSummary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+          "summary_fr": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
           "diff_type": "updated"
         },
         {
@@ -18,6 +34,14 @@
           "publishedAt": "2026-09-28T19:00:00.000Z",
           "rawSummary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
           "summary_fr": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+          "diff_type": "updated"
+        },
+        {
+          "title": "How we will do better for Australia",
+          "link": "https://openai.com/index/how-we-will-do-better-for-australia",
+          "publishedAt": "2026-09-28T19:00:00.000Z",
+          "rawSummary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+          "summary_fr": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
           "diff_type": "updated"
         },
         {
@@ -42,30 +66,6 @@
           "publishedAt": "2026-09-28T00:00:00.000Z",
           "rawSummary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
           "summary_fr": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-          "link": "https://openai.com/index/proaction",
-          "publishedAt": "2026-09-25T19:00:00.000Z",
-          "rawSummary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-          "summary_fr": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Two years of OpenAI Academy",
-          "link": "https://openai.com/index/two-years-of-openai-academy",
-          "publishedAt": "2026-09-23T16:00:00.000Z",
-          "rawSummary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-          "summary_fr": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-          "link": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-          "publishedAt": "2026-09-23T13:00:00.000Z",
-          "rawSummary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-          "summary_fr": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
           "diff_type": "updated"
         }
       ],
@@ -103,14 +103,6 @@
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
-        },
-        {
-          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "link": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-          "publishedAt": "2026-09-15T17:05:57.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -135,6 +127,30 @@
     {
       "vendor": "GitHub",
       "items": [
+        {
+          "title": "Repository custom runner settings for Dependabot",
+          "link": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
+          "publishedAt": "2026-09-29T19:10:00.000Z",
+          "rawSummary": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already…\nThe post Repository custom runner settings for Dependabot appeared first on The GitHub Blog.",
+          "summary_fr": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already…\nThe post Repository custom runner settings for Dependabot appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Bring business context with external custom properties",
+          "link": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
+          "publishedAt": "2026-09-29T18:40:27.000Z",
+          "rawSummary": "You can now seamlessly bring business context about your repositories from an external system of record (e.g., a configuration management database (CMDB), an internal developer portal, or an in-house system)…\nThe post Bring business context with external custom properties appeared first on The GitHub Blog.",
+          "summary_fr": "You can now seamlessly bring business context about your repositories from an external system of record (e.g., a configuration management database (CMDB), an internal developer portal, or an in-house system)…\nThe post Bring business context with external custom properties appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GPT-6.1 Sol in GitHub Copilot",
+          "link": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
+          "publishedAt": "2026-09-29T17:02:27.000Z",
+          "rawSummary": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep…\nThe post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog.",
+          "summary_fr": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep…\nThe post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
         {
           "title": "Self-hosted runner version enforcement date has moved",
           "link": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
@@ -174,30 +190,6 @@
           "rawSummary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. “Relates to” issue relationship…\nThe post Private saved views for repository issues and “Relates to” issue relationship is generally available appeared first on The GitHub Blog.",
           "summary_fr": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. “Relates to” issue relationship…\nThe post Private saved views for repository issues and “Relates to” issue relationship is generally available appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Changes to query results in the GitHub Actions API and UI",
-          "link": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
-          "publishedAt": "2026-09-25T18:17:06.000Z",
-          "rawSummary": "Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,…\nThe post Changes to query results in the GitHub Actions API and UI appeared first on The GitHub Blog.",
-          "summary_fr": "Queries for workflow runs in the GitHub Actions API and UI now return a less precise but more accurate count of records when you search by workflow, event, status, branch,…\nThe post Changes to query results in the GitHub Actions API and UI appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Agentic autofix now uses Copilot Memory",
-          "link": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
-          "publishedAt": "2026-09-25T17:25:50.000Z",
-          "rawSummary": "Agentic autofix now uses Copilot Memory for customers who’ve enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it…\nThe post Agentic autofix now uses Copilot Memory appeared first on The GitHub Blog.",
-          "summary_fr": "Agentic autofix now uses Copilot Memory for customers who’ve enabled it. When you use agentic autofix, it reviews existing memories for context that can help resolve security alerts. When it…\nThe post Agentic autofix now uses Copilot Memory appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GitHub Copilot weekly releases — September 21",
-          "link": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
-          "publishedAt": "2026-09-25T16:42:48.000Z",
-          "rawSummary": "This week’s releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus…\nThe post GitHub Copilot weekly releases — September 21 appeared first on The GitHub Blog.",
-          "summary_fr": "This week’s releases add new models to Copilot, local sandboxing in the Copilot app, and updates to Copilot in Slack, Microsoft Teams, JetBrains, and VS Code. GitHub Copilot Claude Opus…\nThe post GitHub Copilot weekly releases — September 21 appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -212,6 +204,22 @@
       "vendor": "Hugging Face",
       "items": [
         {
+          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "publishedAt": "2026-09-29T15:30:38.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+          "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+          "publishedAt": "2026-09-29T13:07:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
           "title": "Holo4: powering generalist computer-use agents",
           "link": "https://huggingface.co/blog/Hcompany/holo4",
           "publishedAt": "2026-09-28T09:44:05.000Z",
@@ -223,14 +231,6 @@
           "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
           "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
           "publishedAt": "2026-09-24T14:08:57.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "link": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-          "publishedAt": "2026-09-23T18:41:40.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
@@ -255,14 +255,6 @@
           "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
           "link": "https://huggingface.co/blog/omlx",
           "publishedAt": "2026-09-22T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-          "link": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-          "publishedAt": "2026-09-21T13:44:34.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
