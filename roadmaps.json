@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-09-30T10:59:45.870Z",
+  "generatedAt": "2026-10-02T10:56:45.139Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "The eternal complement",
+          "link": "https://openai.com/index/the-eternal-complement",
+          "publishedAt": "2026-10-01T17:00:00.000Z",
+          "rawSummary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+          "summary_fr": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "How Albertsons Companies is reimagining retail from the inside out",
+          "link": "https://openai.com/index/albertsons-reimagining-retail",
+          "publishedAt": "2026-10-01T16:00:00.000Z",
+          "rawSummary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+          "summary_fr": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+          "link": "https://openai.com/index/the-den-family-social",
+          "publishedAt": "2026-10-01T00:00:00.000Z",
+          "rawSummary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+          "summary_fr": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Disrupting a coordinated model-distillation campaign",
+          "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "publishedAt": "2026-09-30T10:30:00.000Z",
+          "rawSummary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+          "summary_fr": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Helping small businesses put AI to work",
+          "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+          "publishedAt": "2026-09-30T10:00:00.000Z",
+          "rawSummary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+          "summary_fr": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+          "diff_type": "updated"
+        },
         {
           "title": "Introducing GPT-6.1 Sol",
           "link": "https://openai.com/index/introducing-gpt-6-1-sol",
@@ -27,46 +67,6 @@
           "rawSummary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
           "summary_fr": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Towards safety cases for frontier AI training",
-          "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-          "publishedAt": "2026-09-28T19:00:00.000Z",
-          "rawSummary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-          "summary_fr": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How we will do better for Australia",
-          "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-          "publishedAt": "2026-09-28T19:00:00.000Z",
-          "rawSummary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-          "summary_fr": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-          "link": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-          "publishedAt": "2026-09-28T07:00:00.000Z",
-          "rawSummary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-          "summary_fr": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Are you a Codex Original?",
-          "link": "https://openai.com/form/codex-originals",
-          "publishedAt": "2026-09-28T00:00:00.000Z",
-          "rawSummary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-          "summary_fr": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-          "link": "https://openai.com/index/basis-tax-workbook-with-astra",
-          "publishedAt": "2026-09-28T00:00:00.000Z",
-          "rawSummary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-          "summary_fr": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -80,6 +80,22 @@
     {
       "vendor": "Google DeepMind",
       "items": [
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "publishedAt": "2026-09-30T20:01:45.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing SynthID Bio",
+          "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "publishedAt": "2026-09-30T15:03:07.000Z",
+          "rawSummary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+          "summary_fr": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+          "diff_type": "updated"
+        },
         {
           "title": "Introducing Gemini 3.8 Live with Live Avatar",
           "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
@@ -128,67 +144,67 @@
       "vendor": "GitHub",
       "items": [
         {
-          "title": "Repository custom runner settings for Dependabot",
-          "link": "https://github.blog/changelog/2026-09-29-repository-custom-runner-settings-for-dependabot",
-          "publishedAt": "2026-09-29T19:10:00.000Z",
-          "rawSummary": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already…\nThe post Repository custom runner settings for Dependabot appeared first on The GitHub Blog.",
-          "summary_fr": "As a repository administrator, you can now configure the runner type, optional custom label, and optional runner group for Dependabot version and security updates. This extends the runner configuration already…\nThe post Repository custom runner settings for Dependabot appeared first on The GitHub Blog.",
+          "title": "Rate limits for private vulnerability reports",
+          "link": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
+          "publishedAt": "2026-10-01T19:57:39.000Z",
+          "rawSummary": "Open source maintainers are receiving more low-quality and automated vulnerability reports, which can bury the reports that matter. Rate limits cap how many new reports a single account can submit…\nThe post Rate limits for private vulnerability reports appeared first on The GitHub Blog.",
+          "summary_fr": "Open source maintainers are receiving more low-quality and automated vulnerability reports, which can bury the reports that matter. Rate limits cap how many new reports a single account can submit…\nThe post Rate limits for private vulnerability reports appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Bring business context with external custom properties",
-          "link": "https://github.blog/changelog/2026-09-29-bring-business-context-with-external-custom-properties",
-          "publishedAt": "2026-09-29T18:40:27.000Z",
-          "rawSummary": "You can now seamlessly bring business context about your repositories from an external system of record (e.g., a configuration management database (CMDB), an internal developer portal, or an in-house system)…\nThe post Bring business context with external custom properties appeared first on The GitHub Blog.",
-          "summary_fr": "You can now seamlessly bring business context about your repositories from an external system of record (e.g., a configuration management database (CMDB), an internal developer portal, or an in-house system)…\nThe post Bring business context with external custom properties appeared first on The GitHub Blog.",
+          "title": "Structured forms for private vulnerability reports",
+          "link": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
+          "publishedAt": "2026-10-01T19:57:28.000Z",
+          "rawSummary": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text…\nThe post Structured forms for private vulnerability reports appeared first on The GitHub Blog.",
+          "summary_fr": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text…\nThe post Structured forms for private vulnerability reports appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "GPT-6.1 Sol in GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-09-29-gpt-6-1-sol-in-github-copilot",
-          "publishedAt": "2026-09-29T17:02:27.000Z",
-          "rawSummary": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep…\nThe post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "GPT-6.1 Sol, the latest model from OpenAI, is now generally available and rolling out in GitHub Copilot. You can use it for agentic coding and terminal workflows with strong multistep…\nThe post GPT-6.1 Sol in GitHub Copilot appeared first on The GitHub Blog.",
+          "title": "GitHub Copilot can now interact with desktop apps with computer use",
+          "link": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
+          "publishedAt": "2026-10-01T19:11:26.000Z",
+          "rawSummary": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf…\nThe post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog.",
+          "summary_fr": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf…\nThe post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Self-hosted runner version enforcement date has moved",
-          "link": "https://github.blog/changelog/2026-09-28-self-hosted-runner-version-enforcement-date-has-moved",
-          "publishedAt": "2026-09-28T19:22:46.000Z",
-          "rawSummary": "The enforcement date for GitHub Actions minimum version requirements for self-hosted runners on GitHub Enterprise Cloud has changed. The change ships Monday, September 28, 2026, and full enforcement now begins…\nThe post Self-hosted runner version enforcement date has moved appeared first on The GitHub Blog.",
-          "summary_fr": "The enforcement date for GitHub Actions minimum version requirements for self-hosted runners on GitHub Enterprise Cloud has changed. The change ships Monday, September 28, 2026, and full enforcement now begins…\nThe post Self-hosted runner version enforcement date has moved appeared first on The GitHub Blog.",
+          "title": "GitHub Actions: macOS 14 runner image retirement",
+          "link": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
+          "publishedAt": "2026-10-01T19:11:23.000Z",
+          "rawSummary": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled…\nThe post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog.",
+          "summary_fr": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled…\nThe post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Claude Sonnet 5.5 in GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-09-28-claude-sonnet-5-5-in-github-copilot",
-          "publishedAt": "2026-09-28T18:03:57.000Z",
-          "rawSummary": "Claude Sonnet 5.5, Anthropic’s newest Sonnet model, is now generally available in GitHub Copilot. It is designed for well-scoped everyday work like building features and fixing bugs. In our early…\nThe post Claude Sonnet 5.5 in GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "Claude Sonnet 5.5, Anthropic’s newest Sonnet model, is now generally available in GitHub Copilot. It is designed for well-scoped everyday work like building features and fixing bugs. In our early…\nThe post Claude Sonnet 5.5 in GitHub Copilot appeared first on The GitHub Blog.",
+          "title": "GitHub Copilot in VS Code, September 2026 releases",
+          "link": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
+          "publishedAt": "2026-10-01T19:09:10.000Z",
+          "rawSummary": "This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle repeatable tasks, agent merge helps…\nThe post GitHub Copilot in VS Code, September 2026 releases appeared first on The GitHub Blog.",
+          "summary_fr": "This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle repeatable tasks, agent merge helps…\nThe post GitHub Copilot in VS Code, September 2026 releases appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Enterprise managed settings in-product validator",
-          "link": "https://github.blog/changelog/2026-09-25-enterprise-managed-settings-in-product-validator",
-          "publishedAt": "2026-09-25T23:24:57.000Z",
-          "rawSummary": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors that can prevent…\nThe post Enterprise managed settings in-product validator appeared first on The GitHub Blog.",
-          "summary_fr": "You can now use an in-product validator for enterprise managed settings for GitHub Copilot. The validator detects malformed JSON, unsupported configurations, invalid team mappings, and other errors that can prevent…\nThe post Enterprise managed settings in-product validator appeared first on The GitHub Blog.",
+          "title": "Accessibility statements highlighted on repository overview",
+          "link": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
+          "publishedAt": "2026-10-01T19:04:32.000Z",
+          "rawSummary": "You can now find an ACCESSIBILITY.md file in your repository’s root, the .github/ directory, or the docs/ directory highlighted on the repository overview. You can also add or propose an…\nThe post Accessibility statements highlighted on repository overview appeared first on The GitHub Blog.",
+          "summary_fr": "You can now find an ACCESSIBILITY.md file in your repository’s root, the .github/ directory, or the docs/ directory highlighted on the repository overview. You can also add or propose an…\nThe post Accessibility statements highlighted on repository overview appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Usage metrics API adds pull request review stages",
-          "link": "https://github.blog/changelog/2026-09-25-usage-metrics-api-adds-pull-request-review-stages",
-          "publishedAt": "2026-09-25T21:09:40.000Z",
-          "rawSummary": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review. A new pull_request_review_times array on each repos-1-day row…\nThe post Usage metrics API adds pull request review stages appeared first on The GitHub Blog.",
-          "summary_fr": "The enterprise and organization repository-level Copilot usage metrics reports now break down how long pull requests spend in each stage of review. A new pull_request_review_times array on each repos-1-day row…\nThe post Usage metrics API adds pull request review stages appeared first on The GitHub Blog.",
+          "title": "Actions retention now covers checks, runs, and statuses",
+          "link": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
+          "publishedAt": "2026-10-01T17:59:54.000Z",
+          "rawSummary": "As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and logs are kept. These records are…\nThe post Actions retention now covers checks, runs, and statuses appeared first on The GitHub Blog.",
+          "summary_fr": "As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and logs are kept. These records are…\nThe post Actions retention now covers checks, runs, and statuses appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Private saved views for repository issues and “Relates to” issue relationship is generally available",
-          "link": "https://github.blog/changelog/2026-09-25-personal-saved-views-for-repository-issues-and-more",
-          "publishedAt": "2026-09-25T19:05:03.000Z",
-          "rawSummary": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. “Relates to” issue relationship…\nThe post Private saved views for repository issues and “Relates to” issue relationship is generally available appeared first on The GitHub Blog.",
-          "summary_fr": "Private saved views for repository issues Repository issues pages now support private saved views, making it easier to create and save personalized views of your issues. “Relates to” issue relationship…\nThe post Private saved views for repository issues and “Relates to” issue relationship is generally available appeared first on The GitHub Blog.",
+          "title": "Scheduled code scanning skips inactive repositories",
+          "link": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
+          "publishedAt": "2026-10-01T16:49:15.000Z",
+          "rawSummary": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of…\nThe post Scheduled code scanning skips inactive repositories appeared first on The GitHub Blog.",
+          "summary_fr": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of…\nThe post Scheduled code scanning skips inactive repositories appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
@@ -203,6 +219,30 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "publishedAt": "2026-10-02T04:01:31.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "link": "https://huggingface.co/blog/allenai/olmocore3",
+          "publishedAt": "2026-10-01T15:01:43.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+          "link": "https://huggingface.co/blog/open-tts-leaderboard",
+          "publishedAt": "2026-09-30T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
           "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
@@ -239,30 +279,6 @@
           "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
           "link": "https://huggingface.co/blog/evaleval-aisi",
           "publishedAt": "2026-09-22T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Transformers now runs llama.cpp quants",
-          "link": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-          "link": "https://huggingface.co/blog/omlx",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "tokenizers v1: encode, decode and scaling, measured",
-          "link": "https://huggingface.co/blog/tokenizers-v1",
-          "publishedAt": "2026-09-21T00:00:00.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
