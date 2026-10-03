@@ -1,9 +1,25 @@
 {
-  "generatedAt": "2026-10-02T10:56:45.139Z",
+  "generatedAt": "2026-10-03T10:16:14.568Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "A model guide for the GPT-6 family",
+          "link": "https://openai.com/index/practical-guide-building-gpt-6",
+          "publishedAt": "2026-10-02T16:15:00.000Z",
+          "rawSummary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+          "summary_fr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Chatham scales its capital markets expertise with OpenAI",
+          "link": "https://openai.com/index/chatham-financial",
+          "publishedAt": "2026-10-02T00:00:00.000Z",
+          "rawSummary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+          "summary_fr": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+          "diff_type": "updated"
+        },
         {
           "title": "The eternal complement",
           "link": "https://openai.com/index/the-eternal-complement",
@@ -45,27 +61,11 @@
           "diff_type": "updated"
         },
         {
-          "title": "Introducing GPT-6.1 Sol",
-          "link": "https://openai.com/index/introducing-gpt-6-1-sol",
-          "publishedAt": "2026-09-29T10:00:00.000Z",
-          "rawSummary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-          "summary_fr": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-          "diff_type": "updated"
-        },
-        {
           "title": "DevDay 2026 Recap",
           "link": "https://openai.com/index/devday-2026-recap",
           "publishedAt": "2026-09-29T10:00:00.000Z",
           "rawSummary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
           "summary_fr": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing dots",
-          "link": "https://openai.com/index/introducing-dots",
-          "publishedAt": "2026-09-29T00:00:00.000Z",
-          "rawSummary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
-          "summary_fr": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
           "diff_type": "updated"
         }
       ],
@@ -79,53 +79,12 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [
-        {
-          "title": "Gemini 4 Argon: our next era of frontier intelligence",
-          "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-          "publishedAt": "2026-09-30T20:01:45.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing SynthID Bio",
-          "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-          "publishedAt": "2026-09-30T15:03:07.000Z",
-          "rawSummary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-          "summary_fr": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing Gemini 3.8 Live with Live Avatar",
-          "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-          "publishedAt": "2026-09-24T16:20:39.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-          "publishedAt": "2026-09-23T16:00:57.000Z",
-          "rawSummary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-          "summary_fr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Gemini 3.8 text-to-speech says hello",
-          "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-          "publishedAt": "2026-09-23T15:25:14.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        }
-      ],
+      "items": [],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": true,
-          "error": null
+          "ok": false,
+          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
         }
       ]
     },
@@ -144,6 +103,54 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "Stateless GitHub App installation tokens rolled out",
+          "link": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
+          "publishedAt": "2026-10-02T22:18:23.000Z",
+          "rawSummary": "The staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete. By default, all newly minted GitHub App installation tokens will be…\nThe post Stateless GitHub App installation tokens rolled out appeared first on The GitHub Blog.",
+          "summary_fr": "The staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete. By default, all newly minted GitHub App installation tokens will be…\nThe post Stateless GitHub App installation tokens rolled out appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Copilot code review: API support and new default effort level",
+          "link": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
+          "publishedAt": "2026-10-02T19:13:50.000Z",
+          "rawSummary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default…\nThe post Copilot code review: API support and new default effort level appeared first on The GitHub Blog.",
+          "summary_fr": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default…\nThe post Copilot code review: API support and new default effort level appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Selected models in GitHub Copilot deprecated",
+          "link": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
+          "publishedAt": "2026-10-02T18:24:19.000Z",
+          "rawSummary": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nThe post Selected models in GitHub Copilot deprecated appeared first on The GitHub Blog.",
+          "summary_fr": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nThe post Selected models in GitHub Copilot deprecated appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "New fields for SecurityAdvisory GraphQL API",
+          "link": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
+          "publishedAt": "2026-10-02T13:18:00.000Z",
+          "rawSummary": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:…\nThe post New fields for SecurityAdvisory GraphQL API appeared first on The GitHub Blog.",
+          "summary_fr": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:…\nThe post New fields for SecurityAdvisory GraphQL API appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Confidential comments on repository security advisories",
+          "link": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
+          "publishedAt": "2026-10-02T13:15:40.000Z",
+          "rawSummary": "You can now post confidential comments on repository security advisories. Confidential comments are visible only to people with write access to the repository, so you can discuss a report with…\nThe post Confidential comments on repository security advisories appeared first on The GitHub Blog.",
+          "summary_fr": "You can now post confidential comments on repository security advisories. Confidential comments are visible only to people with write access to the repository, so you can discuss a report with…\nThe post Confidential comments on repository security advisories appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Repository security advisory comments API in public preview",
+          "link": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
+          "publishedAt": "2026-10-02T13:15:25.000Z",
+          "rawSummary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory…\nThe post Repository security advisory comments API in public preview appeared first on The GitHub Blog.",
+          "summary_fr": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory…\nThe post Repository security advisory comments API in public preview appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Rate limits for private vulnerability reports",
           "link": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
           "publishedAt": "2026-10-01T19:57:39.000Z",
@@ -157,54 +164,6 @@
           "publishedAt": "2026-10-01T19:57:28.000Z",
           "rawSummary": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text…\nThe post Structured forms for private vulnerability reports appeared first on The GitHub Blog.",
           "summary_fr": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text…\nThe post Structured forms for private vulnerability reports appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GitHub Copilot can now interact with desktop apps with computer use",
-          "link": "https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps",
-          "publishedAt": "2026-10-01T19:11:26.000Z",
-          "rawSummary": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf…\nThe post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog.",
-          "summary_fr": "Computer use is now available in public preview in GitHub Copilot CLI and the GitHub Copilot app on macOS and Windows. Copilot can interact with desktop applications on your behalf…\nThe post GitHub Copilot can now interact with desktop apps with computer use appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GitHub Actions: macOS 14 runner image retirement",
-          "link": "https://github.blog/changelog/2026-10-01-github-actions-macos-14-runner-image-retirement",
-          "publishedAt": "2026-10-01T19:11:23.000Z",
-          "rawSummary": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled…\nThe post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog.",
-          "summary_fr": "The macOS 14 runner image will be retired on November 2, 2026. To raise awareness of the upcoming removal, jobs using macOS 14 will temporarily fail during the following scheduled…\nThe post GitHub Actions: macOS 14 runner image retirement appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GitHub Copilot in VS Code, September 2026 releases",
-          "link": "https://github.blog/changelog/2026-10-01-github-copilot-in-vs-code-september-2026-releases",
-          "publishedAt": "2026-10-01T19:09:10.000Z",
-          "rawSummary": "This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle repeatable tasks, agent merge helps…\nThe post GitHub Copilot in VS Code, September 2026 releases appeared first on The GitHub Blog.",
-          "summary_fr": "This changelog covers VS Code v1.136 through v1.140, shipped throughout September 2026. September’s releases streamline agent-driven development from implementation through pull request merge. Automations handle repeatable tasks, agent merge helps…\nThe post GitHub Copilot in VS Code, September 2026 releases appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Accessibility statements highlighted on repository overview",
-          "link": "https://github.blog/changelog/2026-10-01-accessibility-statements-highlighted-on-repository-overview",
-          "publishedAt": "2026-10-01T19:04:32.000Z",
-          "rawSummary": "You can now find an ACCESSIBILITY.md file in your repository’s root, the .github/ directory, or the docs/ directory highlighted on the repository overview. You can also add or propose an…\nThe post Accessibility statements highlighted on repository overview appeared first on The GitHub Blog.",
-          "summary_fr": "You can now find an ACCESSIBILITY.md file in your repository’s root, the .github/ directory, or the docs/ directory highlighted on the repository overview. You can also add or propose an…\nThe post Accessibility statements highlighted on repository overview appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Actions retention now covers checks, runs, and statuses",
-          "link": "https://github.blog/changelog/2026-10-01-actions-retention-now-covers-checks-runs-and-statuses",
-          "publishedAt": "2026-10-01T17:59:54.000Z",
-          "rawSummary": "As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and logs are kept. These records are…\nThe post Actions retention now covers checks, runs, and statuses appeared first on The GitHub Blog.",
-          "summary_fr": "As previously announced, checks, workflow runs, and statuses are now governed by the same GitHub Actions retention setting that controls how long artifacts and logs are kept. These records are…\nThe post Actions retention now covers checks, runs, and statuses appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Scheduled code scanning skips inactive repositories",
-          "link": "https://github.blog/changelog/2026-10-01-scheduled-code-scanning-skips-inactive-repositories",
-          "publishedAt": "2026-10-01T16:49:15.000Z",
-          "rawSummary": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of…\nThe post Scheduled code scanning skips inactive repositories appeared first on The GitHub Blog.",
-          "summary_fr": "Weekly scheduled scans for code scanning default setup and GitHub Code Quality now start only after a push or pull request triggers an analysis, rather than counting every kind of…\nThe post Scheduled code scanning skips inactive repositories appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
@@ -220,17 +179,17 @@
       "vendor": "Hugging Face",
       "items": [
         {
-          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-          "publishedAt": "2026-10-02T04:01:31.000Z",
+          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "link": "https://huggingface.co/blog/allenai/astabrief",
+          "publishedAt": "2026-10-02T15:19:50.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
         },
         {
-          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-          "link": "https://huggingface.co/blog/allenai/olmocore3",
-          "publishedAt": "2026-10-01T15:01:43.000Z",
+          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+          "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+          "publishedAt": "2026-10-02T04:01:31.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
