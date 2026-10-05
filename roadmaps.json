@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-10-03T10:16:14.568Z",
+  "generatedAt": "2026-10-05T12:07:19.145Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Building advertising for the way people use AI",
+          "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+          "publishedAt": "2026-10-05T10:00:00.000Z",
+          "rawSummary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+          "summary_fr": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+          "diff_type": "updated"
+        },
         {
           "title": "A model guide for the GPT-6 family",
           "link": "https://openai.com/index/practical-guide-building-gpt-6",
@@ -59,14 +67,6 @@
           "rawSummary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
           "summary_fr": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
           "diff_type": "updated"
-        },
-        {
-          "title": "DevDay 2026 Recap",
-          "link": "https://openai.com/index/devday-2026-recap",
-          "publishedAt": "2026-09-29T10:00:00.000Z",
-          "rawSummary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-          "summary_fr": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -79,12 +79,53 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [],
+      "items": [
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "publishedAt": "2026-09-30T20:01:45.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing SynthID Bio",
+          "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "publishedAt": "2026-09-30T15:03:07.000Z",
+          "rawSummary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+          "summary_fr": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "publishedAt": "2026-09-24T16:20:39.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+          "publishedAt": "2026-09-23T16:00:57.000Z",
+          "rawSummary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+          "summary_fr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini 3.8 text-to-speech says hello",
+          "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+          "publishedAt": "2026-09-23T15:25:14.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": false,
-          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+          "ok": true,
+          "error": null
         }
       ]
     },
@@ -179,6 +220,14 @@
       "vendor": "Hugging Face",
       "items": [
         {
+          "title": "The Agent Said It Was Done. The Database Disagreed.",
+          "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+          "publishedAt": "2026-10-03T22:56:48.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
           "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
           "link": "https://huggingface.co/blog/allenai/astabrief",
           "publishedAt": "2026-10-02T15:19:50.000Z",
@@ -230,14 +279,6 @@
           "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
           "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
           "publishedAt": "2026-09-24T14:08:57.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-          "link": "https://huggingface.co/blog/evaleval-aisi",
-          "publishedAt": "2026-09-22T00:00:00.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
