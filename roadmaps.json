@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-10-05T12:07:19.145Z",
+  "generatedAt": "2026-10-06T11:51:19.093Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Our approach to EU text provenance rules",
+          "link": "https://openai.com/index/eu-text-provenance",
+          "publishedAt": "2026-10-05T15:00:00.000Z",
+          "rawSummary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+          "summary_fr": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+          "diff_type": "updated"
+        },
         {
           "title": "Building advertising for the way people use AI",
           "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
@@ -58,14 +66,6 @@
           "publishedAt": "2026-09-30T10:30:00.000Z",
           "rawSummary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
           "summary_fr": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Helping small businesses put AI to work",
-          "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-          "publishedAt": "2026-09-30T10:00:00.000Z",
-          "rawSummary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-          "summary_fr": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
           "diff_type": "updated"
         }
       ],
@@ -144,6 +144,22 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "Code scanning AI Scan enablement status in security overview",
+          "link": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "publishedAt": "2026-10-06T10:23:38.000Z",
+          "rawSummary": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository…\nThe post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog.",
+          "summary_fr": "Organization and enterprise administrators can now see AI Scan for pull requests enablement status in the security overview coverage view. The code scanning summary shows enabled and not enabled repository…\nThe post Code scanning AI Scan enablement status in security overview appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "link": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "publishedAt": "2026-10-05T22:42:14.000Z",
+          "rawSummary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one…\nThe post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog.",
+          "summary_fr": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one…\nThe post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Stateless GitHub App installation tokens rolled out",
           "link": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
           "publishedAt": "2026-10-02T22:18:23.000Z",
@@ -157,6 +173,22 @@
           "publishedAt": "2026-10-02T19:13:50.000Z",
           "rawSummary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default…\nThe post Copilot code review: API support and new default effort level appeared first on The GitHub Blog.",
           "summary_fr": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default…\nThe post Copilot code review: API support and new default effort level appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Unvalidated npm trusted publishing configurations now expire",
+          "link": "https://github.blog/changelog/2026-10-02-unvalidated-npm-trusted-publishing-configurations-now-expire",
+          "publishedAt": "2026-10-02T19:07:04.000Z",
+          "rawSummary": "Unvalidated npm trusted publishing configurations now expire 48 hours after creation and can no longer authorize publishing. This limits the risk of trusting a repository or project name that changes…\nThe post Unvalidated npm trusted publishing configurations now expire appeared first on The GitHub Blog.",
+          "summary_fr": "Unvalidated npm trusted publishing configurations now expire 48 hours after creation and can no longer authorize publishing. This limits the risk of trusting a repository or project name that changes…\nThe post Unvalidated npm trusted publishing configurations now expire appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "npm staged publishing now supports creating new packages",
+          "link": "https://github.blog/changelog/2026-10-02-npm-staged-publishing-now-supports-creating-new-packages",
+          "publishedAt": "2026-10-02T19:05:17.000Z",
+          "rawSummary": "You can now create a new npm package with npm stage publish, using a local session or a granular access token, including a stage-only token. This lets you create packages…\nThe post npm staged publishing now supports creating new packages appeared first on The GitHub Blog.",
+          "summary_fr": "You can now create a new npm package with npm stage publish, using a local session or a granular access token, including a stage-only token. This lets you create packages…\nThe post npm staged publishing now supports creating new packages appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
@@ -174,38 +206,6 @@
           "rawSummary": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:…\nThe post New fields for SecurityAdvisory GraphQL API appeared first on The GitHub Blog.",
           "summary_fr": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:…\nThe post New fields for SecurityAdvisory GraphQL API appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Confidential comments on repository security advisories",
-          "link": "https://github.blog/changelog/2026-10-02-confidential-comments-on-repository-security-advisories",
-          "publishedAt": "2026-10-02T13:15:40.000Z",
-          "rawSummary": "You can now post confidential comments on repository security advisories. Confidential comments are visible only to people with write access to the repository, so you can discuss a report with…\nThe post Confidential comments on repository security advisories appeared first on The GitHub Blog.",
-          "summary_fr": "You can now post confidential comments on repository security advisories. Confidential comments are visible only to people with write access to the repository, so you can discuss a report with…\nThe post Confidential comments on repository security advisories appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Repository security advisory comments API in public preview",
-          "link": "https://github.blog/changelog/2026-10-02-repository-security-advisory-comments-api-in-public-preview",
-          "publishedAt": "2026-10-02T13:15:25.000Z",
-          "rawSummary": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory…\nThe post Repository security advisory comments API in public preview appeared first on The GitHub Blog.",
-          "summary_fr": "You can now read, add, and edit comments on repository security advisories using the REST API, including advisories created from private vulnerability reports. Until now, the discussion on an advisory…\nThe post Repository security advisory comments API in public preview appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Rate limits for private vulnerability reports",
-          "link": "https://github.blog/changelog/2026-10-01-rate-limits-for-private-vulnerability-reports",
-          "publishedAt": "2026-10-01T19:57:39.000Z",
-          "rawSummary": "Open source maintainers are receiving more low-quality and automated vulnerability reports, which can bury the reports that matter. Rate limits cap how many new reports a single account can submit…\nThe post Rate limits for private vulnerability reports appeared first on The GitHub Blog.",
-          "summary_fr": "Open source maintainers are receiving more low-quality and automated vulnerability reports, which can bury the reports that matter. Rate limits cap how many new reports a single account can submit…\nThe post Rate limits for private vulnerability reports appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Structured forms for private vulnerability reports",
-          "link": "https://github.blog/changelog/2026-10-01-structured-forms-for-private-vulnerability-reports",
-          "publishedAt": "2026-10-01T19:57:28.000Z",
-          "rawSummary": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text…\nThe post Structured forms for private vulnerability reports appeared first on The GitHub Blog.",
-          "summary_fr": "Private vulnerability reports can now use a structured form that asks reporters for the details you need to assess a vulnerability, including a reproducible proof of concept. A single free-text…\nThe post Structured forms for private vulnerability reports appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -219,6 +219,14 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+          "publishedAt": "2026-10-06T06:44:39.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "The Agent Said It Was Done. The Database Disagreed.",
           "link": "https://huggingface.co/blog/microsoft/thinkingbox",
@@ -271,14 +279,6 @@
           "title": "Holo4: powering generalist computer-use agents",
           "link": "https://huggingface.co/blog/Hcompany/holo4",
           "publishedAt": "2026-09-28T09:44:05.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-          "link": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-          "publishedAt": "2026-09-24T14:08:57.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
