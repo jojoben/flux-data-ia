@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-06T11:51:19.093Z",
+  "generatedAt": "2026-10-08T11:51:00.945Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Helping teens learn, plan, and shape the future of AI",
+          "link": "https://openai.com/index/teens-learn-and-plan",
+          "publishedAt": "2026-10-07T12:00:00.000Z",
+          "rawSummary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+          "summary_fr": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+          "link": "https://openai.com/index/radisson",
+          "publishedAt": "2026-10-07T07:00:00.000Z",
+          "rawSummary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+          "summary_fr": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GPT-6 and Intelligent UI for everyone",
+          "link": "https://openai.com/index/gpt-6-for-everyone",
+          "publishedAt": "2026-10-07T00:00:00.000Z",
+          "rawSummary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+          "summary_fr": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "link": "https://openai.com/index/atlassian-partnership",
+          "publishedAt": "2026-10-06T16:00:00.000Z",
+          "rawSummary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+          "summary_fr": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "link": "https://openai.com/index/jump-trading",
+          "publishedAt": "2026-10-06T12:00:00.000Z",
+          "rawSummary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+          "summary_fr": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Sharing AI progress in mathematics",
+          "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "publishedAt": "2026-10-06T12:00:00.000Z",
+          "rawSummary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+          "summary_fr": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Advancing computer use with Ironclad",
+          "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "publishedAt": "2026-10-06T10:00:00.000Z",
+          "rawSummary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+          "summary_fr": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+          "diff_type": "updated"
+        },
         {
           "title": "Our approach to EU text provenance rules",
           "link": "https://openai.com/index/eu-text-provenance",
           "publishedAt": "2026-10-05T15:00:00.000Z",
           "rawSummary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
           "summary_fr": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Building advertising for the way people use AI",
-          "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-          "publishedAt": "2026-10-05T10:00:00.000Z",
-          "rawSummary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-          "summary_fr": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "A model guide for the GPT-6 family",
-          "link": "https://openai.com/index/practical-guide-building-gpt-6",
-          "publishedAt": "2026-10-02T16:15:00.000Z",
-          "rawSummary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-          "summary_fr": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Chatham scales its capital markets expertise with OpenAI",
-          "link": "https://openai.com/index/chatham-financial",
-          "publishedAt": "2026-10-02T00:00:00.000Z",
-          "rawSummary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-          "summary_fr": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "The eternal complement",
-          "link": "https://openai.com/index/the-eternal-complement",
-          "publishedAt": "2026-10-01T17:00:00.000Z",
-          "rawSummary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-          "summary_fr": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How Albertsons Companies is reimagining retail from the inside out",
-          "link": "https://openai.com/index/albertsons-reimagining-retail",
-          "publishedAt": "2026-10-01T16:00:00.000Z",
-          "rawSummary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-          "summary_fr": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-          "link": "https://openai.com/index/the-den-family-social",
-          "publishedAt": "2026-10-01T00:00:00.000Z",
-          "rawSummary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-          "summary_fr": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Disrupting a coordinated model-distillation campaign",
-          "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-          "publishedAt": "2026-09-30T10:30:00.000Z",
-          "rawSummary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-          "summary_fr": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
           "diff_type": "updated"
         }
       ],
@@ -79,53 +79,12 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [
-        {
-          "title": "Gemini 4 Argon: our next era of frontier intelligence",
-          "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-          "publishedAt": "2026-09-30T20:01:45.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing SynthID Bio",
-          "link": "https://deepmind.google/blog/introducing-synthid-bio/",
-          "publishedAt": "2026-09-30T15:03:07.000Z",
-          "rawSummary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-          "summary_fr": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing Gemini 3.8 Live with Live Avatar",
-          "link": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-          "publishedAt": "2026-09-24T16:20:39.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Advancing Private AI Compute with secure, server-side memory",
-          "link": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-          "publishedAt": "2026-09-23T16:00:57.000Z",
-          "rawSummary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-          "summary_fr": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Gemini 3.8 text-to-speech says hello",
-          "link": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-          "publishedAt": "2026-09-23T15:25:14.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        }
-      ],
+      "items": [],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": true,
-          "error": null
+          "ok": false,
+          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
         }
       ]
     },
@@ -144,6 +103,54 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "Claude Haiku 5.5 in GitHub Copilot",
+          "link": "https://github.blog/changelog/2026-10-07-claude-haiku-5-5-in-github-copilot",
+          "publishedAt": "2026-10-07T20:12:18.000Z",
+          "rawSummary": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early…\nThe post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog.",
+          "summary_fr": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early…\nThe post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Purpose-built model for leaked secret detection",
+          "link": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
+          "publishedAt": "2026-10-07T16:13:56.000Z",
+          "rawSummary": "Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware…\nThe post Purpose-built model for leaked secret detection appeared first on The GitHub Blog.",
+          "summary_fr": "Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware…\nThe post Purpose-built model for leaked secret detection appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Local sandboxing for GitHub Copilot now generally available",
+          "link": "https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available",
+          "publishedAt": "2026-10-07T15:46:17.000Z",
+          "rawSummary": "Local sandboxing for GitHub Copilot is now generally available in GitHub Copilot CLI, the GitHub Copilot app, and VS Code sessions using Agent Host. Local sandboxes give developers a secure…\nThe post Local sandboxing for GitHub Copilot now generally available appeared first on The GitHub Blog.",
+          "summary_fr": "Local sandboxing for GitHub Copilot is now generally available in GitHub Copilot CLI, the GitHub Copilot app, and VS Code sessions using Agent Host. Local sandboxes give developers a secure…\nThe post Local sandboxing for GitHub Copilot now generally available appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Discover local models in GitHub Copilot CLI",
+          "link": "https://github.blog/changelog/2026-10-07-discover-local-models-in-github-copilot-cli",
+          "publishedAt": "2026-10-07T15:46:13.000Z",
+          "rawSummary": "GitHub Copilot CLI makes it easier to choose a local model without leaving your existing workflow. Starting in CLI version 1.0.94-0, use /model to discover supported models from a running…\nThe post Discover local models in GitHub Copilot CLI appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Copilot CLI makes it easier to choose a local model without leaving your existing workflow. Starting in CLI version 1.0.94-0, use /model to discover supported models from a running…\nThe post Discover local models in GitHub Copilot CLI appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Update your IDE to restore agent activity in Copilot usage metrics",
+          "link": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+          "publishedAt": "2026-10-06T23:43:00.000Z",
+          "rawSummary": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is rolling out…\nThe post Update your IDE to restore agent activity in Copilot usage metrics appeared first on The GitHub Blog.",
+          "summary_fr": "If your Copilot usage metrics have shown agent activity or agent lines of code falling while Copilot usage kept growing, we’ve found the cause, and a fix is rolling out…\nThe post Update your IDE to restore agent activity in Copilot usage metrics appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Stacked pull requests generally available",
+          "link": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "publishedAt": "2026-10-06T20:16:41.000Z",
+          "rawSummary": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public…\nThe post Stacked pull requests generally available appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub stacked pull requests are now generally available. Break large changes into smaller, focused pull requests that you can review independently and merge together. Since the feature went into public…\nThe post Stacked pull requests generally available appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Code scanning AI Scan enablement status in security overview",
           "link": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
           "publishedAt": "2026-10-06T10:23:38.000Z",
@@ -157,54 +164,6 @@
           "publishedAt": "2026-10-05T22:42:14.000Z",
           "rawSummary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one…\nThe post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog.",
           "summary_fr": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one…\nThe post Secret scanning adds detectors for Lovable, Supabase, and more appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Stateless GitHub App installation tokens rolled out",
-          "link": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "publishedAt": "2026-10-02T22:18:23.000Z",
-          "rawSummary": "The staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete. By default, all newly minted GitHub App installation tokens will be…\nThe post Stateless GitHub App installation tokens rolled out appeared first on The GitHub Blog.",
-          "summary_fr": "The staged rollout of the stateless GitHub App installation token format, which began on April 27, 2026, is complete. By default, all newly minted GitHub App installation tokens will be…\nThe post Stateless GitHub App installation tokens rolled out appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Copilot code review: API support and new default effort level",
-          "link": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "publishedAt": "2026-10-02T19:13:50.000Z",
-          "rawSummary": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default…\nThe post Copilot code review: API support and new default effort level appeared first on The GitHub Blog.",
-          "summary_fr": "You can now request a GitHub Copilot code review through the REST and GraphQL APIs and set the review effort level for each request. Balanced is also now the default…\nThe post Copilot code review: API support and new default effort level appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Unvalidated npm trusted publishing configurations now expire",
-          "link": "https://github.blog/changelog/2026-10-02-unvalidated-npm-trusted-publishing-configurations-now-expire",
-          "publishedAt": "2026-10-02T19:07:04.000Z",
-          "rawSummary": "Unvalidated npm trusted publishing configurations now expire 48 hours after creation and can no longer authorize publishing. This limits the risk of trusting a repository or project name that changes…\nThe post Unvalidated npm trusted publishing configurations now expire appeared first on The GitHub Blog.",
-          "summary_fr": "Unvalidated npm trusted publishing configurations now expire 48 hours after creation and can no longer authorize publishing. This limits the risk of trusting a repository or project name that changes…\nThe post Unvalidated npm trusted publishing configurations now expire appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "npm staged publishing now supports creating new packages",
-          "link": "https://github.blog/changelog/2026-10-02-npm-staged-publishing-now-supports-creating-new-packages",
-          "publishedAt": "2026-10-02T19:05:17.000Z",
-          "rawSummary": "You can now create a new npm package with npm stage publish, using a local session or a granular access token, including a stage-only token. This lets you create packages…\nThe post npm staged publishing now supports creating new packages appeared first on The GitHub Blog.",
-          "summary_fr": "You can now create a new npm package with npm stage publish, using a local session or a granular access token, including a stage-only token. This lets you create packages…\nThe post npm staged publishing now supports creating new packages appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Selected models in GitHub Copilot deprecated",
-          "link": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "publishedAt": "2026-10-02T18:24:19.000Z",
-          "rawSummary": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nThe post Selected models in GitHub Copilot deprecated appeared first on The GitHub Blog.",
-          "summary_fr": "As of today, October 2, 2026, we have deprecated the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions). Model…\nThe post Selected models in GitHub Copilot deprecated appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "New fields for SecurityAdvisory GraphQL API",
-          "link": "https://github.blog/changelog/2026-10-02-new-fields-for-securityadvisory-graphql-api",
-          "publishedAt": "2026-10-02T13:18:00.000Z",
-          "rawSummary": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:…\nThe post New fields for SecurityAdvisory GraphQL API appeared first on The GitHub Blog.",
-          "summary_fr": "You can now read more of the GitHub Advisory Database directly from the GraphQL API without falling back to the REST API. The SecurityAdvisory object gained five new fields: cveId:…\nThe post New fields for SecurityAdvisory GraphQL API appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
@@ -220,9 +179,17 @@
       "vendor": "Hugging Face",
       "items": [
         {
-          "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-          "link": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-          "publishedAt": "2026-10-06T06:44:39.000Z",
+          "title": "Multimodal open d1 decision models for the edge",
+          "link": "https://huggingface.co/blog/LiquidAI/open-d1",
+          "publishedAt": "2026-10-07T16:54:33.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+          "publishedAt": "2026-10-07T12:45:31.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
@@ -255,14 +222,6 @@
           "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
           "link": "https://huggingface.co/blog/open-tts-leaderboard",
           "publishedAt": "2026-09-30T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-          "link": "https://huggingface.co/blog/nvidia/kumo-tabular",
-          "publishedAt": "2026-09-29T15:30:38.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
