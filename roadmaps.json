@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:01:12.443Z",
+  "generatedAt": "2026-10-11T11:18:15.504Z",
   "vendors": [
     {
       "vendor": "OpenAI",
@@ -79,12 +79,37 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [],
+      "items": [
+        {
+          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+          "publishedAt": "2026-10-06T19:57:04.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "link": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "publishedAt": "2026-09-30T20:01:45.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing SynthID Bio",
+          "link": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "publishedAt": "2026-09-30T15:03:07.000Z",
+          "rawSummary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+          "summary_fr": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": false,
-          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+          "ok": true,
+          "error": null
         }
       ]
     },
@@ -102,6 +127,14 @@
     {
       "vendor": "GitHub",
       "items": [
+        {
+          "title": "New controls and chat improvements in Copilot for JetBrains",
+          "link": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
+          "publishedAt": "2026-10-10T18:53:39.000Z",
+          "rawSummary": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and…\nThe post New controls and chat improvements in Copilot for JetBrains appeared first on The GitHub Blog.",
+          "summary_fr": "This update brings more control over default models and MCP server in GitHub Copilot for JetBrains. It also makes diagnostics easier to address, improves chat navigation and account controls, and…\nThe post New controls and chat improvements in Copilot for JetBrains appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
         {
           "title": "GitHub Copilot weekly releases — October 5",
           "link": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
@@ -156,14 +189,6 @@
           "publishedAt": "2026-10-07T20:12:18.000Z",
           "rawSummary": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early…\nThe post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog.",
           "summary_fr": "Claude Haiku 5.5, Anthropic’s newest lightweight model, is now generally available in GitHub Copilot. It is designed for fast, high-volume work like subagents, quick edits, and terminal tasks. In early…\nThe post Claude Haiku 5.5 in GitHub Copilot appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Purpose-built model for leaked secret detection",
-          "link": "https://github.blog/changelog/2026-10-07-purpose-built-model-for-leaked-secret-detection",
-          "publishedAt": "2026-10-07T16:13:56.000Z",
-          "rawSummary": "Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware…\nThe post Purpose-built model for leaked secret detection appeared first on The GitHub Blog.",
-          "summary_fr": "Secret protection should keep pace with the way you build software, whether you write code yourself or work with an AI agent. With our new purpose-built model, we’re bringing context-aware…\nThe post Purpose-built model for leaked secret detection appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
