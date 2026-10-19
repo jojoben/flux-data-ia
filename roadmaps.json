@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-10-14T09:58:46.469Z",
+  "generatedAt": "2026-10-19T10:35:23.839Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
         {
-          "title": "The EU’s next chapter in AI is agentic",
-          "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-          "publishedAt": "2026-10-14T00:00:00.000Z",
-          "rawSummary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-          "summary_fr": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "link": "https://openai.com/index/itau-generative-ai",
+          "publishedAt": "2026-10-16T19:00:00.000Z",
+          "rawSummary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+          "summary_fr": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
           "diff_type": "updated"
         },
         {
-          "title": "Higgsfield takes AI video from 1 minute to over 10",
-          "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-          "publishedAt": "2026-10-13T12:00:00.000Z",
-          "rawSummary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-          "summary_fr": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+          "title": "Benefit Street Partners answers questions faster with Codex",
+          "link": "https://openai.com/index/benefit-street-partners",
+          "publishedAt": "2026-10-16T00:00:00.000Z",
+          "rawSummary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+          "summary_fr": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
           "diff_type": "updated"
         },
         {
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "link": "https://openai.com/index/sophos",
-          "publishedAt": "2026-10-09T07:00:00.000Z",
-          "rawSummary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-          "summary_fr": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+          "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "publishedAt": "2026-10-16T00:00:00.000Z",
+          "rawSummary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+          "summary_fr": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
           "diff_type": "updated"
         },
         {
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "link": "https://openai.com/index/asana-browser-agent",
-          "publishedAt": "2026-10-09T07:00:00.000Z",
-          "rawSummary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-          "summary_fr": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+          "title": "Bringing GPT-Rosalind to academic research labs",
+          "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+          "publishedAt": "2026-10-15T19:00:00.000Z",
+          "rawSummary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+          "summary_fr": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
           "diff_type": "updated"
         },
         {
-          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "link": "https://openai.com/index/oracle",
-          "publishedAt": "2026-10-08T16:00:00.000Z",
-          "rawSummary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-          "summary_fr": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+          "title": "Teaching students to think and learn through questions",
+          "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+          "publishedAt": "2026-10-15T13:00:00.000Z",
+          "rawSummary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+          "summary_fr": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
           "diff_type": "updated"
         },
         {
-          "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-          "link": "https://openai.com/index/pollo-ai",
-          "publishedAt": "2026-10-08T12:00:00.000Z",
-          "rawSummary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-          "summary_fr": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+          "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+          "link": "https://openai.com/index/sullivan-cromwell",
+          "publishedAt": "2026-10-15T00:00:00.000Z",
+          "rawSummary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+          "summary_fr": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
           "diff_type": "updated"
         },
         {
-          "title": "LegalOn halves Codex costs while maintaining development speed",
-          "link": "https://openai.com/index/legalon-halves-codex-costs",
-          "publishedAt": "2026-10-08T12:00:00.000Z",
-          "rawSummary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-          "summary_fr": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "link": "https://openai.com/index/amp-beyond-coding",
+          "publishedAt": "2026-10-14T12:00:00.000Z",
+          "rawSummary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+          "summary_fr": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
           "diff_type": "updated"
         },
         {
-          "title": "Disrupting AI-enabled “false front” operations",
-          "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-          "publishedAt": "2026-10-08T00:00:00.000Z",
-          "rawSummary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-          "summary_fr": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+          "title": "SentinelOne cuts malware analysis from weeks to hours",
+          "link": "https://openai.com/index/sentinelone",
+          "publishedAt": "2026-10-14T12:00:00.000Z",
+          "rawSummary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+          "summary_fr": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
           "diff_type": "updated"
         }
       ],
@@ -79,12 +79,61 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [],
+      "items": [
+        {
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "link": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "publishedAt": "2026-10-15T16:08:03.000Z",
+          "rawSummary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+          "summary_fr": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "link": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+          "publishedAt": "2026-10-14T02:00:14.000Z",
+          "rawSummary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+          "summary_fr": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Developing Gemini 4 Argon responsibly and safely",
+          "link": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+          "publishedAt": "2026-10-13T19:43:07.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini 4 Argon for Robotics",
+          "link": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+          "publishedAt": "2026-10-13T16:01:58.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini 4 Argon: Built to solve your hardest problems",
+          "link": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+          "publishedAt": "2026-10-13T16:01:52.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "link": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+          "publishedAt": "2026-10-06T19:57:04.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": false,
-          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+          "ok": true,
+          "error": null
         }
       ]
     },
@@ -103,67 +152,67 @@
       "vendor": "GitHub",
       "items": [
         {
-          "title": "GitHub App improvements for least privilege and management",
-          "link": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-          "publishedAt": "2026-10-13T23:17:55.000Z",
-          "rawSummary": "We’re releasing several GitHub Apps improvements today that help developers move off of classic PATs, improve GitHub App management, and request fewer sensitive permissions. We’ve also made it easier for…\nThe post GitHub App improvements for least privilege and management appeared first on The GitHub Blog.",
-          "summary_fr": "We’re releasing several GitHub Apps improvements today that help developers move off of classic PATs, improve GitHub App management, and request fewer sensitive permissions. We’ve also made it easier for…\nThe post GitHub App improvements for least privilege and management appeared first on The GitHub Blog.",
+          "title": "Open source license compliance generally available",
+          "link": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
+          "publishedAt": "2026-10-16T14:00:32.000Z",
+          "rawSummary": "Enterprises can now manage their dependencies’ licenses at scale with sophisticated, ruleset-based checks that enforce a centralized policy. Open source license compliance is now generally available for GitHub Enterprise Cloud…\nThe post Open source license compliance generally available appeared first on The GitHub Blog.",
+          "summary_fr": "Enterprises can now manage their dependencies’ licenses at scale with sophisticated, ruleset-based checks that enforce a centralized policy. Open source license compliance is now generally available for GitHub Enterprise Cloud…\nThe post Open source license compliance generally available appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Gemini 4 Argon in GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
-          "publishedAt": "2026-10-13T18:39:56.000Z",
-          "rawSummary": "Gemini 4 Argon, Google’s newest frontier model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks. In early testing, Gemini 4 Argon…\nThe post Gemini 4 Argon in GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "Gemini 4 Argon, Google’s newest frontier model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks. In early testing, Gemini 4 Argon…\nThe post Gemini 4 Argon in GitHub Copilot appeared first on The GitHub Blog.",
+          "title": "Xcode 27 runner image generally available",
+          "link": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+          "publishedAt": "2026-10-16T04:36:30.000Z",
+          "rawSummary": "You can now use the generally available Xcode 27 runner image to build and test your Apple applications in GitHub Actions. Previously in public preview, this GitHub-hosted image runs on…\nThe post Xcode 27 runner image generally available appeared first on The GitHub Blog.",
+          "summary_fr": "You can now use the generally available Xcode 27 runner image to build and test your Apple applications in GitHub Actions. Previously in public preview, this GitHub-hosted image runs on…\nThe post Xcode 27 runner image generally available appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Audit GitHub Code Quality finding dismissals and reopenings",
-          "link": "https://github.blog/changelog/2026-10-13-audit-github-code-quality-finding-dismissals-and-reopenings",
-          "publishedAt": "2026-10-13T17:58:36.000Z",
-          "rawSummary": "You can now review manual dismissals and reopenings of GitHub Code Quality findings in your organization or enterprise audit log. Findings may appear in either your repository’s default-branch backlog or…\nThe post Audit GitHub Code Quality finding dismissals and reopenings appeared first on The GitHub Blog.",
-          "summary_fr": "You can now review manual dismissals and reopenings of GitHub Code Quality findings in your organization or enterprise audit log. Findings may appear in either your repository’s default-branch backlog or…\nThe post Audit GitHub Code Quality finding dismissals and reopenings appeared first on The GitHub Blog.",
+          "title": "Multi-repository support and other improvements for GitHub in Slack and Teams",
+          "link": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+          "publishedAt": "2026-10-16T02:16:35.000Z",
+          "rawSummary": "@GitHub in Slack and Teams now supports working across multiple repositories in a single conversation. Whether you’re creating issues, opening pull requests, or investigating bugs, you can work across repositories…\nThe post Multi-repository support and other improvements for GitHub in Slack and Teams appeared first on The GitHub Blog.",
+          "summary_fr": "@GitHub in Slack and Teams now supports working across multiple repositories in a single conversation. Whether you’re creating issues, opening pull requests, or investigating bugs, you can work across repositories…\nThe post Multi-repository support and other improvements for GitHub in Slack and Teams appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Secret scanning blocks Anthropic keys by default, adds Salesforce",
-          "link": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
-          "publishedAt": "2026-10-13T16:12:36.000Z",
-          "rawSummary": "Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is…\nThe post Secret scanning blocks Anthropic keys by default, adds Salesforce appeared first on The GitHub Blog.",
-          "summary_fr": "Secret scanning now detects new secret types from Salesforce, Anthropic, and Cloudsmith, with the new Anthropic secret types blocked with push protection by default. New secret scanning partner Salesforce is…\nThe post Secret scanning blocks Anthropic keys by default, adds Salesforce appeared first on The GitHub Blog.",
+          "title": "Download GitHub Code Quality license usage as a CSV",
+          "link": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
+          "publishedAt": "2026-10-15T20:11:26.000Z",
+          "rawSummary": "You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who…\nThe post Download GitHub Code Quality license usage as a CSV appeared first on The GitHub Blog.",
+          "summary_fr": "You can now download a CSV report of your GitHub Code Quality license usage to reconcile your license count with your own records. The report includes: Each active committer who…\nThe post Download GitHub Code Quality license usage as a CSV appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Enterprise managed settings enforcement updates",
-          "link": "https://github.blog/changelog/2026-10-13-enterprise-managed-settings-enforcement-updates",
-          "publishedAt": "2026-10-13T15:20:10.000Z",
-          "rawSummary": "Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version…\nThe post Enterprise managed settings enforcement updates appeared first on The GitHub Blog.",
-          "summary_fr": "Enterprise administrators can now require supported GitHub Copilot clients to retrieve current server-managed settings at startup instead of relying on a cached policy. We are also adding minimum client version…\nThe post Enterprise managed settings enforcement updates appeared first on The GitHub Blog.",
+          "title": "Upcoming deprecation of selected GitHub Copilot models in mid-November",
+          "link": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+          "publishedAt": "2026-10-15T19:35:13.000Z",
+          "rawSummary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date…\nThe post Upcoming deprecation of selected GitHub Copilot models in mid-November appeared first on The GitHub Blog.",
+          "summary_fr": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on November 16th, 2026: Model Deprecation date…\nThe post Upcoming deprecation of selected GitHub Copilot models in mid-November appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Improved detection for withdrawn Dependabot alerts",
-          "link": "https://github.blog/changelog/2026-10-13-improved-detection-for-withdrawn-dependabot-alerts",
-          "publishedAt": "2026-10-13T14:03:57.000Z",
-          "rawSummary": "You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help…\nThe post Improved detection for withdrawn Dependabot alerts appeared first on The GitHub Blog.",
-          "summary_fr": "You can now more easily detect withdrawn Dependabot alerts. Dependabot withdraws and removes an alert when the advisory or vulnerability that produced it is no longer valid. Two changes help…\nThe post Improved detection for withdrawn Dependabot alerts appeared first on The GitHub Blog.",
+          "title": "AI Scan for pull requests generally available",
+          "link": "https://github.blog/changelog/2026-10-15-ai-scan-for-pull-requests-generally-available",
+          "publishedAt": "2026-10-15T15:04:51.000Z",
+          "rawSummary": "Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently…\nThe post AI Scan for pull requests generally available appeared first on The GitHub Blog.",
+          "summary_fr": "Code scanning AI Scan for pull requests is now generally available. It complements CodeQL by finding vulnerabilities in pull request changes for languages and frameworks that CodeQL does not currently…\nThe post AI Scan for pull requests generally available appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Search and filter for budgets now available",
-          "link": "https://github.blog/changelog/2026-10-13-search-and-filter-for-budgets-now-available",
-          "publishedAt": "2026-10-13T12:06:09.000Z",
-          "rawSummary": "The “Budgets and alerts” page in your GitHub billing settings now shows all of your budgets in one list that you can search and filter. Whether you manage budgets for…\nThe post Search and filter for budgets now available appeared first on The GitHub Blog.",
-          "summary_fr": "The “Budgets and alerts” page in your GitHub billing settings now shows all of your budgets in one list that you can search and filter. Whether you manage budgets for…\nThe post Search and filter for budgets now available appeared first on The GitHub Blog.",
+          "title": "Agentic autofix for code scanning alerts general availability",
+          "link": "https://github.blog/changelog/2026-10-15-agentic-autofix-for-code-scanning-alerts-general-availability",
+          "publishedAt": "2026-10-15T13:49:20.000Z",
+          "rawSummary": "Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,…\nThe post Agentic autofix for code scanning alerts general availability appeared first on The GitHub Blog.",
+          "summary_fr": "Agentic autofix for code scanning alerts is now generally available. It remediates alerts by working across your codebase the way a developer would: it explores relevant files, proposes a fix,…\nThe post Agentic autofix for code scanning alerts general availability appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Code scanning AI Scan metrics in security overview",
-          "link": "https://github.blog/changelog/2026-10-13-code-scanning-ai-scan-metrics-in-security-overview",
-          "publishedAt": "2026-10-13T12:03:17.000Z",
-          "rawSummary": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the…\nThe post Code scanning AI Scan metrics in security overview appeared first on The GitHub Blog.",
-          "summary_fr": "Organization and enterprise administrators can now observe the impact of AI Scan for pull requests in security overview. New metrics show how many AI Scan findings were generated, resolved, the…\nThe post Code scanning AI Scan metrics in security overview appeared first on The GitHub Blog.",
+          "title": "Email notifications for repository push events have been retired",
+          "link": "https://github.blog/changelog/2026-10-15-email-notifications-for-repository-push-events-have-been-retired",
+          "publishedAt": "2026-10-15T13:42:19.000Z",
+          "rawSummary": "As of October 15, 2026, email notifications for repository push events have been retired and are no longer sent. We shut down this feature to help prevent spam and abuse.…\nThe post Email notifications for repository push events have been retired appeared first on The GitHub Blog.",
+          "summary_fr": "As of October 15, 2026, email notifications for repository push events have been retired and are no longer sent. We shut down this feature to help prevent spam and abuse.…\nThe post Email notifications for repository push events have been retired appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
@@ -179,57 +228,65 @@
       "vendor": "Hugging Face",
       "items": [
         {
+          "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+          "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+          "publishedAt": "2026-10-16T01:44:47.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+          "link": "https://huggingface.co/blog/reflection-beam",
+          "publishedAt": "2026-10-16T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "publishedAt": "2026-10-15T20:34:01.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Apertus 1.5 Release Notes",
+          "link": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+          "publishedAt": "2026-10-15T09:08:45.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+          "link": "https://huggingface.co/blog/meta-muse-spark-open",
+          "publishedAt": "2026-10-15T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Welcome FLUX.3 Image Klein in Diffusers",
+          "link": "https://huggingface.co/blog/flux-3",
+          "publishedAt": "2026-10-15T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "link": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "publishedAt": "2026-10-14T16:12:42.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
           "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
           "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
           "publishedAt": "2026-10-13T17:05:48.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Impactful scheduling for GPU clusters",
-          "link": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "publishedAt": "2026-10-09T15:20:29.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "The model that didn't exist, so you made it yourself",
-          "link": "https://huggingface.co/blog/building-with-ml-intern",
-          "publishedAt": "2026-10-08T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing Falcon ASR",
-          "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
-          "publishedAt": "2026-10-07T13:21:03.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-          "publishedAt": "2026-10-07T12:45:31.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "The Agent Said It Was Done. The Database Disagreed.",
-          "link": "https://huggingface.co/blog/microsoft/thinkingbox",
-          "publishedAt": "2026-10-03T22:56:48.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "link": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-          "publishedAt": "2026-10-02T04:01:31.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
@@ -245,7 +302,16 @@
     },
     {
       "vendor": "NVIDIA",
-      "items": [],
+      "items": [
+        {
+          "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
+          "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
+          "publishedAt": "2026-10-15T15:00:24.000Z",
+          "rawSummary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
+          "summary_fr": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "NVIDIA Deep Learning Blog",
