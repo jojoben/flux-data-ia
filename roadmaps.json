@@ -1,12 +1,52 @@
 {
-  "generatedAt": "2026-10-28T11:06:56.627Z",
+  "generatedAt": "2026-10-30T11:13:50.159Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
         {
+          "title": "An updated Model Spec for more capable and beneficial AI",
+          "link": "https://openai.com/index/updated-model-spec",
+          "publishedAt": "2026-10-29T17:00:00.000Z",
+          "rawSummary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+          "summary_fr": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "How we detect frontier model misalignment",
+          "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "publishedAt": "2026-10-29T09:00:00.000Z",
+          "rawSummary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+          "summary_fr": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "How Ropes & Gray is developing AI for transactional diligence",
+          "link": "https://openai.com/index/ropes-gray-ai-diligence",
+          "publishedAt": "2026-10-29T07:00:00.000Z",
+          "rawSummary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+          "summary_fr": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "publishedAt": "2026-10-28T13:15:00.000Z",
+          "rawSummary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+          "summary_fr": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "The future of the firm",
+          "link": "https://openai.com/index/the-future-of-the-firm",
+          "publishedAt": "2026-10-28T10:00:00.000Z",
+          "rawSummary": "How AI might enter the org chart—beneath, beside, and between us.",
+          "summary_fr": "How AI might enter the org chart—beneath, beside, and between us.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Legora is building the agentic operating system for legal work",
-          "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+          "link": "https://openai.com/index/legora",
           "publishedAt": "2026-10-28T09:30:00.000Z",
           "rawSummary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
           "summary_fr": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
@@ -27,46 +67,6 @@
           "rawSummary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
           "summary_fr": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
           "diff_type": "updated"
-        },
-        {
-          "title": "How Check Point accelerates vulnerability research with Daybreak",
-          "link": "https://openai.com/index/check-point-daybreak",
-          "publishedAt": "2026-10-27T00:00:00.000Z",
-          "rawSummary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-          "summary_fr": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "link": "https://openai.com/index/greptile-code-review-codex-astra",
-          "publishedAt": "2026-10-26T22:00:00.000Z",
-          "rawSummary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-          "summary_fr": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Working with academic communities to build scientific understanding",
-          "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "publishedAt": "2026-10-26T14:30:00.000Z",
-          "rawSummary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-          "summary_fr": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-          "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-          "publishedAt": "2026-10-26T13:45:00.000Z",
-          "rawSummary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-          "summary_fr": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "ChatGPT’s expanding world of work",
-          "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-          "publishedAt": "2026-10-26T10:00:00.000Z",
-          "rawSummary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-          "summary_fr": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -79,12 +79,37 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [],
+      "items": [
+        {
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "publishedAt": "2026-10-28T17:00:58.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Genie 4: A new generation of world simulation",
+          "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "publishedAt": "2026-10-27T16:01:38.000Z",
+          "rawSummary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "summary_fr": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Beyond tree cover: mapping the world’s forest types",
+          "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+          "publishedAt": "2026-10-22T14:30:24.000Z",
+          "rawSummary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+          "summary_fr": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": false,
-          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+          "ok": true,
+          "error": null
         }
       ]
     },
@@ -103,67 +128,67 @@
       "vendor": "GitHub",
       "items": [
         {
-          "title": "GitHub Copilot supports server-to-server authentication",
-          "link": "https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication",
-          "publishedAt": "2026-10-27T21:36:55.000Z",
-          "rawSummary": "GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview. Services and agents built with the GitHub Copilot SDK can now make requests on…\nThe post GitHub Copilot supports server-to-server authentication appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub Copilot now supports server-to-server authentication for GitHub Apps installed on organizations, available in public preview. Services and agents built with the GitHub Copilot SDK can now make requests on…\nThe post GitHub Copilot supports server-to-server authentication appeared first on The GitHub Blog.",
+          "title": "Webhook IP ranges added to the Meta API",
+          "link": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+          "publishedAt": "2026-10-29T17:14:38.000Z",
+          "rawSummary": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for…\nThe post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog.",
+          "summary_fr": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for…\nThe post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "GitHub Copilot assisted permissions generally available",
-          "link": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
-          "publishedAt": "2026-10-26T22:31:30.000Z",
-          "rawSummary": "Assisted permissions are now generally available in GitHub Copilot CLI, GitHub Copilot app, and Visual Studio Code. When Copilot requests permission to run a command, access a file system path,…\nThe post GitHub Copilot assisted permissions generally available appeared first on The GitHub Blog.",
-          "summary_fr": "Assisted permissions are now generally available in GitHub Copilot CLI, GitHub Copilot app, and Visual Studio Code. When Copilot requests permission to run a command, access a file system path,…\nThe post GitHub Copilot assisted permissions generally available appeared first on The GitHub Blog.",
+          "title": "Route and orchestrate models with GitHub Copilot Fusion",
+          "link": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+          "publishedAt": "2026-10-28T16:00:00.000Z",
+          "rawSummary": "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.…\nThe post Route and orchestrate models with GitHub Copilot Fusion appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.…\nThe post Route and orchestrate models with GitHub Copilot Fusion appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "GPT-6.1 Terra in GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
-          "publishedAt": "2026-10-26T19:15:53.000Z",
-          "rawSummary": "GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In…\nThe post GPT-6.1 Terra in GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "GPT-6.1 Terra, OpenAI’s newest model, is now generally available in GitHub Copilot. It is designed for everyday agentic coding and terminal work at a lower cost than GPT-6.1 Sol. In…\nThe post GPT-6.1 Terra in GitHub Copilot appeared first on The GitHub Blog.",
+          "title": "GitHub Copilot app, Universe releases",
+          "link": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
+          "publishedAt": "2026-10-28T15:55:00.000Z",
+          "rawSummary": "Work doesn’t always fit in a single repository or session. A feature can span several repositories. A launch plan can pull in specs, designs, and assets without touching a repository…\nThe post GitHub Copilot app, Universe releases appeared first on The GitHub Blog.",
+          "summary_fr": "Work doesn’t always fit in a single repository or session. A feature can span several repositories. A launch plan can pull in specs, designs, and assets without touching a repository…\nThe post GitHub Copilot app, Universe releases appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Usage metrics API adds usage from tools like OpenCode",
-          "link": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-          "publishedAt": "2026-10-23T23:42:03.000Z",
-          "rawSummary": "The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.…\nThe post Usage metrics API adds usage from tools like OpenCode appeared first on The GitHub Blog.",
-          "summary_fr": "The Copilot usage metrics API now reports model usage from more of the tools your developers use with Copilot, including tools like OpenCode that weren’t previously captured in your reports.…\nThe post Usage metrics API adds usage from tools like OpenCode appeared first on The GitHub Blog.",
+          "title": "GitHub Enterprise now includes access to GitHub Copilot",
+          "link": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
+          "publishedAt": "2026-10-28T15:50:00.000Z",
+          "rawSummary": "Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many…\nThe post GitHub Enterprise now includes access to GitHub Copilot appeared first on The GitHub Blog.",
+          "summary_fr": "Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many…\nThe post GitHub Enterprise now includes access to GitHub Copilot appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Turn notifications into code with GitHub Copilot in Teams",
-          "link": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-          "publishedAt": "2026-10-23T21:29:58.000Z",
-          "rawSummary": "The new GitHub app in Teams brings notifications and Copilot together, helping teams turn issues into fixes and ship code faster without leaving the conversation. Get notified in channels, group…\nThe post Turn notifications into code with GitHub Copilot in Teams appeared first on The GitHub Blog.",
-          "summary_fr": "The new GitHub app in Teams brings notifications and Copilot together, helping teams turn issues into fixes and ship code faster without leaving the conversation. Get notified in channels, group…\nThe post Turn notifications into code with GitHub Copilot in Teams appeared first on The GitHub Blog.",
+          "title": "Security extension for the GitHub Copilot app",
+          "link": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
+          "publishedAt": "2026-10-28T15:45:00.000Z",
+          "rawSummary": "You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the…\nThe post Security extension for the GitHub Copilot app appeared first on The GitHub Blog.",
+          "summary_fr": "You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the…\nThe post Security extension for the GitHub Copilot app appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "EMU deletions fix",
-          "link": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "publishedAt": "2026-10-23T18:56:18.000Z",
-          "rawSummary": "Between June 1 and June 13, 2026, some Enterprise Managed User accounts that were deprovisioned through SCIM were incorrectly deleted instead of being suspended and obfuscated as expected. As a…\nThe post EMU deletions fix appeared first on The GitHub Blog.",
-          "summary_fr": "Between June 1 and June 13, 2026, some Enterprise Managed User accounts that were deprovisioned through SCIM were incorrectly deleted instead of being suspended and obfuscated as expected. As a…\nThe post EMU deletions fix appeared first on The GitHub Blog.",
+          "title": "GitHub intelligence puts your code, context, and history to work",
+          "link": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+          "publishedAt": "2026-10-28T15:40:00.000Z",
+          "rawSummary": "Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in…\nThe post GitHub intelligence puts your code, context, and history to work appeared first on The GitHub Blog.",
+          "summary_fr": "Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in…\nThe post GitHub intelligence puts your code, context, and history to work appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Public monitoring adds triage, validity, API, and webhooks",
-          "link": "https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks",
-          "publishedAt": "2026-10-23T17:17:58.000Z",
-          "rawSummary": "Public monitoring now includes alert management capabilities like automatic validity checks to help you triage and remediate leaked secrets at scale. Alert management with dismissals, timelines, and filtering Always-on validity…\nThe post Public monitoring adds triage, validity, API, and webhooks appeared first on The GitHub Blog.",
-          "summary_fr": "Public monitoring now includes alert management capabilities like automatic validity checks to help you triage and remediate leaked secrets at scale. Alert management with dismissals, timelines, and filtering Always-on validity…\nThe post Public monitoring adds triage, validity, API, and webhooks appeared first on The GitHub Blog.",
+          "title": "Build shared workflows for your team with Copilot Automations",
+          "link": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
+          "publishedAt": "2026-10-28T15:35:00.000Z",
+          "rawSummary": "Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the…\nThe post Build shared workflows for your team with Copilot Automations appeared first on The GitHub Blog.",
+          "summary_fr": "Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the…\nThe post Build shared workflows for your team with Copilot Automations appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
-          "title": "Enterprise installations for GitHub Apps generally available",
-          "link": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-          "publishedAt": "2026-10-23T15:03:30.000Z",
-          "rawSummary": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API…\nThe post Enterprise installations for GitHub Apps generally available appeared first on The GitHub Blog.",
-          "summary_fr": "Installing GitHub Apps on your enterprise is now generally available. You can replace classic PATs with GitHub Apps in more of your enterprise and organization automation with the expanded API…\nThe post Enterprise installations for GitHub Apps generally available appeared first on The GitHub Blog.",
+          "title": "GitHub Copilot in VS Code, Universe releases",
+          "link": "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases",
+          "publishedAt": "2026-10-28T15:33:00.000Z",
+          "rawSummary": "This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how…\nThe post GitHub Copilot in VS Code, Universe releases appeared first on The GitHub Blog.",
+          "summary_fr": "This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how…\nThe post GitHub Copilot in VS Code, Universe releases appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
@@ -178,6 +203,46 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "Granite Switch 4.1.1 — Update models like you update software",
+          "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "publishedAt": "2026-10-29T13:37:07.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+          "link": "https://huggingface.co/blog/announcing-project-protostar",
+          "publishedAt": "2026-10-29T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+          "link": "https://huggingface.co/blog/mistral-large4",
+          "publishedAt": "2026-10-29T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "link": "https://huggingface.co/blog/anydecisionmodel",
+          "publishedAt": "2026-10-29T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "publishedAt": "2026-10-28T14:58:17.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Build specialized multimodal models with LFM3",
           "link": "https://huggingface.co/blog/LiquidAI/lfm3",
@@ -201,46 +266,6 @@
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
-        },
-        {
-          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-          "publishedAt": "2026-10-22T22:24:34.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Ensemble forecasting with IBM Granite time-series models",
-          "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-          "publishedAt": "2026-10-22T07:51:31.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-          "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-          "publishedAt": "2026-10-21T18:26:30.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-          "link": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-          "publishedAt": "2026-10-21T17:35:36.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-          "link": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-          "publishedAt": "2026-10-21T16:04:43.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -253,16 +278,7 @@
     },
     {
       "vendor": "NVIDIA",
-      "items": [
-        {
-          "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models",
-          "link": "https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/",
-          "publishedAt": "2026-10-15T15:00:24.000Z",
-          "rawSummary": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
-          "summary_fr": "NVIDIA today released Nemotron 3.5 Super VL, an open 120-billion-parameter model that delivers the fastest task completion and highest accuracy for specialized always-on agents. Joining it are two new edge models: Nemotron 3.5 Bolt 74B-A9B 24GB, optimized to balance intelligence and speed per GB for local agentic workloads, and Nemotron 3.5 Bolt E4B 4GB, optimized […]",
-          "diff_type": "updated"
-        }
-      ],
+      "items": [],
       "sources": [
         {
           "name": "NVIDIA Deep Learning Blog",
