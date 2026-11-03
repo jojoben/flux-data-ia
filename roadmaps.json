@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-11-01T11:43:59.110Z",
+  "generatedAt": "2026-11-03T12:40:07.324Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
         {
-          "title": "Making it easier for websites to express AI training preferences",
-          "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-          "publishedAt": "2026-10-30T09:30:00.000Z",
-          "rawSummary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-          "summary_fr": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+          "title": "Heimstaden is changing residential real estate management with AI",
+          "link": "https://openai.com/index/heimstaden",
+          "publishedAt": "2026-11-03T08:00:00.000Z",
+          "rawSummary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+          "summary_fr": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
           "diff_type": "updated"
         },
         {
-          "title": "Community safety report and new protections for teens",
-          "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-          "publishedAt": "2026-10-30T09:00:00.000Z",
-          "rawSummary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-          "summary_fr": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+          "title": "Rewarding defenders with bigger bug bounties",
+          "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "publishedAt": "2026-11-02T18:00:00.000Z",
+          "rawSummary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+          "summary_fr": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
           "diff_type": "updated"
         },
         {
-          "title": "Fair use benefits everyone",
-          "link": "https://openai.com/index/fair-use-benefits-everyone",
-          "publishedAt": "2026-10-30T00:00:00.000Z",
-          "rawSummary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-          "summary_fr": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+          "title": "Preparing our next security sprint to harden OpenAI",
+          "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "publishedAt": "2026-11-02T18:00:00.000Z",
+          "rawSummary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+          "summary_fr": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
           "diff_type": "updated"
         },
         {
-          "title": "An updated Model Spec for more capable and beneficial AI",
-          "link": "https://openai.com/index/updated-model-spec",
-          "publishedAt": "2026-10-29T17:00:00.000Z",
-          "rawSummary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
-          "summary_fr": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+          "title": "Scaling Git at OpenAI",
+          "link": "https://openai.com/index/scaling-git-at-openai",
+          "publishedAt": "2026-11-02T15:30:00.000Z",
+          "rawSummary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+          "summary_fr": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
           "diff_type": "updated"
         },
         {
-          "title": "How we detect frontier model misalignment",
-          "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-          "publishedAt": "2026-10-29T09:00:00.000Z",
-          "rawSummary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-          "summary_fr": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+          "title": "Introducing the Grid Protectors Program",
+          "link": "https://openai.com/index/grid-protectors-program",
+          "publishedAt": "2026-11-02T15:00:00.000Z",
+          "rawSummary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+          "summary_fr": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
           "diff_type": "updated"
         },
         {
-          "title": "How Ropes & Gray is developing AI for transactional diligence",
-          "link": "https://openai.com/index/ropes-gray-ai-diligence",
-          "publishedAt": "2026-10-29T07:00:00.000Z",
-          "rawSummary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-          "summary_fr": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+          "title": "LifeVal",
+          "link": "https://openai.com/index/lifeval",
+          "publishedAt": "2026-11-02T09:00:00.000Z",
+          "rawSummary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+          "summary_fr": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
           "diff_type": "updated"
         },
         {
-          "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-          "link": "https://openai.com/index/credit-saison",
-          "publishedAt": "2026-10-29T00:00:00.000Z",
-          "rawSummary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-          "summary_fr": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+          "title": "Qodo builds context into AI code review with Codex",
+          "link": "https://openai.com/index/qodo-codex-plugin",
+          "publishedAt": "2026-11-02T00:00:00.000Z",
+          "rawSummary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+          "summary_fr": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
           "diff_type": "updated"
         },
         {
-          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "publishedAt": "2026-10-28T13:15:00.000Z",
-          "rawSummary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-          "summary_fr": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+          "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+          "link": "https://openai.com/index/dan-driscoll-joins-openai",
+          "publishedAt": "2026-11-02T00:00:00.000Z",
+          "rawSummary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+          "summary_fr": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
           "diff_type": "updated"
         }
       ],
@@ -79,37 +79,12 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [
-        {
-          "title": "Gemini 4 Carbon: Our next frontier model",
-          "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-          "publishedAt": "2026-10-28T17:00:58.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Genie 4: A new generation of world simulation",
-          "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-          "publishedAt": "2026-10-27T16:01:38.000Z",
-          "rawSummary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-          "summary_fr": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Beyond tree cover: mapping the world’s forest types",
-          "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-          "publishedAt": "2026-10-22T14:30:24.000Z",
-          "rawSummary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-          "summary_fr": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-          "diff_type": "updated"
-        }
-      ],
+      "items": [],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": true,
-          "error": null
+          "ok": false,
+          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
         }
       ]
     },
@@ -127,6 +102,30 @@
     {
       "vendor": "GitHub",
       "items": [
+        {
+          "title": "GitHub Desktop adds short-lived authentication tokens",
+          "link": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+          "publishedAt": "2026-11-03T07:55:58.000Z",
+          "rawSummary": "When you sign in to GitHub Desktop 3.6.10 or later, eligible accounts can now use short-lived, automatically refreshing authentication tokens. Short-lived access tokens reduce how long a leaked token can…\nThe post GitHub Desktop adds short-lived authentication tokens appeared first on The GitHub Blog.",
+          "summary_fr": "When you sign in to GitHub Desktop 3.6.10 or later, eligible accounts can now use short-lived, automatically refreshing authentication tokens. Short-lived access tokens reduce how long a leaked token can…\nThe post GitHub Desktop adds short-lived authentication tokens appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Security risk assessments include repository protection status",
+          "link": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+          "publishedAt": "2026-11-02T15:47:21.000Z",
+          "rawSummary": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization…\nThe post Security risk assessments include repository protection status appeared first on The GitHub Blog.",
+          "summary_fr": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization…\nThe post Security risk assessments include repository protection status appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "pull_request_target blocked by default December 2",
+          "link": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+          "publishedAt": "2026-11-02T15:14:46.000Z",
+          "rawSummary": "Starting December 2, 2026, GitHub Actions will block pull_request_target events by default in all public repositories, unless an applicable Actions event policy explicitly allows them. Enforcement was previously scheduled for…\nThe post pull_request_target blocked by default December 2 appeared first on The GitHub Blog.",
+          "summary_fr": "Starting December 2, 2026, GitHub Actions will block pull_request_target events by default in all public repositories, unless an applicable Actions event policy explicitly allows them. Enforcement was previously scheduled for…\nThe post pull_request_target blocked by default December 2 appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
         {
           "title": "Webhook IP ranges added to the Meta API",
           "link": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
@@ -166,30 +165,6 @@
           "rawSummary": "You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the…\nThe post Security extension for the GitHub Copilot app appeared first on The GitHub Blog.",
           "summary_fr": "You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the…\nThe post Security extension for the GitHub Copilot app appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "GitHub intelligence puts your code, context, and history to work",
-          "link": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
-          "publishedAt": "2026-10-28T15:40:00.000Z",
-          "rawSummary": "Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in…\nThe post GitHub intelligence puts your code, context, and history to work appeared first on The GitHub Blog.",
-          "summary_fr": "Agents should understand more than your codebase—they should understand how your team works. Your preferences, repository conventions, skills, and custom instructions guide how changes should be made, while code in…\nThe post GitHub intelligence puts your code, context, and history to work appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Build shared workflows for your team with Copilot Automations",
-          "link": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
-          "publishedAt": "2026-10-28T15:35:00.000Z",
-          "rawSummary": "Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the…\nThe post Build shared workflows for your team with Copilot Automations appeared first on The GitHub Blog.",
-          "summary_fr": "Shared Copilot Automations are rolling out, enabling teams to build and maintain AI-powered workflows together. With Copilot Automations, you can combine prompts, triggers, and tools to design workflows around the…\nThe post Build shared workflows for your team with Copilot Automations appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GitHub Copilot in VS Code, Universe releases",
-          "link": "https://github.blog/changelog/2026-10-28-github-copilot-in-vs-code-universe-releases",
-          "publishedAt": "2026-10-28T15:33:00.000Z",
-          "rawSummary": "This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how…\nThe post GitHub Copilot in VS Code, Universe releases appeared first on The GitHub Blog.",
-          "summary_fr": "This year, we focused on giving you more choice in how you work with GitHub Copilot in Visual Studio Code: which models you use, where your agents run, and how…\nThe post GitHub Copilot in VS Code, Universe releases appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -203,6 +178,14 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "Transformers Model Integration Contracts",
+          "link": "https://huggingface.co/blog/transformers-mic",
+          "publishedAt": "2026-11-03T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "nemotron-halloween",
           "link": "https://huggingface.co/blog/nvidia/nemotron-halloween",
@@ -255,14 +238,6 @@
           "title": "Can we trust LLMs to judge whether a research idea is novel?",
           "link": "https://huggingface.co/blog/allenai/novelty-bench",
           "publishedAt": "2026-10-27T16:12:42.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Does Your Model Run on AWS Trainium? Look It Up",
-          "link": "https://huggingface.co/blog/torch-neuronx-model-support",
-          "publishedAt": "2026-10-23T00:00:00.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
