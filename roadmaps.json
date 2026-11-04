@@ -1,9 +1,25 @@
 {
-  "generatedAt": "2026-11-03T12:40:07.324Z",
+  "generatedAt": "2026-11-04T12:49:56.670Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Accelerating engineering for the physical world",
+          "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+          "publishedAt": "2026-11-03T12:00:00.000Z",
+          "rawSummary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+          "summary_fr": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "How Cisco defends at machine speed with OpenAI",
+          "link": "https://openai.com/index/cisco-cyber",
+          "publishedAt": "2026-11-03T08:00:00.000Z",
+          "rawSummary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+          "summary_fr": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+          "diff_type": "updated"
+        },
         {
           "title": "Heimstaden is changing residential real estate management with AI",
           "link": "https://openai.com/index/heimstaden",
@@ -13,11 +29,11 @@
           "diff_type": "updated"
         },
         {
-          "title": "Rewarding defenders with bigger bug bounties",
-          "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-          "publishedAt": "2026-11-02T18:00:00.000Z",
-          "rawSummary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-          "summary_fr": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+          "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+          "publishedAt": "2026-11-03T00:00:00.000Z",
+          "rawSummary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+          "summary_fr": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
           "diff_type": "updated"
         },
         {
@@ -26,6 +42,14 @@
           "publishedAt": "2026-11-02T18:00:00.000Z",
           "rawSummary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
           "summary_fr": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Rewarding defenders with bigger bug bounties",
+          "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "publishedAt": "2026-11-02T18:00:00.000Z",
+          "rawSummary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+          "summary_fr": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
           "diff_type": "updated"
         },
         {
@@ -43,30 +67,6 @@
           "rawSummary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
           "summary_fr": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
           "diff_type": "updated"
-        },
-        {
-          "title": "LifeVal",
-          "link": "https://openai.com/index/lifeval",
-          "publishedAt": "2026-11-02T09:00:00.000Z",
-          "rawSummary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-          "summary_fr": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Qodo builds context into AI code review with Codex",
-          "link": "https://openai.com/index/qodo-codex-plugin",
-          "publishedAt": "2026-11-02T00:00:00.000Z",
-          "rawSummary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-          "summary_fr": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-          "link": "https://openai.com/index/dan-driscoll-joins-openai",
-          "publishedAt": "2026-11-02T00:00:00.000Z",
-          "rawSummary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-          "summary_fr": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -79,12 +79,53 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [],
+      "items": [
+        {
+          "title": "Agentic cheminformatics with Google Antigravity",
+          "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+          "publishedAt": "2026-11-03T17:01:49.000Z",
+          "rawSummary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+          "summary_fr": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Speeding up planning decisions with AI",
+          "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+          "publishedAt": "2026-10-30T14:18:30.000Z",
+          "rawSummary": "Google DeepMind and UK government work together to reduce planning assessment times",
+          "summary_fr": "Google DeepMind and UK government work together to reduce planning assessment times",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "publishedAt": "2026-10-28T17:00:58.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Genie 4: A new generation of world simulation",
+          "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "publishedAt": "2026-10-27T16:01:38.000Z",
+          "rawSummary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "summary_fr": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Beyond tree cover: mapping the world’s forest types",
+          "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+          "publishedAt": "2026-10-22T14:30:24.000Z",
+          "rawSummary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+          "summary_fr": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": false,
-          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+          "ok": true,
+          "error": null
         }
       ]
     },
@@ -103,6 +144,54 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "BYOK and enterprise custom models in the Copilot usage API",
+          "link": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "publishedAt": "2026-11-04T00:32:19.000Z",
+          "rawSummary": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of…\nThe post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog.",
+          "summary_fr": "The Copilot usage metrics API now shows bring your own key (BYOK) usage across GitHub Copilot, so you can separate it from Copilot-hosted model usage. Reports cover two kinds of…\nThe post BYOK and enterprise custom models in the Copilot usage API appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Dependabot version updates support Agent Package Manager",
+          "link": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+          "publishedAt": "2026-11-03T20:24:07.000Z",
+          "rawSummary": "You can now keep your AI agent skills, prompts, and instructions up to date with Dependabot version updates for Agent Package Manager (APM). Dependabot opens pull requests to update supported…\nThe post Dependabot version updates support Agent Package Manager appeared first on The GitHub Blog.",
+          "summary_fr": "You can now keep your AI agent skills, prompts, and instructions up to date with Dependabot version updates for Agent Package Manager (APM). Dependabot opens pull requests to update supported…\nThe post Dependabot version updates support Agent Package Manager appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Look up a resource’s cost center with the GitHub REST API",
+          "link": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "publishedAt": "2026-11-03T15:27:13.000Z",
+          "rawSummary": "You can now use the GitHub REST API to find which cost center a user, organization, repository, or enterprise team belongs to. Previously, you had to list every cost center…\nThe post Look up a resource’s cost center with the GitHub REST API appeared first on The GitHub Blog.",
+          "summary_fr": "You can now use the GitHub REST API to find which cost center a user, organization, repository, or enterprise team belongs to. Previously, you had to list every cost center…\nThe post Look up a resource’s cost center with the GitHub REST API appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Copilot is now available in JetBrains Air",
+          "link": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "publishedAt": "2026-11-03T15:11:46.000Z",
+          "rawSummary": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your…\nThe post GitHub Copilot is now available in JetBrains Air appeared first on The GitHub Blog.",
+          "summary_fr": "You can now delegate coding tasks, guide execution, and review results with GitHub Copilot in JetBrains Air. The integration uses the Agent Client Protocol (ACP) and supports tasks in your…\nThe post GitHub Copilot is now available in JetBrains Air appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "link": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+          "publishedAt": "2026-11-03T14:56:03.000Z",
+          "rawSummary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.3. It supports new Python 3.15 language…\nThe post CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions appeared first on The GitHub Blog.",
+          "summary_fr": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.3. It supports new Python 3.15 language…\nThe post CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Dependabot now supports Python 3.15",
+          "link": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+          "publishedAt": "2026-11-03T13:49:32.000Z",
+          "rawSummary": "You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub…\nThe post Dependabot now supports Python 3.15 appeared first on The GitHub Blog.",
+          "summary_fr": "You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub…\nThe post Dependabot now supports Python 3.15 appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "GitHub Desktop adds short-lived authentication tokens",
           "link": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
           "publishedAt": "2026-11-03T07:55:58.000Z",
@@ -117,54 +206,6 @@
           "rawSummary": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization…\nThe post Security risk assessments include repository protection status appeared first on The GitHub Blog.",
           "summary_fr": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization…\nThe post Security risk assessments include repository protection status appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "pull_request_target blocked by default December 2",
-          "link": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
-          "publishedAt": "2026-11-02T15:14:46.000Z",
-          "rawSummary": "Starting December 2, 2026, GitHub Actions will block pull_request_target events by default in all public repositories, unless an applicable Actions event policy explicitly allows them. Enforcement was previously scheduled for…\nThe post pull_request_target blocked by default December 2 appeared first on The GitHub Blog.",
-          "summary_fr": "Starting December 2, 2026, GitHub Actions will block pull_request_target events by default in all public repositories, unless an applicable Actions event policy explicitly allows them. Enforcement was previously scheduled for…\nThe post pull_request_target blocked by default December 2 appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Webhook IP ranges added to the Meta API",
-          "link": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
-          "publishedAt": "2026-10-29T17:14:38.000Z",
-          "rawSummary": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for…\nThe post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog.",
-          "summary_fr": "We’re adding IP ranges for GitHub webhook deliveries on github.com. The Meta API now includes these additional ranges in the hooks field. If you maintain a static network allowlist for…\nThe post Webhook IP ranges added to the Meta API appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Route and orchestrate models with GitHub Copilot Fusion",
-          "link": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-          "publishedAt": "2026-10-28T16:00:00.000Z",
-          "rawSummary": "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.…\nThe post Route and orchestrate models with GitHub Copilot Fusion appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub Copilot Fusion is generally available. Instead of picking a model for each task, choose Copilot Fusion and let Copilot intelligently route and orchestrate which models it uses for you.…\nThe post Route and orchestrate models with GitHub Copilot Fusion appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GitHub Copilot app, Universe releases",
-          "link": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-          "publishedAt": "2026-10-28T15:55:00.000Z",
-          "rawSummary": "Work doesn’t always fit in a single repository or session. A feature can span several repositories. A launch plan can pull in specs, designs, and assets without touching a repository…\nThe post GitHub Copilot app, Universe releases appeared first on The GitHub Blog.",
-          "summary_fr": "Work doesn’t always fit in a single repository or session. A feature can span several repositories. A launch plan can pull in specs, designs, and assets without touching a repository…\nThe post GitHub Copilot app, Universe releases appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GitHub Enterprise now includes access to GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-          "publishedAt": "2026-10-28T15:50:00.000Z",
-          "rawSummary": "Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many…\nThe post GitHub Enterprise now includes access to GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "Enterprises working with a GitHub or Microsoft account team can now get Copilot included with GitHub Enterprise for every licensed user. Previously, you had to manage two things: how many…\nThe post GitHub Enterprise now includes access to GitHub Copilot appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Security extension for the GitHub Copilot app",
-          "link": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-          "publishedAt": "2026-10-28T15:45:00.000Z",
-          "rawSummary": "You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the…\nThe post Security extension for the GitHub Copilot app appeared first on The GitHub Blog.",
-          "summary_fr": "You can now work through your repository’s GitHub code scanning alerts without leaving the GitHub Copilot app. The new GitHub security extension, now in public preview, lets you find the…\nThe post Security extension for the GitHub Copilot app appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -178,6 +219,30 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "StateBench: Testing how language models track state changes over long documents",
+          "link": "https://huggingface.co/blog/allenai/statebench",
+          "publishedAt": "2026-11-03T17:15:21.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Palette: teaching a small model to build decks in your design language",
+          "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "publishedAt": "2026-11-03T16:35:36.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "CWE-bench v2: More coverage, quality, and transparency",
+          "link": "https://huggingface.co/blog/cwe-bench",
+          "publishedAt": "2026-11-03T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Transformers Model Integration Contracts",
           "link": "https://huggingface.co/blog/transformers-mic",
@@ -214,30 +279,6 @@
           "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
           "link": "https://huggingface.co/blog/mistral-large4",
           "publishedAt": "2026-10-29T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "link": "https://huggingface.co/blog/anydecisionmodel",
-          "publishedAt": "2026-10-29T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Build specialized multimodal models with LFM3",
-          "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-          "publishedAt": "2026-10-27T17:16:52.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Can we trust LLMs to judge whether a research idea is novel?",
-          "link": "https://huggingface.co/blog/allenai/novelty-bench",
-          "publishedAt": "2026-10-27T16:12:42.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
