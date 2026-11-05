@@ -1,9 +1,57 @@
 {
-  "generatedAt": "2026-11-04T12:49:56.670Z",
+  "generatedAt": "2026-11-05T12:58:22.359Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Setting a new standard for responsible AI infrastructure",
+          "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "publishedAt": "2026-11-05T02:00:00.000Z",
+          "rawSummary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+          "summary_fr": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "link": "https://openai.com/index/openai-to-acquire-pierre",
+          "publishedAt": "2026-11-04T14:30:00.000Z",
+          "rawSummary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+          "summary_fr": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "A thousand fewer paths to root",
+          "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "publishedAt": "2026-11-04T08:00:00.000Z",
+          "rawSummary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+          "summary_fr": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "publishedAt": "2026-11-04T07:00:00.000Z",
+          "rawSummary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+          "summary_fr": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing Images 2.6",
+          "link": "https://openai.com/index/introducing-images-2-6",
+          "publishedAt": "2026-11-04T00:00:00.000Z",
+          "rawSummary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+          "summary_fr": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+          "link": "https://openai.com/index/devrev-enterprise-self-service",
+          "publishedAt": "2026-11-04T00:00:00.000Z",
+          "rawSummary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+          "summary_fr": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+          "diff_type": "updated"
+        },
         {
           "title": "Accelerating engineering for the physical world",
           "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
@@ -19,54 +67,6 @@
           "rawSummary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
           "summary_fr": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Heimstaden is changing residential real estate management with AI",
-          "link": "https://openai.com/index/heimstaden",
-          "publishedAt": "2026-11-03T08:00:00.000Z",
-          "rawSummary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-          "summary_fr": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-          "link": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-          "publishedAt": "2026-11-03T00:00:00.000Z",
-          "rawSummary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-          "summary_fr": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Preparing our next security sprint to harden OpenAI",
-          "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-          "publishedAt": "2026-11-02T18:00:00.000Z",
-          "rawSummary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-          "summary_fr": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Rewarding defenders with bigger bug bounties",
-          "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-          "publishedAt": "2026-11-02T18:00:00.000Z",
-          "rawSummary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-          "summary_fr": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Scaling Git at OpenAI",
-          "link": "https://openai.com/index/scaling-git-at-openai",
-          "publishedAt": "2026-11-02T15:30:00.000Z",
-          "rawSummary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-          "summary_fr": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing the Grid Protectors Program",
-          "link": "https://openai.com/index/grid-protectors-program",
-          "publishedAt": "2026-11-02T15:00:00.000Z",
-          "rawSummary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-          "summary_fr": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -79,53 +79,12 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [
-        {
-          "title": "Agentic cheminformatics with Google Antigravity",
-          "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-          "publishedAt": "2026-11-03T17:01:49.000Z",
-          "rawSummary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-          "summary_fr": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Speeding up planning decisions with AI",
-          "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-          "publishedAt": "2026-10-30T14:18:30.000Z",
-          "rawSummary": "Google DeepMind and UK government work together to reduce planning assessment times",
-          "summary_fr": "Google DeepMind and UK government work together to reduce planning assessment times",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Gemini 4 Carbon: Our next frontier model",
-          "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-          "publishedAt": "2026-10-28T17:00:58.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Genie 4: A new generation of world simulation",
-          "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-          "publishedAt": "2026-10-27T16:01:38.000Z",
-          "rawSummary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-          "summary_fr": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Beyond tree cover: mapping the world’s forest types",
-          "link": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-          "publishedAt": "2026-10-22T14:30:24.000Z",
-          "rawSummary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-          "summary_fr": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-          "diff_type": "updated"
-        }
-      ],
+      "items": [],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": true,
-          "error": null
+          "ok": false,
+          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
         }
       ]
     },
@@ -143,6 +102,22 @@
     {
       "vendor": "GitHub",
       "items": [
+        {
+          "title": "CodeQL 2.27.4 improves accuracy and query metadata",
+          "link": "https://github.blog/changelog/2026-11-04-codeql-2-27-4-improves-accuracy-and-query-metadata",
+          "publishedAt": "2026-11-04T20:04:52.000Z",
+          "rawSummary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.4 with query accuracy improvements across several…\nThe post CodeQL 2.27.4 improves accuracy and query metadata appeared first on The GitHub Blog.",
+          "summary_fr": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.27.4 with query accuracy improvements across several…\nThe post CodeQL 2.27.4 improves accuracy and query metadata appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Copilot is now available in Xcode’s coding assistant",
+          "link": "https://github.blog/changelog/2026-11-04-github-copilot-is-now-available-in-xcodes-coding-assistant",
+          "publishedAt": "2026-11-04T19:10:40.000Z",
+          "rawSummary": "You can now work with GitHub Copilot directly in Xcode’s built-in coding assistant, bringing Copilot into your native Xcode workflow. The integration is now in public preview, available starting with…\nThe post GitHub Copilot is now available in Xcode’s coding assistant appeared first on The GitHub Blog.",
+          "summary_fr": "You can now work with GitHub Copilot directly in Xcode’s built-in coding assistant, bringing Copilot into your native Xcode workflow. The integration is now in public preview, available starting with…\nThe post GitHub Copilot is now available in Xcode’s coding assistant appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
         {
           "title": "BYOK and enterprise custom models in the Copilot usage API",
           "link": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
@@ -190,22 +165,6 @@
           "rawSummary": "You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub…\nThe post Dependabot now supports Python 3.15 appeared first on The GitHub Blog.",
           "summary_fr": "You can now upgrade your projects to Python 3.15 and keep receiving Dependabot updates. Support for Python 3.15 is available to all github.com users and will be included in GitHub…\nThe post Dependabot now supports Python 3.15 appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "GitHub Desktop adds short-lived authentication tokens",
-          "link": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
-          "publishedAt": "2026-11-03T07:55:58.000Z",
-          "rawSummary": "When you sign in to GitHub Desktop 3.6.10 or later, eligible accounts can now use short-lived, automatically refreshing authentication tokens. Short-lived access tokens reduce how long a leaked token can…\nThe post GitHub Desktop adds short-lived authentication tokens appeared first on The GitHub Blog.",
-          "summary_fr": "When you sign in to GitHub Desktop 3.6.10 or later, eligible accounts can now use short-lived, automatically refreshing authentication tokens. Short-lived access tokens reduce how long a leaked token can…\nThe post GitHub Desktop adds short-lived authentication tokens appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Security risk assessments include repository protection status",
-          "link": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
-          "publishedAt": "2026-11-02T15:47:21.000Z",
-          "rawSummary": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization…\nThe post Security risk assessments include repository protection status appeared first on The GitHub Blog.",
-          "summary_fr": "The GitHub code security risk assessment and secret risk assessment now show whether findings are in protected or unprotected repositories, helping you identify where to extend your security coverage. Organization…\nThe post Security risk assessments include repository protection status appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -219,6 +178,22 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "link": "https://huggingface.co/blog/phonon-tts",
+          "publishedAt": "2026-11-05T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "link": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "publishedAt": "2026-11-04T17:50:10.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "StateBench: Testing how language models track state changes over long documents",
           "link": "https://huggingface.co/blog/allenai/statebench",
@@ -263,22 +238,6 @@
           "title": "Granite Switch 4.1.1 — Update models like you update software",
           "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
           "publishedAt": "2026-10-29T13:37:07.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-          "link": "https://huggingface.co/blog/announcing-project-protostar",
-          "publishedAt": "2026-10-29T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-          "link": "https://huggingface.co/blog/mistral-large4",
-          "publishedAt": "2026-10-29T00:00:00.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
