@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T11:34:41.016Z",
+  "generatedAt": "2026-11-08T11:46:49.385Z",
   "vendors": [
     {
       "vendor": "OpenAI",
@@ -79,12 +79,53 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [],
+      "items": [
+        {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "publishedAt": "2026-11-05T17:05:16.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Agentic cheminformatics with Google Antigravity",
+          "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+          "publishedAt": "2026-11-03T17:01:49.000Z",
+          "rawSummary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+          "summary_fr": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Speeding up planning decisions with AI",
+          "link": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+          "publishedAt": "2026-10-30T14:18:30.000Z",
+          "rawSummary": "Google DeepMind and UK government work together to reduce planning assessment times",
+          "summary_fr": "Google DeepMind and UK government work together to reduce planning assessment times",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini 4 Carbon: Our next frontier model",
+          "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+          "publishedAt": "2026-10-28T17:00:58.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Genie 4: A new generation of world simulation",
+          "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+          "publishedAt": "2026-10-27T16:01:38.000Z",
+          "rawSummary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "summary_fr": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": false,
-          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+          "ok": true,
+          "error": null
         }
       ]
     },

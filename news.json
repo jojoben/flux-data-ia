@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-11-07T11:34:41.015Z",
+  "generatedAt": "2026-11-08T11:46:49.384Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "publishedAt": "2026-11-07T22:07:22.000Z",
+      "rawSummary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "summary_fr": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "category": "Autre"
+    },
+    {
+      "source": "TechCrunch AI",
+      "tag": "Presse",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "publishedAt": "2026-11-07T21:17:08.000Z",
+      "rawSummary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "summary_fr": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "publishedAt": "2026-11-07T15:50:00.000Z",
+      "rawSummary": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nAround 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins.\nRecently, my best weapon in this fight has been AI. Between Alexa Plus in the Echo smart display on my kitchen counter, the Samsung Food app on my fridge, and even an AI-powered cooking robot, AI has become my g",
+      "summary_fr": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nAround 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly battle in which the chicken usually wins.\nRecently, my best weapon in this fight has been AI. Between Alexa Plus in the Echo smart display on my kitchen counter, the Samsung Food app on my fridge, and even an AI-powered cooking robot, AI has become my g",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "publishedAt": "2026-11-07T15:43:45.000Z",
+      "rawSummary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell with wires dangling from the ceiling where lights should be.\" In fact, the paper could find little evidence that the company exists in any meaningful way:\nOnly scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lis",
+      "summary_fr": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell with wires dangling from the ceiling where lights should be.\" In fact, the paper could find little evidence that the company exists in any meaningful way:\nOnly scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lis",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "publishedAt": "2026-11-07T15:00:00.000Z",
+      "rawSummary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.\nThis episode is part one of a special series looking at AI in real life.\nI’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say that the multibillion-dollar cybersecurity industry as we’ve known it is essentially overdue to the unrelenting, AI-boosted waves of hacks, breaches, and attacks — and this is only the beginning of how much AI is changing security.\n\n\n\nVerge subscribers, don’t forget you get exclu",
+      "summary_fr": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now.\nThis episode is part one of a special series looking at AI in real life.\nI’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say that the multibillion-dollar cybersecurity industry as we’ve known it is essentially overdue to the unrelenting, AI-boosted waves of hacks, breaches, and attacks — and this is only the beginning of how much AI is changing security.\n\n\n\nVerge subscribers, don’t forget you get exclu",
+      "category": "Autre"
+    },
+    {
+      "source": "The Verge AI",
+      "tag": "Presse",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "publishedAt": "2026-11-07T12:30:00.000Z",
+      "rawSummary": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images\t\n\nAnthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.\nThat's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation inside the company, as part of a report evaluating its AI research and development. The probe is separate from a program offering safety researchers \"employee-like\" access to syst",
+      "summary_fr": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images\t\n\nAnthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down.\nThat's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation inside the company, as part of a report evaluating its AI research and development. The probe is separate from a program offering safety researchers \"employee-like\" access to syst",
+      "category": "Autre"
+    },
     {
       "source": "TechCrunch AI",
       "tag": "Presse",
@@ -252,16 +312,6 @@
       "category": "Autre"
     },
     {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "How Akai and Moog are embracing vibe-coded mods",
-      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "publishedAt": "2026-11-06T16:34:39.000Z",
-      "rawSummary": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can do what they want.\" That \"toolbox\" includes making the code for devices like the recently teased MPC Sample Key open source, but also offering developers an SDK to make modifications easier and lessen the risk of bricking your beloved sampler.\nWhile Akai is eager to see what t",
-      "summary_fr": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to provide the inner workings of, say, an MPC or Sample so that people can do what they want.\" That \"toolbox\" includes making the code for devices like the recently teased MPC Sample Key open source, but also offering developers an SDK to make modifications easier and lessen the risk of bricking your beloved sampler.\nWhile Akai is eager to see what t",
-      "category": "Autre"
-    },
-    {
       "source": "Ars Technica AI",
       "tag": "Presse",
       "title": "Could potential AI clones of GTA VI force a quicker official port?",
@@ -302,16 +352,6 @@
       "category": "Autre"
     },
     {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "Amazon will let you text Alexa your shopping list",
-      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "publishedAt": "2026-11-06T14:00:00.000Z",
-      "rawSummary": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and order the item on the users' behalf.\nThis launch builds on the existing Alexa for Shopping experience that launched in May, allowing users to place orders during moments where texting is more convenient than using Amazon's app or website. The contact will appea",
-      "summary_fr": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and order the item on the users' behalf.\nThis launch builds on the existing Alexa for Shopping experience that launched in May, allowing users to place orders during moments where texting is more convenient than using Amazon's app or website. The contact will appea",
-      "category": "Autre"
-    },
-    {
       "source": "TechCrunch AI",
       "tag": "Presse",
       "title": "Underdog shows off a 32MB speech model in new demo",
@@ -329,266 +369,6 @@
       "publishedAt": "2026-11-06T13:00:00.000Z",
       "rawSummary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
       "summary_fr": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
-      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "publishedAt": "2026-11-06T11:55:19.000Z",
-      "rawSummary": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images\t\n\nProtesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam.\nReuters reports that around 100 people made it into the construction site, with some scaling a crane to place a \"fuck AI\" banner. Protesters also unfurled a \"Microsoft powers genocide\" banner on the construction site, and chanted ",
-      "summary_fr": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images\t\n\nProtesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam.\nReuters reports that around 100 people made it into the construction site, with some scaling a crane to place a \"fuck AI\" banner. Protesters also unfurled a \"Microsoft powers genocide\" banner on the construction site, and chanted ",
-      "category": "Autre"
-    },
-    {
-      "source": "OpenAI News",
-      "tag": "Éditeur",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "publishedAt": "2026-11-06T08:00:00.000Z",
-      "rawSummary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "summary_fr": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "publishedAt": "2026-11-06T06:28:32.000Z",
-      "rawSummary": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "summary_fr": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "category": "Autre"
-    },
-    {
-      "source": "The Verge AI",
-      "tag": "Presse",
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "publishedAt": "2026-11-06T00:37:56.000Z",
-      "rawSummary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials.\nMany data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.\" I",
-      "summary_fr": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials.\nMany data center projects have come under scrutiny for relying on NDAs to hide discussions between developers and local officials. However, OpenAI says it is now allowing \"only narrow protections covering legitimate security information, trade secrets, or proprietary or competitively sensitive information.\" I",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Usage metrics API adds code review details and addressed rate",
-      "link": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
-      "publishedAt": "2026-11-06T00:19:07.000Z",
-      "rawSummary": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed…\nThe post Usage metrics API adds code review details and addressed rate appeared first on The GitHub Blog.",
-      "summary_fr": "The enterprise and organization repository-level Copilot usage metrics reports now show what happens to Copilot code review feedback. A new copilot_code_review object on each repos-1-day row reports how many Copilot-reviewed…\nThe post Usage metrics API adds code review details and addressed rate appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Usage metrics API flags telemetry and version gaps",
-      "link": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
-      "publishedAt": "2026-11-06T00:08:31.000Z",
-      "rawSummary": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in…\nThe post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog.",
-      "summary_fr": "The Copilot usage metrics API now shows which users are missing client telemetry or are running IDE or extension versions below the usage metrics minimums. New per-user fields appear in…\nThe post Usage metrics API flags telemetry and version gaps appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "OpenAI News",
-      "tag": "Éditeur",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "publishedAt": "2026-11-06T00:00:00.000Z",
-      "rawSummary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "summary_fr": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-      "category": "Autre"
-    },
-    {
-      "source": "Hugging Face",
-      "tag": "Éditeur",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "publishedAt": "2026-11-06T00:00:00.000Z",
-      "rawSummary": "",
-      "summary_fr": "",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "publishedAt": "2026-11-05T22:40:55.000Z",
-      "rawSummary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "summary_fr": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "category": "Autre"
-    },
-    {
-      "source": "Ars Technica AI",
-      "tag": "Presse",
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "publishedAt": "2026-11-05T21:40:36.000Z",
-      "rawSummary": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "summary_fr": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "category": "Autre"
-    },
-    {
-      "source": "Ars Technica AI",
-      "tag": "Presse",
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "publishedAt": "2026-11-05T21:39:40.000Z",
-      "rawSummary": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "summary_fr": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "Getting started with Web Answer on Amazon Bedrock AgentCore",
-      "link": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-web-answer-on-amazon-bedrock-agentcore/",
-      "publishedAt": "2026-11-05T21:04:24.000Z",
-      "rawSummary": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build. Learn how it works and how to add it to an AgentCore Gateway and call it from an agent.",
-      "summary_fr": "Web Answer on Amazon Bedrock AgentCore returns a synthesized, source-cited answer to a natural-language question in a single tool call, with no search, retrieve, synthesize, and citation pipeline to build. Learn how it works and how to add it to an AgentCore Gateway and call it from an agent.",
-      "category": "Autre"
-    },
-    {
-      "source": "OpenAI News",
-      "tag": "Éditeur",
-      "title": "Cult.fit builds operational muscle with Codex",
-      "link": "https://openai.com/index/cultfit-builds-with-codex",
-      "publishedAt": "2026-11-05T20:00:00.000Z",
-      "rawSummary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "summary_fr": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "publishedAt": "2026-11-05T19:48:28.000Z",
-      "rawSummary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "summary_fr": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "category": "Autre"
-    },
-    {
-      "source": "Hugging Face",
-      "tag": "Éditeur",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "publishedAt": "2026-11-05T19:35:16.000Z",
-      "rawSummary": "",
-      "summary_fr": "",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "publishedAt": "2026-11-05T19:12:39.000Z",
-      "rawSummary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "summary_fr": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "publishedAt": "2026-11-05T19:06:12.000Z",
-      "rawSummary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "summary_fr": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "category": "Autre"
-    },
-    {
-      "source": "AWS Machine Learning",
-      "tag": "Éditeur",
-      "title": "How Amazon Marketplace evaluates content quality with Amazon SageMaker AI",
-      "link": "https://aws.amazon.com/blogs/machine-learning/how-amazon-marketplace-evaluates-content-quality-with-amazon-sagemaker-ai/",
-      "publishedAt": "2026-11-05T18:06:43.000Z",
-      "rawSummary": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals in a CatBoost classifier, and using SHAP to turn each decision into prioritized, actionable recommendations for selling partners.",
-      "summary_fr": "Learn how Amazon Marketplace evaluates A+ Content quality at scale on Amazon SageMaker AI by rendering each product page as a single snapshot, scoring it with a vision-language model fused with OCR readability signals in a CatBoost classifier, and using SHAP to turn each decision into prioritized, actionable recommendations for selling partners.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "publishedAt": "2026-11-05T18:02:27.000Z",
-      "rawSummary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "summary_fr": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "publishedAt": "2026-11-05T18:00:00.000Z",
-      "rawSummary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "summary_fr": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "category": "Autre"
-    },
-    {
-      "source": "OpenAI News",
-      "tag": "Éditeur",
-      "title": "Australian universities are creating AI-native graduates",
-      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "publishedAt": "2026-11-05T17:00:00.000Z",
-      "rawSummary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "summary_fr": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "publishedAt": "2026-11-05T16:16:45.000Z",
-      "rawSummary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "summary_fr": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
-      "category": "Autre"
-    },
-    {
-      "source": "GitHub Changelog",
-      "tag": "Produit",
-      "title": "Secret scanning upgrades detectors, adds SpaceX as partner",
-      "link": "https://github.blog/changelog/2026-11-05-secret-scanning-upgrades-detectors-adds-spacex-as-partner",
-      "publishedAt": "2026-11-05T15:48:50.000Z",
-      "rawSummary": "This update expands secret scanning’s detection coverage: New partner: SpaceX is now a secret scanning partner. New detector: GitHub now detects starlink_public_api_v2_secret. Upgraded detectors: Alibaba, AWS, Google, OpenVSX, Pydantic Services,…\nThe post Secret scanning upgrades detectors, adds SpaceX as partner appeared first on The GitHub Blog.",
-      "summary_fr": "This update expands secret scanning’s detection coverage: New partner: SpaceX is now a secret scanning partner. New detector: GitHub now detects starlink_public_api_v2_secret. Upgraded detectors: Alibaba, AWS, Google, OpenVSX, Pydantic Services,…\nThe post Secret scanning upgrades detectors, adds SpaceX as partner appeared first on The GitHub Blog.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "publishedAt": "2026-11-05T15:19:05.000Z",
-      "rawSummary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "summary_fr": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "category": "Autre"
-    },
-    {
-      "source": "TechCrunch AI",
-      "tag": "Presse",
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "publishedAt": "2026-11-05T14:42:00.000Z",
-      "rawSummary": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "summary_fr": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "category": "Autre"
-    },
-    {
-      "source": "Ars Technica AI",
-      "tag": "Presse",
-      "title": "Agility Robotics' Nasdaq debut invites scrutiny of humanoid robot market",
-      "link": "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
-      "publishedAt": "2026-11-05T12:00:41.000Z",
-      "rawSummary": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
-      "summary_fr": "US leader in deploying humanoid robots goes public on the Nasdaq stock exchange.",
       "category": "Autre"
     }
   ]
