@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T11:46:49.385Z",
+  "generatedAt": "2026-11-09T13:41:04.476Z",
   "vendors": [
     {
       "vendor": "OpenAI",
@@ -220,6 +220,14 @@
       "vendor": "Hugging Face",
       "items": [
         {
+          "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+          "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "publishedAt": "2026-11-09T12:34:29.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
           "title": "ToyBlocks: A controlled world for robot learning and evaluation",
           "link": "https://huggingface.co/blog/allenai/toyblocks",
           "publishedAt": "2026-11-06T14:00:48.000Z",
@@ -270,14 +278,6 @@
         {
           "title": "CWE-bench v2: More coverage, quality, and transparency",
           "link": "https://huggingface.co/blog/cwe-bench",
-          "publishedAt": "2026-11-03T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Transformers Model Integration Contracts",
-          "link": "https://huggingface.co/blog/transformers-mic",
           "publishedAt": "2026-11-03T00:00:00.000Z",
           "rawSummary": "",
           "summary_fr": "",
