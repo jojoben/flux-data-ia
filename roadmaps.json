@@ -1,9 +1,25 @@
 {
-  "generatedAt": "2026-11-13T12:54:26.775Z",
+  "generatedAt": "2026-11-14T11:58:06.605Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Introducing ChatGPT Wallet",
+          "link": "https://openai.com/index/introducing-chatgpt-wallet",
+          "publishedAt": "2026-11-13T15:00:00.000Z",
+          "rawSummary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+          "summary_fr": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+          "link": "https://openai.com/business/customer-stories/shield",
+          "publishedAt": "2026-11-13T08:00:00.000Z",
+          "rawSummary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+          "summary_fr": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+          "diff_type": "updated"
+        },
         {
           "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
           "link": "https://openai.com/business/customer-stories/amplitude",
@@ -51,22 +67,6 @@
           "rawSummary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
           "summary_fr": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
           "diff_type": "updated"
-        },
-        {
-          "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-          "link": "https://openai.com/index/jiostar-vijay-seshadri",
-          "publishedAt": "2026-11-11T00:00:00.000Z",
-          "rawSummary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-          "summary_fr": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Helping caregivers use AI in everyday life",
-          "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-          "publishedAt": "2026-11-10T12:00:00.000Z",
-          "rawSummary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-          "summary_fr": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -102,6 +102,30 @@
     {
       "vendor": "GitHub",
       "items": [
+        {
+          "title": "Upcoming deprecation of selected GitHub Copilot models in December",
+          "link": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "publishedAt": "2026-11-13T20:40:05.000Z",
+          "rawSummary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date…\nThe post Upcoming deprecation of selected GitHub Copilot models in December appeared first on The GitHub Blog.",
+          "summary_fr": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on December 14, 2026: Model Deprecation date…\nThe post Upcoming deprecation of selected GitHub Copilot models in December appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Enterprise Server support in the GitHub Copilot app",
+          "link": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "publishedAt": "2026-11-13T18:27:13.000Z",
+          "rawSummary": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This…\nThe post GitHub Enterprise Server support in the GitHub Copilot app appeared first on The GitHub Blog.",
+          "summary_fr": "You can now bring your work on GitHub Enterprise Server (GHES) into the GitHub Copilot app. Add your GHES account to work with remote repositories, issues, and pull requests. This…\nThe post GitHub Enterprise Server support in the GitHub Copilot app appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini 4 Hydrogen in GitHub Copilot",
+          "link": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+          "publishedAt": "2026-11-13T18:23:48.000Z",
+          "rawSummary": "Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction…\nThe post Gemini 4 Hydrogen in GitHub Copilot appeared first on The GitHub Blog.",
+          "summary_fr": "Gemini 4 Hydrogen, Google’s latest Flash model, is now generally available in GitHub Copilot. It is designed for fast, efficient agentic coding, tool use, and multistep workflows, with improved instruction…\nThe post Gemini 4 Hydrogen in GitHub Copilot appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
         {
           "title": "Manage AI Scan for repositories using the REST API",
           "link": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
@@ -141,30 +165,6 @@
           "rawSummary": "Issue types and issue fields are now generally available on repositories owned by personal accounts. This brings the same planning capabilities to individual developers and open source maintainers to standardize…\nThe post Issue types and fields are available for personal accounts appeared first on The GitHub Blog.",
           "summary_fr": "Issue types and issue fields are now generally available on repositories owned by personal accounts. This brings the same planning capabilities to individual developers and open source maintainers to standardize…\nThe post Issue types and fields are available for personal accounts appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "GitHub App support for Enterprise Copilot seat management",
-          "link": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-          "publishedAt": "2026-11-11T00:10:31.000Z",
-          "rawSummary": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible…\nThe post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog.",
-          "summary_fr": "Enterprise GitHub Apps can now call the enterprise-level Copilot seat management APIs to control which users and enterprise teams are assigned Copilot seats. The Copilot seat management APIs are accessible…\nThe post GitHub App support for Enterprise Copilot seat management appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Gemini 4 Carbon in GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-          "publishedAt": "2026-11-10T19:26:51.000Z",
-          "rawSummary": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation…\nThe post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "Gemini 4 Carbon, Google’s latest model, is now generally available in GitHub Copilot. It is designed for complex coding, agentic, and reasoning tasks, with a focus on secure code generation…\nThe post Gemini 4 Carbon in GitHub Copilot appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "C++ language server now auto-configures MSBuild builds",
-          "link": "https://github.blog/changelog/2026-11-10-c-language-server-now-auto-configures-msbuild-builds",
-          "publishedAt": "2026-11-10T17:04:10.000Z",
-          "rawSummary": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a…\nThe post C++ language server now auto-configures MSBuild builds appeared first on The GitHub Blog.",
-          "summary_fr": "The Microsoft C++ Language Server for GitHub Copilot CLI now bundles its MSBuild compile commands extractor and invokes it automatically. An agent no longer needs to discover and run a…\nThe post C++ language server now auto-configures MSBuild builds appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -178,6 +178,30 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "publishedAt": "2026-11-13T18:00:39.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "XYBench: Helping with the problem behind the question",
+          "link": "https://huggingface.co/blog/allenai/xybench",
+          "publishedAt": "2026-11-13T17:02:35.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "publishedAt": "2026-11-13T14:05:22.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
           "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -214,30 +238,6 @@
           "title": "Pay for Hugging Face Hub with your Google Cloud Account",
           "link": "https://huggingface.co/blog/hub-gcp-marketplace",
           "publishedAt": "2026-11-10T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Decision Models in Hugging Face",
-          "link": "https://huggingface.co/blog/decision",
-          "publishedAt": "2026-11-10T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-          "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-          "publishedAt": "2026-11-09T15:05:57.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-          "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "publishedAt": "2026-11-09T12:34:29.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
