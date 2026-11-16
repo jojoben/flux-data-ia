@@ -1,9 +1,41 @@
 {
-  "generatedAt": "2026-11-14T11:58:06.605Z",
+  "generatedAt": "2026-11-16T13:25:19.718Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "link": "https://openai.com/index/lvmh-media-division-partnership",
+          "publishedAt": "2026-11-16T09:00:00.000Z",
+          "rawSummary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+          "summary_fr": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "The King’s Trust and OpenAI launch £1m partnership",
+          "link": "https://openai.com/index/the-kings-trust-and-openai",
+          "publishedAt": "2026-11-16T00:00:00.000Z",
+          "rawSummary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+          "summary_fr": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "A step toward defining the Standard Model on a lattice",
+          "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "publishedAt": "2026-11-15T22:00:01.000Z",
+          "rawSummary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+          "summary_fr": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Our new blog for science",
+          "link": "https://openai.com/index/our-new-blog-for-science",
+          "publishedAt": "2026-11-15T22:00:00.000Z",
+          "rawSummary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+          "summary_fr": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+          "diff_type": "updated"
+        },
         {
           "title": "Introducing ChatGPT Wallet",
           "link": "https://openai.com/index/introducing-chatgpt-wallet",
@@ -35,38 +67,6 @@
           "rawSummary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
           "summary_fr": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Holiday Extras is rethinking what it can build with Codex",
-          "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "publishedAt": "2026-11-12T09:30:00.000Z",
-          "rawSummary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-          "summary_fr": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Supporting research on AI and children’s safety",
-          "link": "https://openai.com/index/children-first-declaration",
-          "publishedAt": "2026-11-12T00:00:00.000Z",
-          "rawSummary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-          "summary_fr": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Gilbert + Tobin rethinks the business of law with AI",
-          "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "publishedAt": "2026-11-12T00:00:00.000Z",
-          "rawSummary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-          "summary_fr": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "ChatGPT Plus for veterans and servicemembers",
-          "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-          "publishedAt": "2026-11-11T08:00:00.000Z",
-          "rawSummary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-          "summary_fr": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -79,12 +79,77 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [],
+      "items": [
+        {
+          "title": "Introducing Gemini 4 Hydrogen",
+          "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "publishedAt": "2026-11-12T18:00:50.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "publishedAt": "2026-11-11T15:00:15.000Z",
+          "rawSummary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+          "summary_fr": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini 4 Carbon is now available",
+          "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "publishedAt": "2026-11-10T16:03:47.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+          "publishedAt": "2026-11-10T12:02:28.000Z",
+          "rawSummary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+          "summary_fr": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Opening the datasets behind our AI weather models",
+          "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+          "publishedAt": "2026-11-10T11:13:04.000Z",
+          "rawSummary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+          "summary_fr": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "publishedAt": "2026-11-09T19:51:47.000Z",
+          "rawSummary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+          "summary_fr": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "link": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+          "publishedAt": "2026-11-05T17:05:16.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Agentic cheminformatics with Google Antigravity",
+          "link": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+          "publishedAt": "2026-11-03T17:01:49.000Z",
+          "rawSummary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+          "summary_fr": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": false,
-          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+          "ok": true,
+          "error": null
         }
       ]
     },
