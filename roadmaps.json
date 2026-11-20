@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-11-19T14:11:41.588Z",
+  "generatedAt": "2026-11-20T13:53:03.335Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+          "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "publishedAt": "2026-11-19T08:00:00.000Z",
+          "rawSummary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+          "summary_fr": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Deploying Daybreak Red",
+          "link": "https://openai.com/business/learn/deploying-daybreak-red",
+          "publishedAt": "2026-11-19T00:00:00.000Z",
+          "rawSummary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "summary_fr": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "See PR scans in action",
+          "link": "https://openai.com/business/learn/pr-scans-demo",
+          "publishedAt": "2026-11-19T00:00:00.000Z",
+          "rawSummary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+          "summary_fr": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Explore the Codex Security Plugin",
+          "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "publishedAt": "2026-11-19T00:00:00.000Z",
+          "rawSummary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+          "summary_fr": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Get started with Daybreak Blue",
+          "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+          "publishedAt": "2026-11-19T00:00:00.000Z",
+          "rawSummary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+          "summary_fr": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+          "diff_type": "updated"
+        },
         {
           "title": "The Silent Consensus",
           "link": "https://openai.com/index/the-silent-consensus",
@@ -26,46 +66,6 @@
           "publishedAt": "2026-11-18T08:00:00.000Z",
           "rawSummary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
           "summary_fr": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Inside the Codex sandbox",
-          "link": "https://openai.com/index/inside-the-codex-sandbox",
-          "publishedAt": "2026-11-18T08:00:00.000Z",
-          "rawSummary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-          "summary_fr": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Managing frontier AI risk: From training to deployment",
-          "link": "https://openai.com/index/managing-frontier-ai-risk",
-          "publishedAt": "2026-11-18T06:00:00.000Z",
-          "rawSummary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-          "summary_fr": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-          "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-          "publishedAt": "2026-11-18T00:00:00.000Z",
-          "rawSummary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-          "summary_fr": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Advancing chip design with OpenAI models",
-          "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-          "publishedAt": "2026-11-18T00:00:00.000Z",
-          "rawSummary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-          "summary_fr": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing GPT-6.2 Astra and Sol",
-          "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-          "publishedAt": "2026-11-17T17:45:00.000Z",
-          "rawSummary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-          "summary_fr": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
           "diff_type": "updated"
         }
       ],
@@ -102,6 +102,30 @@
     {
       "vendor": "GitHub",
       "items": [
+        {
+          "title": "Improvements on the pull request overview in public preview",
+          "link": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "publishedAt": "2026-11-20T00:02:21.000Z",
+          "rawSummary": "Your feedback has helped improve the new pull request Overview page since its November 5, 2026 public preview. Here’s what’s new! Clearer merge status and next steps Failed optional checks…\nThe post Improvements on the pull request overview in public preview appeared first on The GitHub Blog.",
+          "summary_fr": "Your feedback has helped improve the new pull request Overview page since its November 5, 2026 public preview. Here’s what’s new! Clearer merge status and next steps Failed optional checks…\nThe post Improvements on the pull request overview in public preview appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Enterprise Live Migrations from Azure DevOps generally available",
+          "link": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+          "publishedAt": "2026-11-19T18:50:57.000Z",
+          "rawSummary": "Enterprise Live Migrations (ELM) from Azure DevOps Services to GitHub Enterprise Cloud with data residency is now generally available. You can move your repositories while your teams keep working, then…\nThe post Enterprise Live Migrations from Azure DevOps generally available appeared first on The GitHub Blog.",
+          "summary_fr": "Enterprise Live Migrations (ELM) from Azure DevOps Services to GitHub Enterprise Cloud with data residency is now generally available. You can move your repositories while your teams keep working, then…\nThe post Enterprise Live Migrations from Azure DevOps generally available appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Red Hat Enterprise Linux runner images now generally available",
+          "link": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "publishedAt": "2026-11-19T18:48:46.000Z",
+          "rawSummary": "Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images for GitHub-hosted larger runners are now generally available. Originally introduced in public preview in June 2026 in partnership with Red…\nThe post Red Hat Enterprise Linux runner images now generally available appeared first on The GitHub Blog.",
+          "summary_fr": "Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images for GitHub-hosted larger runners are now generally available. Originally introduced in public preview in June 2026 in partnership with Red…\nThe post Red Hat Enterprise Linux runner images now generally available appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
         {
           "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
           "link": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
@@ -141,30 +165,6 @@
           "rawSummary": "GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code…\nThe post Security risk assessments run automatically on GitHub Team appeared first on The GitHub Blog.",
           "summary_fr": "GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code…\nThe post Security risk assessments run automatically on GitHub Team appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Customize GitHub Copilot for your team",
-          "link": "https://github.blog/changelog/2026-11-18-customize-github-copilot-for-your-team",
-          "publishedAt": "2026-11-18T16:00:13.000Z",
-          "rawSummary": "You can now share the GitHub Copilot plugins your team relies on without asking every member to repeat the same setup. Team customizations are generally available for organization teams. Team…\nThe post Customize GitHub Copilot for your team appeared first on The GitHub Blog.",
-          "summary_fr": "You can now share the GitHub Copilot plugins your team relies on without asking every member to repeat the same setup. Team customizations are generally available for organization teams. Team…\nThe post Customize GitHub Copilot for your team appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
-          "link": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
-          "publishedAt": "2026-11-17T20:20:29.000Z",
-          "rawSummary": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot. Both models are designed for agentic coding and code review, with stronger coding judgment than earlier GPT-6…\nThe post OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available appeared first on The GitHub Blog.",
-          "summary_fr": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol are now generally available in GitHub Copilot. Both models are designed for agentic coding and code review, with stronger coding judgment than earlier GPT-6…\nThe post OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-          "link": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-          "publishedAt": "2026-11-17T18:04:48.000Z",
-          "rawSummary": "Today, we’re expanding GitHub Copilot Fusion with new models, available on more Copilot surfaces, and results on two public Terminal-Bench leaderboards, giving you more ways to use Fusion and compare…\nThe post GitHub Copilot Fusion updates: more availability, benchmarks, and models appeared first on The GitHub Blog.",
-          "summary_fr": "Today, we’re expanding GitHub Copilot Fusion with new models, available on more Copilot surfaces, and results on two public Terminal-Bench leaderboards, giving you more ways to use Fusion and compare…\nThe post GitHub Copilot Fusion updates: more availability, benchmarks, and models appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -178,6 +178,14 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "link": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "publishedAt": "2026-11-20T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
           "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
@@ -230,14 +238,6 @@
           "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
           "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "publishedAt": "2026-11-13T18:00:39.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "XYBench: Helping with the problem behind the question",
-          "link": "https://huggingface.co/blog/allenai/xybench",
-          "publishedAt": "2026-11-13T17:02:35.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
