@@ -1,31 +1,39 @@
 {
-  "generatedAt": "2026-11-20T13:53:03.335Z",
+  "generatedAt": "2026-11-21T13:16:59.279Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Combatting adversarial distillation",
+          "link": "https://openai.com/index/combatting-adversarial-distillation",
+          "publishedAt": "2026-11-20T10:00:00.000Z",
+          "rawSummary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+          "summary_fr": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+          "link": "https://openai.com/business/customer-stories/hebbia",
+          "publishedAt": "2026-11-20T00:00:00.000Z",
+          "rawSummary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+          "summary_fr": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Can AI help scientists identify promising drug candidates?",
+          "link": "https://openai.com/index/introducing-medchembench",
+          "publishedAt": "2026-11-20T00:00:00.000Z",
+          "rawSummary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+          "summary_fr": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+          "diff_type": "updated"
+        },
         {
           "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
           "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
           "publishedAt": "2026-11-19T08:00:00.000Z",
           "rawSummary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
           "summary_fr": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Deploying Daybreak Red",
-          "link": "https://openai.com/business/learn/deploying-daybreak-red",
-          "publishedAt": "2026-11-19T00:00:00.000Z",
-          "rawSummary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-          "summary_fr": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "See PR scans in action",
-          "link": "https://openai.com/business/learn/pr-scans-demo",
-          "publishedAt": "2026-11-19T00:00:00.000Z",
-          "rawSummary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-          "summary_fr": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
           "diff_type": "updated"
         },
         {
@@ -37,6 +45,14 @@
           "diff_type": "updated"
         },
         {
+          "title": "See PR scans in action",
+          "link": "https://openai.com/business/learn/pr-scans-demo",
+          "publishedAt": "2026-11-19T00:00:00.000Z",
+          "rawSummary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+          "summary_fr": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Get started with Daybreak Blue",
           "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
           "publishedAt": "2026-11-19T00:00:00.000Z",
@@ -45,27 +61,11 @@
           "diff_type": "updated"
         },
         {
-          "title": "The Silent Consensus",
-          "link": "https://openai.com/index/the-silent-consensus",
-          "publishedAt": "2026-11-18T10:00:00.000Z",
-          "rawSummary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-          "summary_fr": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Research acceleration: The jagged frontier",
-          "link": "https://openai.com/index/research-acceleration-jagged-frontier",
-          "publishedAt": "2026-11-18T08:00:00.000Z",
-          "rawSummary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-          "summary_fr": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-          "link": "https://openai.com/business/customer-stories/sumitomo-life",
-          "publishedAt": "2026-11-18T08:00:00.000Z",
-          "rawSummary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-          "summary_fr": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+          "title": "Deploying Daybreak Red",
+          "link": "https://openai.com/business/learn/deploying-daybreak-red",
+          "publishedAt": "2026-11-19T00:00:00.000Z",
+          "rawSummary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "summary_fr": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
           "diff_type": "updated"
         }
       ],
@@ -79,12 +79,77 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [],
+      "items": [
+        {
+          "title": "Introducing Gemini 4 Neon",
+          "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+          "publishedAt": "2026-11-18T21:35:43.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Genie 4 is now available",
+          "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+          "publishedAt": "2026-11-18T18:13:42.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing Gemini 4 Hydrogen",
+          "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "publishedAt": "2026-11-12T18:00:50.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "publishedAt": "2026-11-11T15:00:15.000Z",
+          "rawSummary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+          "summary_fr": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini 4 Carbon is now available",
+          "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+          "publishedAt": "2026-11-10T16:03:47.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
+          "publishedAt": "2026-11-10T12:02:28.000Z",
+          "rawSummary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+          "summary_fr": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Opening the datasets behind our AI weather models",
+          "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
+          "publishedAt": "2026-11-10T11:13:04.000Z",
+          "rawSummary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+          "summary_fr": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+          "publishedAt": "2026-11-09T19:51:47.000Z",
+          "rawSummary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+          "summary_fr": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+          "diff_type": "updated"
+        }
+      ],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": false,
-          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
+          "ok": true,
+          "error": null
         }
       ]
     },
@@ -102,6 +167,38 @@
     {
       "vendor": "GitHub",
       "items": [
+        {
+          "title": "Security advisory permissions are now generally available",
+          "link": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
+          "publishedAt": "2026-11-20T21:49:29.000Z",
+          "rawSummary": "Organization owners can now let people work on repository security advisories, including private vulnerability reports, through custom repository roles. You no longer have to make them repository administrators or give…\nThe post Security advisory permissions are now generally available appeared first on The GitHub Blog.",
+          "summary_fr": "Organization owners can now let people work on repository security advisories, including private vulnerability reports, through custom repository roles. You no longer have to make them repository administrators or give…\nThe post Security advisory permissions are now generally available appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Enterprise Server 3.23 release candidate",
+          "link": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
+          "publishedAt": "2026-11-20T20:41:26.000Z",
+          "rawSummary": "GitHub Enterprise Server (GHES) 3.23 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.23 release: When working in GitHub Projects, you…\nThe post GitHub Enterprise Server 3.23 release candidate appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Enterprise Server (GHES) 3.23 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.23 release: When working in GitHub Projects, you…\nThe post GitHub Enterprise Server 3.23 release candidate appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Pin your favorite repositories to your dashboard",
+          "link": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "publishedAt": "2026-11-20T14:12:05.000Z",
+          "rawSummary": "Choose which repositories appear on the Dashboard with the new Favorite repositories section. If the new dashboard experience isn’t enabled, Top repositories remains unchanged. Select Edit or Add repositories to…\nThe post Pin your favorite repositories to your dashboard appeared first on The GitHub Blog.",
+          "summary_fr": "Choose which repositories appear on the Dashboard with the new Favorite repositories section. If the new dashboard experience isn’t enabled, Top repositories remains unchanged. Select Edit or Add repositories to…\nThe post Pin your favorite repositories to your dashboard appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "GitHub Desktop now supports multiple accounts per host",
+          "link": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+          "publishedAt": "2026-11-20T02:06:01.000Z",
+          "rawSummary": "GitHub Desktop now lets you sign in with more than one account on the same host, including GitHub.com, GitHub Enterprise Server, and GHE.com. This has been one of the most…\nThe post GitHub Desktop now supports multiple accounts per host appeared first on The GitHub Blog.",
+          "summary_fr": "GitHub Desktop now lets you sign in with more than one account on the same host, including GitHub.com, GitHub Enterprise Server, and GHE.com. This has been one of the most…\nThe post GitHub Desktop now supports multiple accounts per host appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
         {
           "title": "Improvements on the pull request overview in public preview",
           "link": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
@@ -133,38 +230,6 @@
           "rawSummary": "You can now stream enterprise audit logs to Amazon S3 using OpenID Connect (OIDC) on GitHub Enterprise Cloud with data residency (GHE.com). This extends the existing github.com capability, letting you…\nThe post S3 audit log streaming with OpenID Connect expands to GHE.com appeared first on The GitHub Blog.",
           "summary_fr": "You can now stream enterprise audit logs to Amazon S3 using OpenID Connect (OIDC) on GitHub Enterprise Cloud with data residency (GHE.com). This extends the existing github.com capability, letting you…\nThe post S3 audit log streaming with OpenID Connect expands to GHE.com appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Wait for pull request events with GitHub CLI",
-          "link": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-          "publishedAt": "2026-11-19T00:00:13.000Z",
-          "rawSummary": "GitHub CLI now supports GitHub Event Streams. With gh v2.105.0, you and your agents can wait for a pull request to change with a single command instead of polling it…\nThe post Wait for pull request events with GitHub CLI appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub CLI now supports GitHub Event Streams. With gh v2.105.0, you and your agents can wait for a pull request to change with a single command instead of polling it…\nThe post Wait for pull request events with GitHub CLI appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Connect Supabase, Box, Calendly, and more to Copilot",
-          "link": "https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot",
-          "publishedAt": "2026-11-18T22:04:50.000Z",
-          "rawSummary": "You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. They join more than 25 services you can already connect, like…\nThe post Connect Supabase, Box, Calendly, and more to Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "You can now connect eight more services to Copilot using GitHub-verified MCP servers, or connectors, available in public preview. They join more than 25 services you can already connect, like…\nThe post Connect Supabase, Box, Calendly, and more to Copilot appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Gemini 4 Neon in GitHub Copilot",
-          "link": "https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot",
-          "publishedAt": "2026-11-18T21:49:21.000Z",
-          "rawSummary": "Gemini 4 Neon is now generally available in GitHub Copilot. It is designed for agentic coding, multistep tool use, and knowledge work. According to Google, Gemini 4 Neon delivers quality…\nThe post Gemini 4 Neon in GitHub Copilot appeared first on The GitHub Blog.",
-          "summary_fr": "Gemini 4 Neon is now generally available in GitHub Copilot. It is designed for agentic coding, multistep tool use, and knowledge work. According to Google, Gemini 4 Neon delivers quality…\nThe post Gemini 4 Neon in GitHub Copilot appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Security risk assessments run automatically on GitHub Team",
-          "link": "https://github.blog/changelog/2026-11-18-security-risk-assessments-run-automatically-on-github-team",
-          "publishedAt": "2026-11-18T16:54:26.000Z",
-          "rawSummary": "GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code…\nThe post Security risk assessments run automatically on GitHub Team appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub security risk assessments now run automatically for organizations on GitHub Team. Organization admins and security managers can review findings from the free assessments to identify exposed credentials and code…\nThe post Security risk assessments run automatically on GitHub Team appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -178,6 +243,14 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+          "link": "https://huggingface.co/blog/inkling2mini",
+          "publishedAt": "2026-11-20T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
           "link": "https://huggingface.co/blog/harness-adapters-at-scale",
@@ -230,14 +303,6 @@
           "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
           "link": "https://huggingface.co/blog/openrouter",
           "publishedAt": "2026-11-16T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "publishedAt": "2026-11-13T18:00:39.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
