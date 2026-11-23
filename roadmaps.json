@@ -1,9 +1,17 @@
 {
-  "generatedAt": "2026-11-22T13:08:13.211Z",
+  "generatedAt": "2026-11-23T15:45:11.968Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
+        {
+          "title": "Perplexity and Intelligence",
+          "link": "https://openai.com/index/perplexity-and-intelligence",
+          "publishedAt": "2026-11-22T00:00:00.000Z",
+          "rawSummary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+          "summary_fr": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+          "diff_type": "updated"
+        },
         {
           "title": "Combatting adversarial distillation",
           "link": "https://openai.com/index/combatting-adversarial-distillation",
@@ -37,11 +45,11 @@
           "diff_type": "updated"
         },
         {
-          "title": "Explore the Codex Security Plugin",
-          "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "title": "Deploying Daybreak Red",
+          "link": "https://openai.com/business/learn/deploying-daybreak-red",
           "publishedAt": "2026-11-19T00:00:00.000Z",
-          "rawSummary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-          "summary_fr": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+          "rawSummary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "summary_fr": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
           "diff_type": "updated"
         },
         {
@@ -58,14 +66,6 @@
           "publishedAt": "2026-11-19T00:00:00.000Z",
           "rawSummary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
           "summary_fr": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Deploying Daybreak Red",
-          "link": "https://openai.com/business/learn/deploying-daybreak-red",
-          "publishedAt": "2026-11-19T00:00:00.000Z",
-          "rawSummary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-          "summary_fr": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
           "diff_type": "updated"
         }
       ],
@@ -168,6 +168,14 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "Code coverage uploads now flag invalid report formats",
+          "link": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
+          "publishedAt": "2026-11-23T15:28:36.000Z",
+          "rawSummary": "The GitHub Code Quality upload-code-coverage action now checks that your coverage report is in Cobertura XML format. If it isn’t in a supported format, the upload step fails and the…\nThe post Code coverage uploads now flag invalid report formats appeared first on The GitHub Blog.",
+          "summary_fr": "The GitHub Code Quality upload-code-coverage action now checks that your coverage report is in Cobertura XML format. If it isn’t in a supported format, the upload step fails and the…\nThe post Code coverage uploads now flag invalid report formats appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Security advisory permissions are now generally available",
           "link": "https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available",
           "publishedAt": "2026-11-20T21:49:29.000Z",
@@ -222,14 +230,6 @@
           "rawSummary": "Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images for GitHub-hosted larger runners are now generally available. Originally introduced in public preview in June 2026 in partnership with Red…\nThe post Red Hat Enterprise Linux runner images now generally available appeared first on The GitHub Blog.",
           "summary_fr": "Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images for GitHub-hosted larger runners are now generally available. Originally introduced in public preview in June 2026 in partnership with Red…\nThe post Red Hat Enterprise Linux runner images now generally available appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "S3 audit log streaming with OpenID Connect expands to GHE.com",
-          "link": "https://github.blog/changelog/2026-11-19-s3-audit-log-streaming-with-openid-connect-expands-to-ghe-com",
-          "publishedAt": "2026-11-19T08:27:16.000Z",
-          "rawSummary": "You can now stream enterprise audit logs to Amazon S3 using OpenID Connect (OIDC) on GitHub Enterprise Cloud with data residency (GHE.com). This extends the existing github.com capability, letting you…\nThe post S3 audit log streaming with OpenID Connect expands to GHE.com appeared first on The GitHub Blog.",
-          "summary_fr": "You can now stream enterprise audit logs to Amazon S3 using OpenID Connect (OIDC) on GitHub Enterprise Cloud with data residency (GHE.com). This extends the existing github.com capability, letting you…\nThe post S3 audit log streaming with OpenID Connect expands to GHE.com appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -243,6 +243,14 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "How to build and maintain an agentic evaluation",
+          "link": "https://huggingface.co/blog/agentic-evals",
+          "publishedAt": "2026-11-23T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
           "link": "https://huggingface.co/blog/inkling2mini",
@@ -295,14 +303,6 @@
           "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
           "link": "https://huggingface.co/blog/rumble-2-flash",
           "publishedAt": "2026-11-18T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-          "link": "https://huggingface.co/blog/openrouter",
-          "publishedAt": "2026-11-16T00:00:00.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
