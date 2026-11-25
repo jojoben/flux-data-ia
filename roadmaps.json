@@ -1,71 +1,71 @@
 {
-  "generatedAt": "2026-11-23T15:45:11.968Z",
+  "generatedAt": "2026-11-25T15:21:27.278Z",
   "vendors": [
     {
       "vendor": "OpenAI",
       "items": [
         {
-          "title": "Perplexity and Intelligence",
-          "link": "https://openai.com/index/perplexity-and-intelligence",
-          "publishedAt": "2026-11-22T00:00:00.000Z",
-          "rawSummary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-          "summary_fr": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "link": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "publishedAt": "2026-11-24T13:00:00.000Z",
+          "rawSummary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+          "summary_fr": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
           "diff_type": "updated"
         },
         {
-          "title": "Combatting adversarial distillation",
-          "link": "https://openai.com/index/combatting-adversarial-distillation",
-          "publishedAt": "2026-11-20T10:00:00.000Z",
-          "rawSummary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-          "summary_fr": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+          "title": "Searching for distant planets with Astra",
+          "link": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "publishedAt": "2026-11-24T11:00:00.000Z",
+          "rawSummary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+          "summary_fr": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
           "diff_type": "updated"
         },
         {
-          "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-          "link": "https://openai.com/business/customer-stories/hebbia",
-          "publishedAt": "2026-11-20T00:00:00.000Z",
-          "rawSummary": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
-          "summary_fr": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.",
+          "title": "How Intentful uses dots to make more time for growth",
+          "link": "https://openai.com/business/customer-stories/intentful-dots",
+          "publishedAt": "2026-11-24T00:00:00.000Z",
+          "rawSummary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+          "summary_fr": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
           "diff_type": "updated"
         },
         {
-          "title": "Can AI help scientists identify promising drug candidates?",
-          "link": "https://openai.com/index/introducing-medchembench",
-          "publishedAt": "2026-11-20T00:00:00.000Z",
-          "rawSummary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
-          "summary_fr": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.",
+          "title": "How iFood scales coding agents across 15,000 repositories",
+          "link": "https://openai.com/business/customer-stories/ifood",
+          "publishedAt": "2026-11-24T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
           "diff_type": "updated"
         },
         {
-          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-          "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-          "publishedAt": "2026-11-19T08:00:00.000Z",
-          "rawSummary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
-          "summary_fr": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+          "title": "Clay helps sales teams win with Codex and ChatGPT",
+          "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "publishedAt": "2026-11-24T00:00:00.000Z",
+          "rawSummary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+          "summary_fr": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
           "diff_type": "updated"
         },
         {
-          "title": "Deploying Daybreak Red",
-          "link": "https://openai.com/business/learn/deploying-daybreak-red",
-          "publishedAt": "2026-11-19T00:00:00.000Z",
-          "rawSummary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-          "summary_fr": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+          "title": "OpenAI and Cisco introduce Shirudo",
+          "link": "https://openai.com/index/introducing-shirudo",
+          "publishedAt": "2026-11-23T21:20:00.000Z",
+          "rawSummary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+          "summary_fr": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
           "diff_type": "updated"
         },
         {
-          "title": "See PR scans in action",
-          "link": "https://openai.com/business/learn/pr-scans-demo",
-          "publishedAt": "2026-11-19T00:00:00.000Z",
-          "rawSummary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-          "summary_fr": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+          "title": "Connected intelligence for in-house legal",
+          "link": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+          "publishedAt": "2026-11-23T08:00:00.000Z",
+          "rawSummary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
+          "summary_fr": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reusable workflows and get more from outside counsel.",
           "diff_type": "updated"
         },
         {
-          "title": "Get started with Daybreak Blue",
-          "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-          "publishedAt": "2026-11-19T00:00:00.000Z",
-          "rawSummary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
-          "summary_fr": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+          "title": "Richpanel helps companies automate 50% of support in 30 days",
+          "link": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "publishedAt": "2026-11-23T08:00:00.000Z",
+          "rawSummary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
+          "summary_fr": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
           "diff_type": "updated"
         }
       ],
@@ -80,6 +80,14 @@
     {
       "vendor": "Google DeepMind",
       "items": [
+        {
+          "title": "Finding faster quantum algorithms with agents and formal verification",
+          "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+          "publishedAt": "2026-11-23T16:59:40.000Z",
+          "rawSummary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+          "summary_fr": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+          "diff_type": "updated"
+        },
         {
           "title": "Introducing Gemini 4 Neon",
           "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
@@ -102,46 +110,6 @@
           "publishedAt": "2026-11-12T18:00:50.000Z",
           "rawSummary": "",
           "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-          "link": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
-          "publishedAt": "2026-11-11T15:00:15.000Z",
-          "rawSummary": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-          "summary_fr": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Gemini 4 Carbon is now available",
-          "link": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-          "publishedAt": "2026-11-10T16:03:47.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-          "link": "https://deepmind.google/blog/introducing-alphaproof-code/",
-          "publishedAt": "2026-11-10T12:02:28.000Z",
-          "rawSummary": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
-          "summary_fr": "AlphaProof Code agents wrote three  million lines of proofs in Lean to verify Signal’s core encryption.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Opening the datasets behind our AI weather models",
-          "link": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-          "publishedAt": "2026-11-10T11:13:04.000Z",
-          "rawSummary": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-          "summary_fr": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-          "link": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-          "publishedAt": "2026-11-09T19:51:47.000Z",
-          "rawSummary": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-          "summary_fr": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
           "diff_type": "updated"
         }
       ],
@@ -168,11 +136,43 @@
       "vendor": "GitHub",
       "items": [
         {
+          "title": "More predictable notifications on GitHub.com",
+          "link": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+          "publishedAt": "2026-11-24T16:40:59.000Z",
+          "rawSummary": "Starting December 1, 2026, we’re migrating notifications on GitHub.com over the course of a week to make subscriptions more predictable, correct unexpected behavior, and support the growing scale of activity.…\nThe post More predictable notifications on GitHub.com appeared first on The GitHub Blog.",
+          "summary_fr": "Starting December 1, 2026, we’re migrating notifications on GitHub.com over the course of a week to make subscriptions more predictable, correct unexpected behavior, and support the growing scale of activity.…\nThe post More predictable notifications on GitHub.com appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Issue statuses and repository boards are in public preview",
+          "link": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
+          "publishedAt": "2026-11-23T20:37:11.000Z",
+          "rawSummary": "Open or closed doesn’t always tell you where an issue stands. You can now use more specific statuses to give your team and agents shared context about what’s in flight…\nThe post Issue statuses and repository boards are in public preview appeared first on The GitHub Blog.",
+          "summary_fr": "Open or closed doesn’t always tell you where an issue stands. You can now use more specific statuses to give your team and agents shared context about what’s in flight…\nThe post Issue statuses and repository boards are in public preview appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Secret scanning reduces false positives for Slack",
+          "link": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
+          "publishedAt": "2026-11-23T18:32:59.000Z",
+          "rawSummary": "Secret scanning now reduces false-positive detections for Slack secrets. False positives reduced The following detector improvements reduce false-positive matches for supported secrets. Provider Secret type Improvement Slack slack_incoming_webhook_url Exclude URLs…\nThe post Secret scanning reduces false positives for Slack appeared first on The GitHub Blog.",
+          "summary_fr": "Secret scanning now reduces false-positive detections for Slack secrets. False positives reduced The following detector improvements reduce false-positive matches for supported secrets. Provider Secret type Improvement Slack slack_incoming_webhook_url Exclude URLs…\nThe post Secret scanning reduces false positives for Slack appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
           "title": "Code coverage uploads now flag invalid report formats",
           "link": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
           "publishedAt": "2026-11-23T15:28:36.000Z",
           "rawSummary": "The GitHub Code Quality upload-code-coverage action now checks that your coverage report is in Cobertura XML format. If it isn’t in a supported format, the upload step fails and the…\nThe post Code coverage uploads now flag invalid report formats appeared first on The GitHub Blog.",
           "summary_fr": "The GitHub Code Quality upload-code-coverage action now checks that your coverage report is in Cobertura XML format. If it isn’t in a supported format, the upload step fails and the…\nThe post Code coverage uploads now flag invalid report formats appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Usage reports will include a user ID column starting December 1",
+          "link": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
+          "publishedAt": "2026-11-23T10:29:36.000Z",
+          "rawSummary": "Starting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the…\nThe post Usage reports will include a user ID column starting December 1 appeared first on The GitHub Blog.",
+          "summary_fr": "Starting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the…\nThe post Usage reports will include a user ID column starting December 1 appeared first on The GitHub Blog.",
           "diff_type": "updated"
         },
         {
@@ -195,40 +195,8 @@
           "title": "Pin your favorite repositories to your dashboard",
           "link": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
           "publishedAt": "2026-11-20T14:12:05.000Z",
-          "rawSummary": "Choose which repositories appear on the Dashboard with the new Favorite repositories section. If the new dashboard experience isn’t enabled, Top repositories remains unchanged. Select Edit or Add repositories to…\nThe post Pin your favorite repositories to your dashboard appeared first on The GitHub Blog.",
-          "summary_fr": "Choose which repositories appear on the Dashboard with the new Favorite repositories section. If the new dashboard experience isn’t enabled, Top repositories remains unchanged. Select Edit or Add repositories to…\nThe post Pin your favorite repositories to your dashboard appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "GitHub Desktop now supports multiple accounts per host",
-          "link": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
-          "publishedAt": "2026-11-20T02:06:01.000Z",
-          "rawSummary": "GitHub Desktop now lets you sign in with more than one account on the same host, including GitHub.com, GitHub Enterprise Server, and GHE.com. This has been one of the most…\nThe post GitHub Desktop now supports multiple accounts per host appeared first on The GitHub Blog.",
-          "summary_fr": "GitHub Desktop now lets you sign in with more than one account on the same host, including GitHub.com, GitHub Enterprise Server, and GHE.com. This has been one of the most…\nThe post GitHub Desktop now supports multiple accounts per host appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Improvements on the pull request overview in public preview",
-          "link": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-          "publishedAt": "2026-11-20T00:02:21.000Z",
-          "rawSummary": "Your feedback has helped improve the new pull request Overview page since its November 5, 2026 public preview. Here’s what’s new! Clearer merge status and next steps Failed optional checks…\nThe post Improvements on the pull request overview in public preview appeared first on The GitHub Blog.",
-          "summary_fr": "Your feedback has helped improve the new pull request Overview page since its November 5, 2026 public preview. Here’s what’s new! Clearer merge status and next steps Failed optional checks…\nThe post Improvements on the pull request overview in public preview appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Enterprise Live Migrations from Azure DevOps generally available",
-          "link": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "publishedAt": "2026-11-19T18:50:57.000Z",
-          "rawSummary": "Enterprise Live Migrations (ELM) from Azure DevOps Services to GitHub Enterprise Cloud with data residency is now generally available. You can move your repositories while your teams keep working, then…\nThe post Enterprise Live Migrations from Azure DevOps generally available appeared first on The GitHub Blog.",
-          "summary_fr": "Enterprise Live Migrations (ELM) from Azure DevOps Services to GitHub Enterprise Cloud with data residency is now generally available. You can move your repositories while your teams keep working, then…\nThe post Enterprise Live Migrations from Azure DevOps generally available appeared first on The GitHub Blog.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Red Hat Enterprise Linux runner images now generally available",
-          "link": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-          "publishedAt": "2026-11-19T18:48:46.000Z",
-          "rawSummary": "Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images for GitHub-hosted larger runners are now generally available. Originally introduced in public preview in June 2026 in partnership with Red…\nThe post Red Hat Enterprise Linux runner images now generally available appeared first on The GitHub Blog.",
-          "summary_fr": "Red Hat Enterprise Linux (RHEL) 9 and RHEL 10 images for GitHub-hosted larger runners are now generally available. Originally introduced in public preview in June 2026 in partnership with Red…\nThe post Red Hat Enterprise Linux runner images now generally available appeared first on The GitHub Blog.",
+          "rawSummary": "Editor’s note (November 23, 2026): We have temporarily rolled back this change while we improve the experience based on user feedback. Choose which repositories appear on the Dashboard with the…\nThe post Pin your favorite repositories to your dashboard appeared first on The GitHub Blog.",
+          "summary_fr": "Editor’s note (November 23, 2026): We have temporarily rolled back this change while we improve the experience based on user feedback. Choose which repositories appear on the Dashboard with the…\nThe post Pin your favorite repositories to your dashboard appeared first on The GitHub Blog.",
           "diff_type": "updated"
         }
       ],
@@ -243,6 +211,30 @@
     {
       "vendor": "Hugging Face",
       "items": [
+        {
+          "title": "An Indic Voice Agent with CUGA",
+          "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+          "publishedAt": "2026-11-25T10:22:09.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "publishedAt": "2026-11-24T16:34:13.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "link": "https://huggingface.co/blog/allenai/robotrack",
+          "publishedAt": "2026-11-23T17:20:37.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
         {
           "title": "How to build and maintain an agentic evaluation",
           "link": "https://huggingface.co/blog/agentic-evals",
@@ -279,30 +271,6 @@
           "title": "Why your fine-tuning job takes longer than the FLOPs say",
           "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
           "publishedAt": "2026-11-18T18:53:43.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-          "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-          "publishedAt": "2026-11-18T15:00:23.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-          "link": "https://huggingface.co/blog/moe-expert-streaming",
-          "publishedAt": "2026-11-18T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-          "link": "https://huggingface.co/blog/rumble-2-flash",
-          "publishedAt": "2026-11-18T00:00:00.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
