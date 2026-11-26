@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:21:27.278Z",
+  "generatedAt": "2026-11-26T14:48:49.455Z",
   "vendors": [
     {
       "vendor": "OpenAI",
@@ -79,45 +79,12 @@
     },
     {
       "vendor": "Google DeepMind",
-      "items": [
-        {
-          "title": "Finding faster quantum algorithms with agents and formal verification",
-          "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
-          "publishedAt": "2026-11-23T16:59:40.000Z",
-          "rawSummary": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-          "summary_fr": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing Gemini 4 Neon",
-          "link": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-          "publishedAt": "2026-11-18T21:35:43.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Genie 4 is now available",
-          "link": "https://deepmind.google/blog/genie-4-is-now-available/",
-          "publishedAt": "2026-11-18T18:13:42.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing Gemini 4 Hydrogen",
-          "link": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-          "publishedAt": "2026-11-12T18:00:50.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        }
-      ],
+      "items": [],
       "sources": [
         {
           "name": "Google DeepMind Blog",
-          "ok": true,
-          "error": null
+          "ok": false,
+          "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
         }
       ]
     },
@@ -135,6 +102,14 @@
     {
       "vendor": "GitHub",
       "items": [
+        {
+          "title": "Copilot code review billing will default to the organization",
+          "link": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+          "publishedAt": "2026-11-25T22:18:03.000Z",
+          "rawSummary": "If you haven’t chosen how to bill Copilot code review for members with a Copilot license, those reviews will be billed to your organization starting December 30, 2026. To keep…\nThe post Copilot code review billing will default to the organization appeared first on The GitHub Blog.",
+          "summary_fr": "If you haven’t chosen how to bill Copilot code review for members with a Copilot license, those reviews will be billed to your organization starting December 30, 2026. To keep…\nThe post Copilot code review billing will default to the organization appeared first on The GitHub Blog.",
+          "diff_type": "updated"
+        },
         {
           "title": "More predictable notifications on GitHub.com",
           "link": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
@@ -190,14 +165,6 @@
           "rawSummary": "GitHub Enterprise Server (GHES) 3.23 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.23 release: When working in GitHub Projects, you…\nThe post GitHub Enterprise Server 3.23 release candidate appeared first on The GitHub Blog.",
           "summary_fr": "GitHub Enterprise Server (GHES) 3.23 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.23 release: When working in GitHub Projects, you…\nThe post GitHub Enterprise Server 3.23 release candidate appeared first on The GitHub Blog.",
           "diff_type": "updated"
-        },
-        {
-          "title": "Pin your favorite repositories to your dashboard",
-          "link": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
-          "publishedAt": "2026-11-20T14:12:05.000Z",
-          "rawSummary": "Editor’s note (November 23, 2026): We have temporarily rolled back this change while we improve the experience based on user feedback. Choose which repositories appear on the Dashboard with the…\nThe post Pin your favorite repositories to your dashboard appeared first on The GitHub Blog.",
-          "summary_fr": "Editor’s note (November 23, 2026): We have temporarily rolled back this change while we improve the experience based on user feedback. Choose which repositories appear on the Dashboard with the…\nThe post Pin your favorite repositories to your dashboard appeared first on The GitHub Blog.",
-          "diff_type": "updated"
         }
       ],
       "sources": [
@@ -212,6 +179,38 @@
       "vendor": "Hugging Face",
       "items": [
         {
+          "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "publishedAt": "2026-11-26T11:37:17.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "publishedAt": "2026-11-26T05:05:36.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "link": "https://huggingface.co/blog/training-swarms",
+          "publishedAt": "2026-11-26T00:00:00.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
+          "title": "Where scientists draw the line on AI agents",
+          "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "publishedAt": "2026-11-25T18:52:55.000Z",
+          "rawSummary": "",
+          "summary_fr": "",
+          "diff_type": "updated"
+        },
+        {
           "title": "An Indic Voice Agent with CUGA",
           "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
           "publishedAt": "2026-11-25T10:22:09.000Z",
@@ -220,17 +219,9 @@
           "diff_type": "updated"
         },
         {
-          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-          "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-          "publishedAt": "2026-11-24T16:34:13.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "link": "https://huggingface.co/blog/allenai/robotrack",
-          "publishedAt": "2026-11-23T17:20:37.000Z",
+          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+          "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "publishedAt": "2026-11-25T00:00:00.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
@@ -247,30 +238,6 @@
           "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
           "link": "https://huggingface.co/blog/inkling2mini",
           "publishedAt": "2026-11-20T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-          "link": "https://huggingface.co/blog/harness-adapters-at-scale",
-          "publishedAt": "2026-11-20T00:00:00.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-          "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-          "publishedAt": "2026-11-18T19:54:56.000Z",
-          "rawSummary": "",
-          "summary_fr": "",
-          "diff_type": "updated"
-        },
-        {
-          "title": "Why your fine-tuning job takes longer than the FLOPs say",
-          "link": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-          "publishedAt": "2026-11-18T18:53:43.000Z",
           "rawSummary": "",
           "summary_fr": "",
           "diff_type": "updated"
